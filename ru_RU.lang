@@ -149,8 +149,8 @@ item.Orange.name=Апельсин
 item.Peach.name=Персик
 item.Plum.name=Слива
 
-item.FruitSapling.Green Apple.name=Яблоня зелёных яблок
-item.FruitSapling.Red Apple.name=Яблоня красных яблок
+item.FruitSapling.Green Apple.name=Саженец зелёных яблок
+item.FruitSapling.Red Apple.name=Саженец красных яблок
 item.FruitSapling.Banana.name=Саженец банановой пальмы
 item.FruitSapling.Cherry.name=Сеженец вишни
 item.FruitSapling.Lemon.name=Саженец лимона
