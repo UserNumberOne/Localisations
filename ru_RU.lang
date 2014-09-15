@@ -1,17 +1,17 @@
 #ru_RU
-#This is the Main language configuration file
+#Это главный конфигурационный файл.
 #
-#If you want to color code the text then I recommend you visit http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
-#To create the § symbol which is used for assigning a color to the following text press Alt + 21 on Windows. For other OSes, view the above link.
-#This file needs to be UTF-8 encoded to work with MC 1.7+
+#Если вы хотите изменить цвет текста, рекомендую посетить http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
+#Для создания симфола '§' Зажмите Alt + 21 на Windows. Для других ОС ищите сами =)
+#Этот файл должен быть кодирован в UTF-8 для работы с MC 1.7+
 
-generator.TFCDefault=TFC Default
-generator.TFCFlat=TFC Flat
+generator.TFCDefault=TFC Обычный
+generator.TFCFlat=TFC Плоский
 
-key.ToolMode=Cycle Tool Mode
-key.LockTool=Lock Tool Location
+key.ToolMode=Изменить режим инструмента
+key.LockTool=Блокировка местоположение инструмента
 
-effect.bleed=Bleeding
+effect.bleed=Кровотечение
 
 #===================
 #= Яйца призывания =
@@ -43,36 +43,36 @@ entity.fishTFC.name=Оукнь
 #==============
 #= Достижения =
 #==============
-achievement.achLooseRock=Definitely a rock
-achievement.achLooseRock.desc=Pick up a rock
-achievement.achSmallOre=No stone unturned
-achievement.achSmallOre.desc=Find an ore nugget
-achievement.achWildVegetable=Gatherer
-achievement.achWildVegetable.desc=Find a wild vegetable
-achievement.achRutabaga=Stupid onions...
-achievement.achRutabaga.desc=Find a rutabaga
-achievement.achQuern=The Grind
-achievement.achQuern.desc=Use a quern
-achievement.achStoneAge=Paleolithic!
-achievement.achStoneAge.desc=Knap a stone tool to enter the Stone Age
-achievement.achCopperAge=Chalcolithic!
-achievement.achCopperAge.desc=Cast something in metal to enter the Copper Age
-achievement.achSaw=Carpenter
-achievement.achSaw.desc=Craft a saw
-achievement.achAnvil=Hammer Time
-achievement.achAnvil.desc=Make a stone anvil
-achievement.achPickaxe=Time to Mine! (finally)
-achievement.achPickaxe.desc=Make a pickaxe
-achievement.achDiamond=DIAM- oh wait, no
-achievement.achDiamond.desc=Find a diamond
-achievement.achLimonite=LI-MO-NIIITE!
-achievement.achLimonite.desc=Mine some limonite
-achievement.achBronzeAge=The Bronze Age
-achievement.achBronzeAge.desc=Craft a bronze anvil to enter the Bronze Age
-achievement.achIronAge=The Iron Age
-achievement.achIronAge.desc=Mine an iron bloom to enter the Iron Age
-achievement.achPokeCreeper=Steve Irwin
-achievement.achPokeCreeper.desc=Poke it with a stick
+achievement.achLooseRock=Однозначно камень
+achievement.achLooseRock.desc=Подберите камень
+achievement.achSmallOre=Нет камня на камне
+achievement.achSmallOre.desc=Найдите рудный самородок.
+achievement.achWildVegetable=Собиратель
+achievement.achWildVegetable.desc=Найдите дикие овощи.
+achievement.achRutabaga=Дурацкие луки ...
+achievement.achRutabaga.desc=Найдите брюкву.
+achievement.achQuern=Измельчить
+achievement.achQuern.desc=Используйте нижний жёрнов.
+achievement.achStoneAge=Палеолитик!
+achievement.achStoneAge.desc=Сделайте каменный инструмент для входа в каменный век.
+achievement.achCopperAge=Халколит!
+achievement.achCopperAge.desc=Сделайте что-то из металла, чтобы войти в медный век.
+achievement.achSaw=Плотник
+achievement.achSaw.desc=Сделайте пилу.
+achievement.achAnvil=Время молота!
+achievement.achAnvil.desc=Сделайте каменную наковальню.
+achievement.achPickaxe=Время шахт!
+achievement.achPickaxe.desc=Сделайте кирку.
+achievement.achDiamond=Алмазы!!!
+achievement.achDiamond.desc=Найдите алмазы.
+achievement.achLimonite=ЛИ-МО-НИИИИТ!!!
+achievement.achLimonite.desc=Найдите лимонит.
+achievement.achBronzeAge=Бронзовый век
+achievement.achBronzeAge.desc=Сделайте бронзовую наковальню, чтобы войти в бронзовый век.
+achievement.achIronAge=Железный век!
+achievement.achIronAge.desc=Откопайте железо, чтобы войти в железный век
+achievement.achPokeCreeper=Стив Ирвин
+achievement.achPokeCreeper.desc=Ткните его палкой
 
 #===========
 #= Команды =
