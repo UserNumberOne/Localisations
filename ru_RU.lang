@@ -77,77 +77,77 @@ achievement.achPokeCreeper.desc=Ткните его палкой
 #===========
 #= Команды =
 #===========
-commands.transferTamed.noTamed=No valid animals in range!
-commands.transferTamed.tooMany=Too many animals in range!
-commands.transferTamed.wrongOwner=That doesn't belong to you!
-commands.transferTamed.sameTarget=You can't transfer to yourself!
-commands.transferTamed.display.incoming=An animal has been transferred to you by %s!
-commands.transferTamed.display.outgoing=You've transferred an animal to %s!
-commands.transferTamed.wrongSender=You can't transfer animals!
+commands.transferTamed.noTamed=В диапазоне нет животных!
+commands.transferTamed.tooMany=Слишком много животных в диапазоне!
+commands.transferTamed.wrongOwner=Это не принадлежит вам!
+commands.transferTamed.sameTarget=Вы не можете передавать для себя!  #???
+commands.transferTamed.display.incoming=%s передал вам животное!
+commands.transferTamed.display.outgoing=Вы отдали животное %s!
+commands.transferTamed.wrongSender=Вы не можете передавать животных!
 
 #=======
 #= Еда =
 #=======
-item.MealGeneric.name=Meal
-item.meal.terrible=Terrible
-item.meal.poor=Poor
-item.meal.decent=Decent
-item.meal.good=Good
-item.meal.great=Great
-item.meal.fantastic=Fantastic
+item.MealGeneric.name=Еда
+item.meal.terrible=Ужасная
+item.meal.poor=Плохая
+item.meal.decent=Достойная
+item.meal.good=Хорошая
+item.meal.great=Отличная
+item.meal.fantastic=Фантастическая
 
 #== Зерна ==
-item.Barley Bread.name=Barley Bread
-item.Corn Bread.name=Cornbread
-item.Oat Bread.name=Oat Bread
-item.Rice Bread.name=Rice Bread
-item.Rye Bread.name=Rye Bread
-item.Wheat Bread.name=Wheat Bread
+item.Barley Bread.name=Ячменный хлеб
+item.Corn Bread.name=Кукурузный хлеб
+item.Oat Bread.name=Хлеб из овса
+item.Rice Bread.name=Хлеб из риса
+item.Rye Bread.name=Ржаной хлеб
+item.Wheat Bread.name=Белый хлеб
 
-item.Barley Whole.name=Barley
-item.Maize Ear.name=Maize Ear
-item.Oat Whole.name=Oat
-item.Rice Whole.name=Rice
-item.Rye Whole.name=Rye
-item.Wheat Whole.name=Wheat
+item.Barley Whole.name=Ячмень
+item.Maize Ear.name=Кукуруза
+item.Oat Whole.name=Овес
+item.Rice Whole.name=Рис
+item.Rye Whole.name=Рожь
+item.Wheat Whole.name=Пшеница
 
-item.Barley Grain.name=Barley Grain
-item.Oat Grain.name=Oat Grain
-item.Rice Grain.name=Rice Grain
-item.Rye Grain.name=Rye Grain
-item.Wheat Grain.name=Wheat Grain
+item.Barley Grain.name=Зерно ячменя
+item.Oat Grain.name=Овсяное зерно
+item.Rice Grain.name=Зерно риса
+item.Rye Grain.name=Ржаное зерно
+item.Wheat Grain.name=Зерно пшеницы
 
-item.Barley Ground.name=Barley Flour
-item.Cornmeal Ground.name=Cornmeal
-item.Oat Ground.name=Oat Flour
-item.Rice Ground.name=Rice Flour
-item.Rye Ground.name=Rye Flour
-item.Wheat Ground.name=Wheat Flour
+item.Barley Ground.name=Ячменная мука
+item.Cornmeal Ground.name=Кукурузная мука
+item.Oat Ground.name=Овсяная мука
+item.Rice Ground.name=Рисовая мука
+item.Rye Ground.name=Ржаная мука
+item.Wheat Ground.name=Пшеничная мука
 
-item.Barley Dough.name=Barley Dough
-item.Cornmeal Dough.name=Cornmeal Dough
-item.Oat Dough.name=Oat Dough
-item.Rice Dough.name=Rice Dough
-item.Rye Dough.name=Rye Dough
-item.Wheat Dough.name=Wheat Dough
+item.Barley Dough.name=Ячменное тесто
+item.Cornmeal Dough.name=Кукурузное тесто
+item.Oat Dough.name=Овсяное тесто
+item.Rice Dough.name=Рисовое тесто
+item.Rye Dough.name=Ржаное тесто
+item.Wheat Dough.name=Пшеничное тесто
 
-item.Seeds Barley.name=Barley Seeds
-item.Seeds Maize.name=Maize Seeds
-item.Seeds Oat.name=Oat Seeds
-item.Seeds Rice.name=Rice Seeds
-item.Seeds Rye.name=Rye Seeds
-item.Seeds Wheat.name=Wheat Seeds
+item.Seeds Barley.name=Семена ячменя
+item.Seeds Maize.name=Семена кукурузы
+item.Seeds Oat.name=Семена овса
+item.Seeds Rice.name=Семена риса
+item.Seeds Rye.name=Семена ржи
+item.Seeds Wheat.name=Семена пшеницы
 
 #== Фрукты ==
-item.Green Apple.name=Green Apple
-item.Red Apple.name=Red Apple
-item.Banana.name=Banana
-item.Cherry.name=Cherry
-item.Lemon.name=Lemon
-item.Olive.name=Olive
-item.Orange.name=Orange
-item.Peach.name=Peach
-item.Plum.name=Plum
+item.Green Apple.name=Зелёное яблоко
+item.Red Apple.name=Красное яблоко
+item.Banana.name=Банан
+item.Cherry.name=Вишня
+item.Lemon.name=Лимон
+item.Olive.name=Оливки
+item.Orange.name=Апельсин
+item.Peach.name=Персик
+item.Plum.name=Слива
 
 item.FruitSapling.Green Apple.name=Green Apple Tree Sapling
 item.FruitSapling.Red Apple.name=Red Apple Tree Sapling
