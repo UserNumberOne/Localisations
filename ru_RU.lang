@@ -9,7 +9,7 @@ generator.TFCDefault=TFC Обычный
 generator.TFCFlat=TFC Плоский
 
 key.ToolMode=Изменить режим инструмента
-key.LockTool=Блокировка местоположение инструмента
+key.LockTool=Блокировка местоположения инструмента #?
 
 effect.bleed=Кровотечение
 
@@ -49,7 +49,7 @@ achievement.achSmallOre=Нет камня на камне
 achievement.achSmallOre.desc=Найдите рудный самородок.
 achievement.achWildVegetable=Собиратель
 achievement.achWildVegetable.desc=Найдите дикие овощи.
-achievement.achRutabaga=Дурацкие луки ...
+achievement.achRutabaga=Дурацкий лук ...
 achievement.achRutabaga.desc=Найдите брюкву.
 achievement.achQuern=Измельчить
 achievement.achQuern.desc=Используйте нижний жёрнов.
@@ -253,128 +253,128 @@ item.Whiskey.name=Виски
 #============
 #= Керамика =
 #============
-item.Clay.Clay.name=Clay
-item.Clay.Fire Clay.name=Fire Clay
+item.Clay.Clay.name=Глина
+item.Clay.Fire Clay.name=Огнеупорная глина
 
-item.clay.clayflatlight.name=Flat Clay Light
-item.clay.clayflatdark.name=Flat Clay Dark
-item.clay.clayflatfire.name=Flat Fire Clay
-item.clay.clayflatdarkfire.name=Flat Fire Clay Dark
+item.clay.clayflatlight.name=Плоская светлая глина #?
+item.clay.clayflatdark.name=Плоская тёмная глина #?
+item.clay.clayflatfire.name=Плоская светлая огнеупорная глина #?
+item.clay.clayflatdarkfire.name=Плоская тёмная огнеупорная глина #?
 
-item.Jug.Clay Jug.name=Clay Jug
-item.Jug.Ceramic Jug.name=Ceramic Jug
-item.Jug.Water Jug.name=Water Jug
+item.Jug.Clay Jug.name=Глиняный кувшин
+item.Jug.Ceramic Jug.name=Керамический кувшин
+item.Jug.Water Jug.name=Кувшин с водой
 
-item.Pot.Clay Pot.name=Clay Pot
-item.Pot.Ceramic Pot.name=Ceramic Pot
+item.Pot.Clay Pot.name=Глиняный горшок
+item.Pot.Ceramic Pot.name=Керамический горшок
 
-item.Small Vessel.Clay Vessel.name=Clay Vessel
-item.Small Vessel.Ceramic Vessel.name=Ceramic Vessel
+item.Small Vessel.Clay Vessel.name=Глиняный сосуд
+item.Small Vessel.Ceramic Vessel.name=Керамический сосуд
 
-item.Large Vessel.Clay Vessel [Large].name=Clay Vessel [Large]
-item.Large Vessel.Ceramic Vessel [Large].name=Ceramic Vessel [Large]
+item.Large Vessel.Clay Vessel [Large].name=Глиняный сосуд [Большой]
+item.Large Vessel.Ceramic Vessel [Large].name=Керамический сосуд [Большой]
 
-item.Mold.Clay Mold.name=Clay Mold
-item.Mold.Ceramic Mold.name=Ceramic Mold
+item.Mold.Clay Mold.name=Глиняная форма
+item.Mold.Ceramic Mold.name=Керамическая форма
 
-item.Axe Mold.Clay Mold Axe.name=Clay Axe Mold
-item.Axe Mold.Ceramic Mold Axe.name=Axe Mold
-item.Axe Mold.Ceramic Mold Axe Copper.name=Axe Mold (Copper)
-item.Axe Mold.Ceramic Mold Axe Bronze.name=Axe Mold (Bronze)
-item.Axe Mold.Ceramic Mold Axe Black Bronze.name=Axe Mold (Black Bronze)
-item.Axe Mold.Ceramic Mold Axe Bismuth Bronze.name=Axe Mold (Bismuth Bronze)
+item.Axe Mold.Clay Mold Axe.name=Глиняная форма топора
+item.Axe Mold.Ceramic Mold Axe.name=Форма топора
+item.Axe Mold.Ceramic Mold Axe Copper.name=Форма топора (Медь)
+item.Axe Mold.Ceramic Mold Axe Bronze.name=Форма топора (Бронза)
+item.Axe Mold.Ceramic Mold Axe Black Bronze.name=Форма топора (Чёрная бронза)
+item.Axe Mold.Ceramic Mold Axe Bismuth Bronze.name=Форма топора (Висмутовая бронза)
 
-item.Chisel Mold.Clay Mold Chisel.name=Clay Chisel Mold
-item.Chisel Mold.Ceramic Mold Chisel.name=Chisel Mold
-item.Chisel Mold.Ceramic Mold Chisel Copper.name=Chisel Mold (Copper)
-item.Chisel Mold.Ceramic Mold Chisel Bronze.name=Chisel Mold (Bronze)
-item.Chisel Mold.Ceramic Mold Chisel Black Bronze.name=Chisel Mold (Black Bronze)
-item.Chisel Mold.Ceramic Mold Chisel Bismuth Bronze.name=Chisel Mold (Bismuth Bronze)
+item.Chisel Mold.Clay Mold Chisel.name=Глиняная форма зубила
+item.Chisel Mold.Ceramic Mold Chisel.name=Форма зубила
+item.Chisel Mold.Ceramic Mold Chisel Copper.name=Форма зубила (Медь)
+item.Chisel Mold.Ceramic Mold Chisel Bronze.name=Форма зубила (Бронза)
+item.Chisel Mold.Ceramic Mold Chisel Black Bronze.name=Форма зубила (Чёрная бронза)
+item.Chisel Mold.Ceramic Mold Chisel Bismuth Bronze.name=Форма зубила (Висмутовая бронза)
 
-item.Hammer Mold.Clay Mold Hammer.name=Clay Hammer Mold
-item.Hammer Mold.Ceramic Mold Hammer.name=Hammer Mold
-item.Hammer Mold.Ceramic Mold Hammer Copper.name=Hammer Mold (Copper)
-item.Hammer Mold.Ceramic Mold Hammer Bronze.name=Hammer Mold (Bronze)
-item.Hammer Mold.Ceramic Mold Hammer Black Bronze.name=Hammer Mold (Black Bronze)
-item.Hammer Mold.Ceramic Mold Hammer Bismuth Bronze.name=Hammer Mold (Bismuth Bronze)
+item.Hammer Mold.Clay Mold Hammer.name=Глиняная форма молота
+item.Hammer Mold.Ceramic Mold Hammer.name=Форма молота
+item.Hammer Mold.Ceramic Mold Hammer Copper.name=Форма молота (Медь)
+item.Hammer Mold.Ceramic Mold Hammer Bronze.name=Форма молота (Бронза)
+item.Hammer Mold.Ceramic Mold Hammer Black Bronze.name=Форма молота (Чёрная бронза)
+item.Hammer Mold.Ceramic Mold Hammer Bismuth Bronze.name=Форма молота (Висмутовая бронза)
 
-item.Hoe Mold.Clay Mold Hoe.name=Clay Hoe Mold
-item.Hoe Mold.Ceramic Mold Hoe.name=Hoe Mold
-item.Hoe Mold.Ceramic Mold Hoe Copper.name=Hoe Mold (Copper)
-item.Hoe Mold.Ceramic Mold Hoe Bronze.name=Hoe Mold (Bronze)
-item.Hoe Mold.Ceramic Mold Hoe Black Bronze.name=Hoe Mold (Black Bronze)
-item.Hoe Mold.Ceramic Mold Hoe Bismuth Bronze.name=Hoe Mold (Bismuth Bronze)
+item.Hoe Mold.Clay Mold Hoe.name=Глиняная форма мотыги
+item.Hoe Mold.Ceramic Mold Hoe.name=Форма мотыги
+item.Hoe Mold.Ceramic Mold Hoe Copper.name=Форма мотыги (Медь)
+item.Hoe Mold.Ceramic Mold Hoe Bronze.name=Форма мотыги (Бронза)
+item.Hoe Mold.Ceramic Mold Hoe Black Bronze.name=Форма мотыги (Чёрная бронза)
+item.Hoe Mold.Ceramic Mold Hoe Bismuth Bronze.name=Форма мотыги (Висмутовая бронза)
 
-item.Knife Mold.Clay Mold Knife.name=Clay Knife Mold
-item.Knife Mold.Ceramic Mold Knife.name=Knife Mold
-item.Knife Mold.Ceramic Mold Knife Copper.name=Knife Mold (Copper)
-item.Knife Mold.Ceramic Mold Knife Bronze.name=Knife Mold (Bronze)
-item.Knife Mold.Ceramic Mold Knife Black Bronze.name=Knife Mold (Black Bronze)
-item.Knife Mold.Ceramic Mold Knife Bismuth Bronze.name=Knife Mold (Bismuth Bronze)
+item.Knife Mold.Clay Mold Knife.name=Глиняная форма ножа
+item.Knife Mold.Ceramic Mold Knife.name=Форма ножа
+item.Knife Mold.Ceramic Mold Knife Copper.name=Форма ножа (Медь)
+item.Knife Mold.Ceramic Mold Knife Bronze.name=Форма ножа (Бронза)
+item.Knife Mold.Ceramic Mold Knife Black Bronze.name=Форма ножа (Чёрная бронза)
+item.Knife Mold.Ceramic Mold Knife Bismuth Bronze.name=Форма ножа (Висмутовая бронза)
 
-item.Javelin Mold.Clay Mold Javelin.name=Clay Javelin Head Mold
-item.Javelin Mold.Ceramic Mold Javelin.name=Javelin Head Mold
-item.Javelin Mold.Ceramic Mold Javelin Copper.name=Javelin Head Mold (Copper)
-item.Javelin Mold.Ceramic Mold Javelin Bronze.name=Javelin Head Mold (Bronze)
-item.Javelin Mold.Ceramic Mold Javelin Black Bronze.name=Javelin Head Mold (Black Bronze)
-item.Javelin Mold.Ceramic Mold Javelin Bismuth Bronze.name=Javelin Head Mold (Bismuth Bronze)
+item.Javelin Mold.Clay Mold Javelin.name=Глиняная форма наконечника копья
+item.Javelin Mold.Ceramic Mold Javelin.name=Форма наконечника копья
+item.Javelin Mold.Ceramic Mold Javelin Copper.name=Форма наконечника копья (Медь)
+item.Javelin Mold.Ceramic Mold Javelin Bronze.name=Форма наконечника копья (Бронза)
+item.Javelin Mold.Ceramic Mold Javelin Black Bronze.name=Форма наконечника копья (Чёрная бронза)
+item.Javelin Mold.Ceramic Mold Javelin Bismuth Bronze.name=Форма наконечника копья (Висмутовая бронза)
 
-item.Mace Mold.Clay Mold Mace.name=Clay Mace Mold
-item.Mace Mold.Ceramic Mold Mace.name=Mace Mold
-item.Mace Mold.Ceramic Mold Mace Copper.name=Mace Mold (Copper)
-item.Mace Mold.Ceramic Mold Mace Bronze.name=Mace Mold (Bronze)
-item.Mace Mold.Ceramic Mold Mace Black Bronze.name=Mace Mold (Black Bronze)
-item.Mace Mold.Ceramic Mold Mace Bismuth Bronze.name=Mace Mold (Bismuth Bronze)
+item.Mace Mold.Clay Mold Mace.name=Глиняная форма булавы
+item.Mace Mold.Ceramic Mold Mace.name=Форма булавы
+item.Mace Mold.Ceramic Mold Mace Copper.name=Форма булавы (Медь)
+item.Mace Mold.Ceramic Mold Mace Bronze.name=Форма булавы (Бронза)
+item.Mace Mold.Ceramic Mold Mace Black Bronze.name=Форма булавы (Чёрная бронза)
+item.Mace Mold.Ceramic Mold Mace Bismuth Bronze.name=Форма булавы (Висмутовая бронза)
 
-item.Pick Mold.Clay Mold Pick.name=Clay Pick Mold
-item.Pick Mold.Ceramic Mold Pick.name=Pick Mold
-item.Pick Mold.Ceramic Mold Pick Copper.name=Pick Mold (Copper)
-item.Pick Mold.Ceramic Mold Pick Bronze.name=Pick Mold (Bronze)
-item.Pick Mold.Ceramic Mold Pick Black Bronze.name=Pick Mold (Black Bronze)
-item.Pick Mold.Ceramic Mold Pick Bismuth Bronze.name=Pick Mold (Bismuth Bronze)
+item.Pick Mold.Clay Mold Pick.name=Глиняная форма кирки
+item.Pick Mold.Ceramic Mold Pick.name=Форма кирки
+item.Pick Mold.Ceramic Mold Pick Copper.name=Форма кирки (Медь)
+item.Pick Mold.Ceramic Mold Pick Bronze.name=Форма кирки (Бронза)
+item.Pick Mold.Ceramic Mold Pick Black Bronze.name=Форма кирки (Чёрная бронза)
+item.Pick Mold.Ceramic Mold Pick Bismuth Bronze.name=Форма кирки (Висмутовая бронза)
 
-item.ProPick Mold.Clay Mold ProPick.name=Clay ProPick Mold
-item.ProPick Mold.Ceramic Mold ProPick.name=ProPick Mold
-item.ProPick Mold.Ceramic Mold ProPick Copper.name=ProPick Mold (Copper)
-item.ProPick Mold.Ceramic Mold ProPick Bronze.name=ProPick Mold (Bronze)
-item.ProPick Mold.Ceramic Mold ProPick Black Bronze.name=ProPick Mold (Black Bronze)
-item.ProPick Mold.Ceramic Mold ProPick Bismuth Bronze.name=ProPick Mold (Bismuth Bronze)
+item.ProPick Mold.Clay Mold ProPick.name=Глиняная форма молотка старателя
+item.ProPick Mold.Ceramic Mold ProPick.name=Форма молотка старателя
+item.ProPick Mold.Ceramic Mold ProPick Copper.name=Форма молотка старателя (Медь)
+item.ProPick Mold.Ceramic Mold ProPick Bronze.name=Форма молотка старателя (Бронза)
+item.ProPick Mold.Ceramic Mold ProPick Black Bronze.name=Форма молотка старателя (Чёрная бронза)
+item.ProPick Mold.Ceramic Mold ProPick Bismuth Bronze.name=Форма молотка старателя (Висмутовая бронза)
 
-item.Saw Mold.Clay Mold Saw.name=Clay Saw Mold
-item.Saw Mold.Ceramic Mold Saw.name=Saw Mold
-item.Saw Mold.Ceramic Mold Saw Copper.name=Saw Mold (Copper)
-item.Saw Mold.Ceramic Mold Saw Bronze.name=Saw Mold (Bronze)
-item.Saw Mold.Ceramic Mold Saw Black Bronze.name=Saw Mold (Black Bronze)
-item.Saw Mold.Ceramic Mold Saw Bismuth Bronze.name=Saw Mold (Bismuth Bronze)
+item.Saw Mold.Clay Mold Saw.name=Глиняная форма пилы
+item.Saw Mold.Ceramic Mold Saw.name=Форма пилы
+item.Saw Mold.Ceramic Mold Saw Copper.name=Форма пилы (Медь)
+item.Saw Mold.Ceramic Mold Saw Bronze.name=Форма пилы (Бронза)
+item.Saw Mold.Ceramic Mold Saw Black Bronze.name=Форма пилы (Чёрная бронза)
+item.Saw Mold.Ceramic Mold Saw Bismuth Bronze.name=Форма пилы (Висмутовая бронза)
 
-item.Scythe Mold.Clay Mold Scythe.name=Clay Scythe Mold
-item.Scythe Mold.Ceramic Mold Scythe.name=Scythe Mold
-item.Scythe Mold.Ceramic Mold Scythe Copper.name=Scythe Mold (Copper)
-item.Scythe Mold.Ceramic Mold Scythe Bronze.name=Scythe Mold (Bronze)
-item.Scythe Mold.Ceramic Mold Scythe Black Bronze.name=Scythe Mold (Black Bronze)
-item.Scythe Mold.Ceramic Mold Scythe Bismuth Bronze.name=Scythe Mold (Bismuth Bronze)
+item.Scythe Mold.Clay Mold Scythe.name=Глиняная форма косы
+item.Scythe Mold.Ceramic Mold Scythe.name=Форма косы
+item.Scythe Mold.Ceramic Mold Scythe Copper.name=Форма косы (Медь)
+item.Scythe Mold.Ceramic Mold Scythe Bronze.name=Форма косы (Бронза)
+item.Scythe Mold.Ceramic Mold Scythe Black Bronze.name=Форма косы (Чёрная бронза)
+item.Scythe Mold.Ceramic Mold Scythe Bismuth Bronze.name=Форма косы (Висмутовая бронза)
 
-item.Shovel Mold.Clay Mold Shovel.name=Clay Shovel Mold
-item.Shovel Mold.Ceramic Mold Shovel.name=Shovel Mold
-item.Shovel Mold.Ceramic Mold Shovel Copper.name=Shovel Mold (Copper)
-item.Shovel Mold.Ceramic Mold Shovel Bronze.name=Shovel Mold (Bronze)
-item.Shovel Mold.Ceramic Mold Shovel Black Bronze.name=Shovel Mold (Black Bronze)
-item.Shovel Mold.Ceramic Mold Shovel Bismuth Bronze.name=Shovel Mold (Bismuth Bronze)
+item.Shovel Mold.Clay Mold Shovel.name=Глиняная форма лопаты
+item.Shovel Mold.Ceramic Mold Shovel.name=Форма лопаты
+item.Shovel Mold.Ceramic Mold Shovel Copper.name=Форма лопаты (Медь)
+item.Shovel Mold.Ceramic Mold Shovel Bronze.name=Форма лопаты (Бронза)
+item.Shovel Mold.Ceramic Mold Shovel Black Bronze.name=Форма лопаты (Чёрная бронза)
+item.Shovel Mold.Ceramic Mold Shovel Bismuth Bronze.name=Форма лопаты (Висмутовая бронза)
 
-item.Sword Mold.Clay Mold Sword.name=Clay Sword Mold
-item.Sword Mold.Ceramic Mold Sword.name=Sword Mold
-item.Sword Mold.Ceramic Mold Sword Copper.name=Sword Mold (Copper)
-item.Sword Mold.Ceramic Mold Sword Bronze.name=Sword Mold (Bronze)
-item.Sword Mold.Ceramic Mold Sword Black Bronze.name=Sword Mold (Black Bronze)
-item.Sword Mold.Ceramic Mold Sword Bismuth Bronze.name=Sword Mold (Bismuth Bronze)
+item.Sword Mold.Clay Mold Sword.name=Глиняная форма мечя
+item.Sword Mold.Ceramic Mold Sword.name=Форма мечя
+item.Sword Mold.Ceramic Mold Sword Copper.name=Форма мечя (Медь)
+item.Sword Mold.Ceramic Mold Sword Bronze.name=Форма мечя (Бронза)
+item.Sword Mold.Ceramic Mold Sword Black Bronze.name=Форма мечя (Чёрная бронза)
+item.Sword Mold.Ceramic Mold Sword Bismuth Bronze.name=Форма мечя (Висмутовая бронза)
 
-item.Spindle.name=Spindle
-item.Spindle Head.Clay Spindle.name=Clay Spindle
-item.Spindle Head.Spindle Head.name=Spindle Head
+item.Spindle.name=Веретено
+item.Spindle Head.Clay Spindle.name=Глиняное веретено
+item.Spindle Head.Spindle Head.name=Головка веретена
 
-item.Fire Brick.Fire Brick.name=Fire Brick
-item.Fire Brick.Clay Fire Brick.name=Clay Fire Brick
-tile.FireBrick.name=Fire Brick Block
+item.Fire Brick.Fire Brick.name=Огнеупорный кирпич
+item.Fire Brick.Clay Fire Brick.name=Необожженый огнеупорный кирпич
+tile.FireBrick.name=Огнеупорный кирпичный блок
 
 #= Камни =
 item.Agate.Chipped.name=Chipped Agate
