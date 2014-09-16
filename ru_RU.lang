@@ -80,7 +80,7 @@ achievement.achPokeCreeper.desc=Ткните его палкой
 commands.transferTamed.noTamed=В диапазоне нет животных!
 commands.transferTamed.tooMany=Слишком много животных в диапазоне!
 commands.transferTamed.wrongOwner=Это не принадлежит вам!
-commands.transferTamed.sameTarget=Вы не можете передавать для себя!  #???
+commands.transferTamed.sameTarget=Вы не можете передавать для себя!
 commands.transferTamed.display.incoming=%s передал вам животное!
 commands.transferTamed.display.outgoing=Вы отдали животное %s!
 commands.transferTamed.wrongSender=Вы не можете передавать животных!
@@ -197,58 +197,58 @@ item.Strawberry Leaf.name=Лист клубники
 item.Wintergreen Leaf.name=Лист брусники
 
 #== Протеин ==
-item.Beef.name=Beef
-item.Calamari.name=Calamari
-item.egg.name=Egg
-item.Fish.name=Fish
-item.Mutton.name=Mutton
-item.Porkchop.name=Pork
-item.Chicken.name=Poultry
-item.Venison.name=Venison
-item.HorseMeat.name=Horse Meat
-item.Egg Cooked.name=Cooked Egg
+item.Beef.name=Говядина
+item.Calamari.name=Кальмар
+item.egg.name=Яйцо
+item.Fish.name=Рыба
+item.Mutton.name=Баранина
+item.Porkchop.name=Свинина
+item.Chicken.name=Курятина
+item.Venison.name=Оленина
+item.HorseMeat.name=Конина
+item.Egg Cooked.name=Яичница
 
-item.Soybeans.name=Soybeans
-item.Seeds Soybean.name=Soybean Seeds
+item.Soybeans.name=Соя
+item.Seeds Soybean.name=Семена сои
 
 #== Молочное ==
 item.Cheese.name=Сыр
 
 #== Овощи ==
-item.Green Bell Pepper.name=Green Bell Pepper
-item.Red Bell Pepper.name=Red Bell Pepper
-item.Yellow Bell Pepper.name=Yellow Bell Pepper
-item.Cabbage.name=Cabbage
-item.Carrot.name=Carrot
-item.Garlic.name=Garlic
-item.Greenbeans.name=Green Beans
-item.Onion.name=Onion
-item.Potato.name=Potato
-item.Rutabaga.name=Rutabaga
-item.Squash.name=Squash
-item.Tomato.name=Tomato
+item.Green Bell Pepper.name=Зеленый перец
+item.Red Bell Pepper.name=Красный перец
+item.Yellow Bell Pepper.name=Жёлтый перец
+item.Cabbage.name=Капуста
+item.Carrot.name=Морковь
+item.Garlic.name=Чеснок
+item.Greenbeans.name=Зеленая фасоль
+item.Onion.name=Лук
+item.Potato.name=Картофель
+item.Rutabaga.name=Брюква
+item.Squash.name=Кабачок
+item.Tomato.name=Помидор
 
-item.Seeds Red Bell Pepper.name=Red Bell Pepper Seeds
-item.Seeds Yellow Bell Pepper.name=Yellow Bell Pepper Seeds
-item.Seeds Cabbage.name=Cabbage Seeds
-item.Seeds Carrot.name=Carrot Seeds
-item.Seeds Garlic.name=Garlic Seeds
-item.Seeds Greenbean.name=Green Bean Seeds
-item.Seeds Onion.name=Onion Seeds
-item.Seeds Potato.name=Potato Seeds
-item.Seeds Rutabaga.name=Rutabaga Seeds
-item.Seeds Squash.name=Squash Seeds
-item.Seeds Tomato.name=Tomato Seeds
+item.Seeds Red Bell Pepper.name=Семена красного сладкого перца
+item.Seeds Yellow Bell Pepper.name=Семена жёлтого сладкого перца
+item.Seeds Cabbage.name=Семена капусты
+item.Seeds Carrot.name=Семена моркови
+item.Seeds Garlic.name=Семена чеснока
+item.Seeds Greenbean.name=Семена фасоли
+item.Seeds Onion.name=Семена лука
+item.Seeds Potato.name=Семена картофеля
+item.Seeds Rutabaga.name=Семена брюквы
+item.Seeds Squash.name=Семена кабачка
+item.Seeds Tomato.name=Семена помидора
 
 #== Алкоголь ==
-item.Glass Bottle.name=Empty Glass Bottle
-item.Beer.name=Beer
-item.Cider.name=Cider
-item.RyeWhiskey.name=Rye Whiskey
-item.Rum.name=Rum
-item.Sake.name=Sake
-item.Vodka.name=Vodka
-item.Whiskey.name=Whiskey
+item.Glass Bottle.name=Пустая стеклянная бутылка
+item.Beer.name=Пиво
+item.Cider.name=Сидр
+item.RyeWhiskey.name=Ржаной виски
+item.Rum.name=Ром
+item.Sake.name=Сакэ
+item.Vodka.name=Водка
+item.Whiskey.name=Виски
 
 #============
 #= Керамика =
