@@ -450,34 +450,34 @@ item.Tourmaline.Exquisite.name=Изысканный турмалин
 #===========
 #= Порошки =
 #===========
-item.dyePowder.black.name=Ink Sac
-item.dyePowder.blue.name=Lapis Lazuli
-item.dyePowder.brown.name=Cocoa Beans
-item.dyePowder.cyan.name=Cyan Dye
-item.dyePowder.gray.name=Gray Dye
-item.dyePowder.green.name=Green Dye
-item.dyePowder.lightBlue.name=Light Blue Dye
-item.dyePowder.lime.name=Lime Dye
-item.dyePowder.magenta.name=Magenta Dye
-item.dyePowder.orange.name=Orange Dye
-item.dyePowder.pink.name=Pink Dye
-item.dyePowder.purple.name=Purple Dye
-item.dyePowder.red.name=Red Dye
-item.dyePowder.silver.name=Light Gray Dye
-item.dyePowder.white.name=Bone Meal
-item.dyePowder.yellow.name=Yellow Dye
+item.dyePowder.black.name=Чернильный мешок
+item.dyePowder.blue.name=Лазурит
+item.dyePowder.brown.name=Зёрна какао
+item.dyePowder.cyan.name=Голубой краситель
+item.dyePowder.gray.name=Серый краситель
+item.dyePowder.green.name=Зеленый краситель
+item.dyePowder.lightBlue.name=Светло-синий краситель
+item.dyePowder.lime.name=Лаймовый краситель
+item.dyePowder.magenta.name=Пурпурный краситель
+item.dyePowder.orange.name=Оранжевый краситель
+item.dyePowder.pink.name=Розовый краситель
+item.dyePowder.purple.name=Фиолетовый краситель
+item.dyePowder.red.name=Красный краситель
+item.dyePowder.silver.name=Светло-серый краситель
+item.dyePowder.white.name=Костная мука
+item.dyePowder.yellow.name=Жёлтый краситель
 
-item.Coke.name=Coke
-item.Powder.Flux.name=Flux
-item.Powder.Graphite Powder.name=Graphite Powder
-item.Powder.Hematite Powder.name=Hematite Powder
-item.Powder.Kaolinite Powder.name=Kaolinite Powder
-item.Powder.Lapis Lazuli Powder.name=Lapis Lazuli Powder
-item.Powder.Limonite Powder.name=Limonite Powder
-item.Powder.Malachite Powder.name=Malachite Powder
-item.Powder.Salt.name=Salt
-item.Powder.Saltpeter Powder.name=Saltpeter Powder
-item.Powder.Sulfur Powder.name=Sulfur Powder
+item.Coke.name=Кокс
+item.Powder.Flux.name=Флюс
+item.Powder.Graphite Powder.name=Графитовый порошок
+item.Powder.Hematite Powder.name=Гематитовый порошок
+item.Powder.Kaolinite Powder.name=Каолинитовый порошок
+item.Powder.Lapis Lazuli Powder.name=Лазуритовый порошок
+item.Powder.Limonite Powder.name=Лимонитовый порошок
+item.Powder.Malachite Powder.name=Малахитовый порошок
+item.Powder.Salt.name=Соль
+item.Powder.Saltpeter Powder.name=Селитровый порошок
+item.Powder.Sulfur Powder.name=Серный порошок
 
 #==========
 #= Камень =
