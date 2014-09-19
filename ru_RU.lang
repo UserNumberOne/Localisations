@@ -926,6 +926,24 @@ item.Barrel.White Cedar.name=White Cedar Barrel
 item.Barrel.White Elm.name=White Elm Barrel
 item.Barrel.Willow.name=Willow Barrel
 
+item.Loom.Acacia.name=Acacia Loom
+item.Loom.Ash.name=Ash Loom
+item.Loom.Aspen.name=Aspen Loom
+item.Loom.Birch.name=Birch Loom
+item.Loom.Chestnut.name=Chestnut Loom
+item.Loom.Douglas Fir.name=Douglas Fir Loom
+item.Loom.Hickory.name=Hickory Loom
+item.Loom.Kapok.name=Kapok Loom
+item.Loom.Maple.name=Maple Loom
+item.Loom.Oak.name=Oak Loom
+item.Loom.Pine.name=Pine Loom
+item.Loom.Sequoia.name=Sequoia Loom
+item.Loom.Spruce.name=Spruce Loom
+item.Loom.Sycamore.name=Sycamore Loom
+item.Loom.White Cedar.name=White Cedar Loom
+item.Loom.White Elm.name=White Elm Loom
+item.Loom.Willow.name=Willow Loom
+
 #== Блоки из дерева ==
 tile.log.Acacia.name=Acacia Log
 tile.log2.Acacia.name=Acacia Log
@@ -1072,6 +1090,24 @@ tile.Barrel.White Cedar.name=White Cedar Barrel
 tile.Barrel.White Elm.name=White Elm Barrel
 tile.Barrel.Willow.name=Willow Barrel
 
+tile.Loom.Acacia.name=Acacia Loom
+tile.Loom.Ash.name=Ash Loom
+tile.Loom.Aspen.name=Aspen Loom
+tile.Loom.Birch.name=Birch Loom
+tile.Loom.Chestnut.name=Chestnut Loom
+tile.Loom.Douglas Fir.name=Douglas Fir Loom
+tile.Loom.Hickory.name=Hickory Loom
+tile.Loom.Kapok.name=Kapok Loom
+tile.Loom.Maple.name=Maple Loom
+tile.Loom.Oak.name=Oak Loom
+tile.Loom.Pine.name=Pine Loom
+tile.Loom.Sequoia.name=Sequoia Loom
+tile.Loom.Spruce.name=Spruce Loom
+tile.Loom.Sycamore.name=Sycamore Loom
+tile.Loom.White Cedar.name=White Cedar Loom
+tile.Loom.White Elm.name=White Elm Loom
+tile.Loom.Willow.name=Willow Loom
+
 tile.FenceTFC.Acacia.name=Acacia Fence
 tile.FenceTFC.Ash.name=Ash Fence
 tile.FenceTFC.Aspen.name=Aspen Fence
@@ -1126,41 +1162,23 @@ tile.ArmourStand.White Cedar.name=White Cedar Armor Stand
 tile.ArmourStand.White Elm.name=White Elm Armor Stand
 tile.ArmourStand.Willow.name=Willow Armor Stand
 
-tile.WoodSupportV2.Acacia.name=Vertical Acacia Support Beam
-tile.WoodSupportV.Ash.name=Vertical Ash Support Beam
-tile.WoodSupportV.Aspen.name=Vertical Aspen Support Beam
-tile.WoodSupportV.Birch.name=Vertical Birch Support Beam
-tile.WoodSupportV.Chestnut.name=Vertical Chestnut Support Beam
-tile.WoodSupportV.Douglas Fir.name=Vertical Douglas Fir Support Beam
-tile.WoodSupportV.Hickory.name=Vertical Hickory Support Beam
-tile.WoodSupportV.Kapok.name=Vertical Kapok Support Beam
-tile.WoodSupportV.Maple.name=Vertical Maple Support Beam
-tile.WoodSupportV.Oak.name=Vertical Oak Support Beam
-tile.WoodSupportV.Pine.name=Vertical Pine Support Beam
-tile.WoodSupportV.Sequoia.name=Vertical Sequoia Support Beam
-tile.WoodSupportV.Spruce.name=Vertical Spruce Support Beam
-tile.WoodSupportV.Sycamore.name=Vertical Sycamore Support Beam
-tile.WoodSupportV.White Cedar.name=Vertical White Cedar Support Beam
-tile.WoodSupportV.White Elm.name=Vertical White Elm Support Beam
-tile.WoodSupportV.Willow.name=Vertical Willow Support Beam
-
-tile.WoodSupportH2.Acacia.name=Horizontal Acacia Support Beam
-tile.WoodSupportH.Ash.name=Horizontal Ash Support Beam
-tile.WoodSupportH.Aspen.name=Horizontal Aspen Support Beam
-tile.WoodSupportH.Birch.name=Horizontal Birch Support Beam
-tile.WoodSupportH.Chestnut.name=Horizontal Chestnut Support Beam
-tile.WoodSupportH.Douglas Fir.name=Horizontal Douglas Fir Support Beam
-tile.WoodSupportH.Hickory.name=Horizontal Hickory Support Beam
-tile.WoodSupportH.Kapok.name=Horizontal Kapok Support Beam
-tile.WoodSupportH.Maple.name=Horizontal Maple Support Beam
-tile.WoodSupportH.Oak.name=Horizontal Oak Support Beam
-tile.WoodSupportH.Pine.name=Horizontal Pine Support Beam
-tile.WoodSupportH.Sequoia.name=Horizontal Sequoia Support Beam
-tile.WoodSupportH.Spruce.name=Horizontal Spruce Support Beam
-tile.WoodSupportH.Sycamore.name=Horizontal Sycamore Support Beam
-tile.WoodSupportH.White Cedar.name=Horizontal White Cedar Support Beam
-tile.WoodSupportH.White Elm.name=Horizontal White Elm Support Beam
-tile.WoodSupportH.Willow.name=Horizontal Willow Support Beam
+tile.WoodSupportV2.Acacia.name=Acacia Support Beam
+tile.WoodSupportV.Ash.name=Ash Support Beam
+tile.WoodSupportV.Aspen.name=Aspen Support Beam
+tile.WoodSupportV.Birch.name=Birch Support Beam
+tile.WoodSupportV.Chestnut.name=Chestnut Support Beam
+tile.WoodSupportV.Douglas Fir.name=Douglas Fir Support Beam
+tile.WoodSupportV.Hickory.name=Hickory Support Beam
+tile.WoodSupportV.Kapok.name=Kapok Support Beam
+tile.WoodSupportV.Maple.name=Maple Support Beam
+tile.WoodSupportV.Oak.name=Oak Support Beam
+tile.WoodSupportV.Pine.name=Pine Support Beam
+tile.WoodSupportV.Sequoia.name=Sequoia Support Beam
+tile.WoodSupportV.Spruce.name=Spruce Support Beam
+tile.WoodSupportV.Sycamore.name=Sycamore Support Beam
+tile.WoodSupportV.White Cedar.name=White Cedar Support Beam
+tile.WoodSupportV.White Elm.name=White Elm Support Beam
+tile.WoodSupportV.Willow.name=Willow Support Beam
 
 tile.Toolrack.Acacia.name=Acacia Tool Rack
 tile.Toolrack.Ash.name=Ash Tool Rack
@@ -1882,6 +1900,8 @@ item.Blueprint.name=Blueprint
 item.WoolYarn.name=Wool Yarn
 item.Wool.name=Wool
 item.WoolCloth.name=Wool Cloth
+item.SilkCloth.name=Silk Cloth
+item.BurlapCloth.name=Burlap Cloth
 item.Mortar.name=Mortar
 item.Vinegar.name=Vinegar
 
@@ -1949,16 +1969,21 @@ tile.Vine.name=Vine
 tile.SeaGrassStill.name=Seagrass
 tile.SeaGrassIce.name=Frozen Seagrass
 
+tile.Flowers.flower_nasturtium.name=Nasturtium
 tile.Flowers.flower_dandelion.name=Dandelion
-tile.Flowers.flower_rose.name=Red Rose
-tile.Flowers.flower_blue_orchid.name=Blue Orchid
-tile.Flowers.flower_allium.name=Allium
-tile.Flowers.flower_houstonia.name=Houstonia
-tile.Flowers.flower_tulip_red.name=Red Tulip
-tile.Flowers.flower_tulip_orange.name=Orange Tulip
-tile.Flowers.flower_tulip_white.name=White Tulip
-tile.Flowers.flower_tulip_pink.name=Pink Tulip
-tile.Flowers.flower_oxeye_daisy.name=Daisy
+tile.Flowers.flower_meads_milkweed.name=Meads Milkweed
+tile.Flowers.flower_tropical_milkweed.name=Tropical Milkweed
+tile.Flowers.flower_butterfly_milkweed.name=Butterfly Milkweed
+tile.Flowers.flower_calendula.name=Calendula
+tile.Flowers2.flower_rose.name=Red Rose
+tile.Flowers2.flower_blue_orchid.name=Blue Orchid
+tile.Flowers2.flower_allium.name=Allium
+tile.Flowers2.flower_houstonia.name=Houstonia
+tile.Flowers2.flower_tulip_red.name=Red Tulip
+tile.Flowers2.flower_tulip_orange.name=Orange Tulip
+tile.Flowers2.flower_tulip_white.name=White Tulip
+tile.Flowers2.flower_tulip_pink.name=Pink Tulip
+tile.Flowers2.flower_oxeye_daisy.name=Daisy
 
 #=======
 #= GUI =
@@ -2171,6 +2196,8 @@ gui.plans.shovel=Shovel
 gui.plans.splitbloom=Split
 gui.plans.sword=Sword
 gui.plans.tuyere=Tuyere
+gui.plans.grill=Grill
+gui.plans.shears=Shears
 
 #== Другие GUI ==
 gui.Blueprint=Blueprint
