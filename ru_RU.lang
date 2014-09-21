@@ -854,23 +854,23 @@ tile.Ore.Tetrahedrite.name=Тетраэдрит
 #= Дерево =
 #==========
 #== Предметы ==
-item.Log.Acacia.name=Acacia Log
-item.Log.Ash.name=Ash Log
-item.Log.Aspen.name=Aspen Log
-item.Log.Birch.name=Birch Log
-item.Log.Chestnut.name=Chestnut Log
-item.Log.Douglas Fir.name=Douglas Fir Log
-item.Log.Hickory.name=Hickory Log
-item.Log.Kapok.name=Kapok Log
-item.Log.Maple.name=Maple Log
-item.Log.Oak.name=Oak Log
-item.Log.Pine.name=Pine Log
-item.Log.Sequoia.name=Sequoia Log
-item.Log.Spruce.name=Spruce Log
-item.Log.Sycamore.name=Sycamore Log
-item.Log.White Cedar.name=White Cedar Log
-item.Log.White Elm.name=White Elm Log
-item.Log.Willow.name=Willow Log
+item.Log.Acacia.name=Бревно из акации
+item.Log.Ash.name=Бревно из ясеня
+item.Log.Aspen.name=Бревно из осины
+item.Log.Birch.name=Бревно из березы
+item.Log.Chestnut.name=Бревно из каштана
+item.Log.Douglas Fir.name=Бревно из пихты Дугласа
+item.Log.Hickory.name=Бревно из Гикори
+item.Log.Kapok.name=Бревно из хлопкового дерева
+item.Log.Maple.name=Бревно из клена
+item.Log.Oak.name=Бревно из дуба
+item.Log.Pine.name=Бревно из сосны
+item.Log.Sequoia.name=Бревно из секвойи
+item.Log.Spruce.name=Бревно из ели
+item.Log.Sycamore.name=Бревно из платана
+item.Log.White Cedar.name=Бревно из белого кедра
+item.Log.White Elm.name=Бревно из белого вяза
+item.Log.Willow.name=Бревно из ивы
 
 item.SinglePlank.Acacia.name=Acacia Lumber
 item.SinglePlank.Ash.name=Ash Lumber
