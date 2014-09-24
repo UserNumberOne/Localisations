@@ -1203,110 +1203,110 @@ tile.Toolrack.Willow.name=Стеллаж для инструментов из и
 #================================
 
 #== Каменные головки ==
-item.Stone Hammer Head.name=Stone Hammer Head
-item.Stone Knife Blade.name=Stone Knife Blade
+item.Stone Hammer Head.name=Каменная головка молота
+item.Stone Knife Blade.name=каменное лезвие ножа
 
-item.IgIn Stone Axe Head.name=Stone Axe Head
-item.IgIn Stone Chisel Head.name=Stone Chisel Head
-item.IgIn Stone Hoe Head.name=Stone Hoe Head
-item.IgIn Stone Javelin Head.name=Stone Javelin Head
-item.IgIn Stone Shovel Head.name=Stone Shovel Head
+item.IgIn Stone Axe Head.name=Каменное лезвие топора
+item.IgIn Stone Chisel Head.name=Каменное лезвие зубила
+item.IgIn Stone Hoe Head.name=Каменное лезвие мотыги
+item.IgIn Stone Javelin Head.name=Каменный наконечник копья
+item.IgIn Stone Shovel Head.name=Каменное лезвие лопаты
 
-item.Sed Stone Axe Head.name=Stone Axe Head
-item.Sed Stone Chisel Head.name=Stone Chisel Head
-item.Sed Stone Hoe Head.name=Stone Hoe Head
-item.Sed Stone Javelin Head.name=Stone Javelin Head
-item.Sed Stone Shovel Head.name=Stone Shovel Head
+item.Sed Stone Axe Head.name=Каменное лезвие топора
+item.Sed Stone Chisel Head.name=Каменное лезвие зубила
+item.Sed Stone Hoe Head.name=Каменное лезвие мотыги
+item.Sed Stone Javelin Head.name=Каменное лезвие мотыги
+item.Sed Stone Shovel Head.name=Каменное лезвие лопаты
 
-item.IgEx Stone Axe Head.name=Stone Axe Head
-item.IgEx Stone Chisel Head.name=Stone Chisel Head
-item.IgEx Stone Hoe Head.name=Stone Hoe Head
-item.IgEx Stone Javelin Head.name=Stone Javelin Head
-item.IgEx Stone Shovel Head.name=Stone Shovel Head
+item.IgEx Stone Axe Head.name=Каменное лезвие топора
+item.IgEx Stone Chisel Head.name=Каменное лезвие зубила
+item.IgEx Stone Hoe Head.name=Каменное лезвие мотыги
+item.IgEx Stone Javelin Head.name=Каменный наконечник копья
+item.IgEx Stone Shovel Head.name=Каменное лезвие лопаты
 
-item.MM Stone Axe Head.name=Stone Axe Head
-item.MM Stone Chisel Head.name=Stone Chisel Head
-item.MM Stone Hoe Head.name=Stone Hoe Head
-item.MM Stone Javelin Head.name=Stone Javelin Head
-item.MM Stone Shovel Head.name=Stone Shovel Head
+item.MM Stone Axe Head.name=Каменное лезвие топора
+item.MM Stone Chisel Head.name=Каменное лезвие зубила
+item.MM Stone Hoe Head.name=Каменное лезвие мотыги
+item.MM Stone Javelin Head.name=Каменный наконечник копья
+item.MM Stone Shovel Head.name=Каменное лезвие лопаты
 
 #== Каменные инструменты ==
-item.Stone Axe.name=Stone Axe
-item.IgIn Stone Axe.name=Stone Axe
-item.Sed Stone Axe.name=Stone Axe
-item.IgEx Stone Axe.name=Stone Axe
-item.MM Stone Axe.name=Stone Axe
+item.Stone Axe.name=Каменный топор
+item.IgIn Stone Axe.name=Каменный топор
+item.Sed Stone Axe.name=Каменный топор
+item.IgEx Stone Axe.name=Каменный топор
+item.MM Stone Axe.name=Каменный топор
 
-item.Stone Chisel.name=Stone Chisel
+item.Stone Chisel.name=Каменное зубило
 
-item.Stone Hammer.name=Stone Hammer
+item.Stone Hammer.name=Каменный молот
 
-item.Stone Hoe.name=Stone Hoe
-item.IgIn Stone Hoe.name=Stone Hoe
-item.Sed Stone Hoe.name=Stone Hoe
-item.IgEx Stone Hoe.name=Stone Hoe
-item.MM Stone Hoe.name=Stone Hoe
+item.Stone Hoe.name=Каменная мотыга
+item.IgIn Stone Hoe.name=Каменная мотыга
+item.Sed Stone Hoe.name=Каменная мотыга
+item.IgEx Stone Hoe.name=Каменная мотыга
+item.MM Stone Hoe.name=Каменная мотыга
 
-item.Stone Javelin.name=Stone Javelin
-item.IgIn Stone Javelin.name=Stone Javelin
-item.Sed Stone Javelin.name=Stone Javelin
-item.IgEx Stone Javelin.name=Stone Javelin
-item.MM Stone Javelin.name=Stone Javelin
+item.Stone Javelin.name=Каменное копьё
+item.IgIn Stone Javelin.name=Каменное копьё
+item.Sed Stone Javelin.name=Каменное копьё
+item.IgEx Stone Javelin.name=Каменное копьё
+item.MM Stone Javelin.name=Каменное копьё
 
-item.Stone Knife.name=Stone Knife
+item.Stone Knife.name=Каменный нож
 
-item.Stone Shovel.name=Stone Shovel
-item.IgIn Stone Shovel.name=Stone Shovel
-item.Sed Stone Shovel.name=Stone Shovel
-item.IgEx Stone Shovel.name=Stone Shovel
-item.MM Stone Shovel.name=Stone Shovel
+item.Stone Shovel.name=Каменная лопата
+item.IgIn Stone Shovel.name=Каменная лопата
+item.Sed Stone Shovel.name=Каменная лопата
+item.IgEx Stone Shovel.name=Каменная лопата
+item.MM Stone Shovel.name=Каменная лопата
 
 #== Металлические головки ==
-#=== Головки топоров ===
-item.Bismuth Bronze Axe Head.name=Bismuth Bronze Axe Head
-item.Black Bronze Axe Head.name=Black Bronze Axe Head
-item.Black Steel Axe Head.name=Black Steel Axe Head
-item.Blue Steel Axe Head.name=Blue Steel Axe Head
-item.Bronze Axe Head.name=Bronze Axe Head
-item.Copper Axe Head.name=Copper Axe Head
-item.Red Steel Axe Head.name=Red Steel Axe Head
-item.Steel Axe Head.name=Steel Axe Head
-item.Wrought Iron Axe Head.name=Wrought Iron Axe Head
+#=== Лезвия топоров ===
+item.Bismuth Bronze Axe Head.name=Лезвие топора из висмутовой бронзы
+item.Black Bronze Axe Head.name=Лезвие топора из чёрной бронзы
+item.Black Steel Axe Head.name=Лезвие топора из чёрной стали
+item.Blue Steel Axe Head.name=Лезвие топора из синей стали
+item.Bronze Axe Head.name=Лезвие топора из бронзы
+item.Copper Axe Head.name=Лезвие топора из меди
+item.Red Steel Axe Head.name=Лезвие топора из красной стали
+item.Steel Axe Head.name=Лезвие топора из стали
+item.Wrought Iron Axe Head.name=Лезвие топора из кованого железа
 
-#=== Головки зубил ===
-item.Bismuth Bronze Chisel Head.name=Bismuth Bronze Chisel Head
-item.Black Bronze Chisel Head.name=Black Bronze Chisel Head
-item.Black Steel Chisel Head.name=Black Steel Chisel Head
-item.Blue Steel Chisel Head.name=Blue Steel Chisel Head
-item.Bronze Chisel Head.name=Bronze Chisel Head
-item.Copper Chisel Head.name=Copper Chisel Head
-item.Red Steel Chisel Head.name=Red Steel Chisel Head
-item.Steel Chisel Head.name=Steel Chisel Head
-item.Wrought Iron Chisel Head.name=Wrought Iron Chisel Head
+#=== Лезвия зубил ===
+item.Bismuth Bronze Chisel Head.name=Лезвие зубила из висмутовой бронзы
+item.Black Bronze Chisel Head.name=Лезвие зубила из чёрной бронзы
+item.Black Steel Chisel Head.name=Лезвие зубила из чёрной стали
+item.Blue Steel Chisel Head.name=Лезвие зубила из синей стали
+item.Bronze Chisel Head.name=Лезвие зубила из бронзы
+item.Copper Chisel Head.name=Лезвие зубила из меди
+item.Red Steel Chisel Head.name=Лезвие зубила из красной стали
+item.Steel Chisel Head.name=Лезвие зубила из стали
+item.Wrought Iron Chisel Head.name=Лезвие зубила из кованого железа
 
 #=== Головки молотов ===
-item.Bismuth Bronze Hammer Head.name=Bismuth Bronze Hammer Head
-item.Black Bronze Hammer Head.name=Black Bronze Hammer Head
-item.Black Steel Hammer Head.name=Black Steel Hammer Head
-item.Blue Steel Hammer Head.name=Blue Steel Hammer Head
-item.Bronze Hammer Head.name=Bronze Hammer Head
-item.Copper Hammer Head.name=Copper Hammer Head
-item.Red Steel Hammer Head.name=Red Steel Hammer Head
-item.Steel Hammer Head.name=Steel Hammer Head
-item.Wrought Iron Hammer Head.name=Wrought Iron Hammer Head
+item.Bismuth Bronze Hammer Head.name=Головка молота из висмутовой бронзы
+item.Black Bronze Hammer Head.name=Головка молота из чёрной бронзы
+item.Black Steel Hammer Head.name=Головка молота из чёрной стали
+item.Blue Steel Hammer Head.name=Головка молота из синей стали
+item.Bronze Hammer Head.name=Головка молота из бронзы
+item.Copper Hammer Head.name=Головка молота из меди
+item.Red Steel Hammer Head.name=Головка молота из красной стали
+item.Steel Hammer Head.name=Головка молота из стали
+item.Wrought Iron Hammer Head.name=Головка молота из кованого железа
 
-#=== Головки мотыг ===
-item.Bismuth Bronze Hoe Head.name=Bismuth Bronze Hoe Head
-item.Black Bronze Hoe Head.name=Black Bronze Hoe Head
-item.Black Steel Hoe Head.name=Black Steel Hoe Head
-item.Blue Steel Hoe Head.name=Blue Steel Hoe Head
-item.Bronze Hoe Head.name=Bronze Hoe Head
-item.Copper Hoe Head.name=Copper Hoe Head
-item.Red Steel Hoe Head.name=Red Steel Hoe Head
-item.Steel Hoe Head.name=Steel Hoe Head
-item.Wrought Iron Hoe Head.name=Wrought Iron Hoe Head
+#=== Лезвия мотыг ===
+item.Bismuth Bronze Hoe Head.name=Лезвие мотыги из висмутовой бронзы
+item.Black Bronze Hoe Head.name=Лезвие мотыги из чёрной бронзы
+item.Black Steel Hoe Head.name=Лезвие мотыги из чёрной стали
+item.Blue Steel Hoe Head.name=Лезвие мотыги из синей стали
+item.Bronze Hoe Head.name=Лезвие мотыги из бронзы
+item.Copper Hoe Head.name=Лезвие мотыги из меди
+item.Red Steel Hoe Head.name=Лезвие мотыги из красной стали
+item.Steel Hoe Head.name=Лезвие мотыги из стали
+item.Wrought Iron Hoe Head.name=Лезвие мотыги из кованого железа
 
-#=== Головки дротиков ===
+#=== Наконечники копьев ===
 item.Bismuth Bronze Javelin Head.name=Bismuth Bronze Javelin Head
 item.Black Bronze Javelin Head.name=Black Bronze Javelin Head
 item.Black Steel Javelin Head.name=Black Steel Javelin Head
@@ -1339,7 +1339,7 @@ item.Red Steel Mace Head.name=Red Steel Mace Head
 item.Steel Mace Head.name=Steel Mace Head
 item.Wrought Iron Mace Head.name=Wrought Iron Mace Head
 
-#=== Головки кирок ===
+#=== Лезвия кирок ===
 item.Bismuth Bronze Pick Head.name=Bismuth Bronze Pickaxe Head
 item.Black Bronze Pick Head.name=Black Bronze Pickaxe Head
 item.Black Steel Pick Head.name=Black Steel Pickaxe Head
@@ -1383,7 +1383,7 @@ item.Red Steel Scythe Blade.name=Red Steel Scythe Blade
 item.Steel Scythe Blade.name=Steel Scythe Blade
 item.Wrought Iron Scythe Blade.name=Wrought Iron Scythe Blade
 
-#=== Головки лопат ===
+#=== Лезвия лопат ===
 item.Bismuth Bronze Shovel Head.name=Bismuth Bronze Shovel Head
 item.Black Bronze Shovel Head.name=Black Bronze Shovel Head
 item.Black Steel Shovel Head.name=Black Steel Shovel Head
