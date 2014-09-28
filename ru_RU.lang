@@ -249,6 +249,7 @@ item.Rum.name=Ром
 item.Sake.name=Сакэ
 item.Vodka.name=Водка
 item.Whiskey.name=Виски
+item.CornWhiskey.name=Кукурузный виски
 
 #============
 #= Керамика =
@@ -2312,6 +2313,7 @@ skill.toolsmith=Tool Smithing
 skill.weaponsmith=Weapon Smithing
 skill.agriculture=Agriculture
 skill.cooking=Cooking
+skill.prospecting=Prospecting
 
 #===========================
 #======== Остальное ========
@@ -2327,6 +2329,7 @@ fluid.ryewhiskey=Rye Whiskey
 fluid.sake=Sake
 fluid.vodka=Vodka
 fluid.whiskey=Whiskey
+fluid.cornwhiskey=Кукурузный виски
 fluid.milk=Milk
 fluid.milkcurdled=Curdled Milk
 fluid.limewater=Limewater
@@ -2383,6 +2386,16 @@ gui.taste.adept.savory2=Savory
 gui.taste.adept.savory3=Quite Savory
 gui.taste.adept.savory4=Very Savory
 gui.taste.adept.savory5=Extremely Savory
+
+gui.taste.0=Not
+gui.taste.1=Not Very
+gui.taste.2=Somewhat
+gui.taste.3=Moderately
+gui.taste.4=Perfectly
+gui.taste.5=Overly
+gui.taste.6=Very
+gui.taste.7=Extremely
+gui.taste.8=Ridiculously
 
 gui.skill.novice=Novice
 gui.skill.adept=Adept
