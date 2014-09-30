@@ -44,7 +44,7 @@ entity.fishTFC.name=Оукнь
 #= Достижения =
 #==============
 achievement.achLooseRock=Однозначно камень
-achievement.achLooseRock.desc=Подберите камень
+achievement.achLooseRock.desc=Подберите камень.
 achievement.achSmallOre=Нет камня на камне
 achievement.achSmallOre.desc=Найдите рудный самородок.
 achievement.achWildVegetable=Собиратель
@@ -52,7 +52,7 @@ achievement.achWildVegetable.desc=Найдите дикие овощи.
 achievement.achRutabaga=Дурацкий лук ...
 achievement.achRutabaga.desc=Найдите брюкву.
 achievement.achQuern=Измельчить
-achievement.achQuern.desc=Используйте нижний жёрнов.
+achievement.achQuern.desc=Используйте ручную мельницу.
 achievement.achStoneAge=Палеолитик!
 achievement.achStoneAge.desc=Сделайте каменный инструмент для входа в каменный век.
 achievement.achCopperAge=Халколит!
@@ -70,9 +70,9 @@ achievement.achLimonite.desc=Найдите лимонит.
 achievement.achBronzeAge=Бронзовый век
 achievement.achBronzeAge.desc=Сделайте бронзовую наковальню, чтобы войти в бронзовый век.
 achievement.achIronAge=Железный век!
-achievement.achIronAge.desc=Откопайте железо, чтобы войти в железный век
+achievement.achIronAge.desc=Сломайте блок Крицы чтобы перейти железный век.
 achievement.achPokeCreeper=Стив Ирвин
-achievement.achPokeCreeper.desc=Ткните его палкой
+achievement.achPokeCreeper.desc=Ткните его палкой.
 
 #===========
 #= Команды =
@@ -1823,88 +1823,88 @@ item.Zinc Double Sheet.name=Двойной лист цинка
 #==============
 #= Устройства =
 #==============
-tile.Bellows.name=Bellows
-tile.Forge.name=Forge
-tile.BlastFurnace.name=Blast Furnace
-tile.SpawnMeter.name=Protection Meter
-tile.Quern.name=Quern Base
-tile.EarlyBloomery.name=Bloomery
-tile.Crucible.name=Crucible
-tile.NestBox.name=Nest Box
-item.SluiceItem.name=Sluice
-tile.LeatherRack.name=Leather Rack
+tile.Bellows.name=Мехи
+tile.Forge.name=Печь
+tile.BlastFurnace.name=Доменная печь
+tile.SpawnMeter.name=Защитометр
+tile.Quern.name=Основа ручной мельницы
+tile.EarlyBloomery.name=Горн
+tile.Crucible.name=Тигель
+tile.NestBox.name=Насест
+item.SluiceItem.name=Шлюз
+tile.LeatherRack.name=Кожанная стойка #?
 
-#== Anvils ==
-tile.Anvil.Stone.name=Stone Anvil
-tile.Anvil.Bismuth.name=Bismuth Anvil
-tile.Anvil2.Bismuth Bronze.name=Bismuth Bronze Anvil
-tile.Anvil2.Black Bronze.name=Black Bronze Anvil
-tile.Anvil.Black Steel.name=Black Steel Anvil
-tile.Anvil.Blue Steel.name=Blue Steel Anvil
-tile.Anvil.Bronze.name=Bronze Anvil
-tile.Anvil.Copper.name=Copper Anvil
-tile.Anvil.Red Steel.name=Red Steel Anvil
-tile.Anvil2.Rose Gold.name=Rose Gold Anvil
-tile.Anvil.Steel.name=Steel Anvil
-tile.Anvil.Tin.name=Tin Anvil
-tile.Anvil.Wrought Iron.name=Wrought Iron Anvil
-tile.Anvil.Zinc.name=Zinc Anvil
+#== Наковальни ==
+tile.Anvil.Stone.name=Наковальня из камня
+tile.Anvil.Bismuth.name=Наковальня из висмута
+tile.Anvil2.Bismuth Bronze.name=Наковальня из висмутовой бронзы
+tile.Anvil2.Black Bronze.name=Наковальня из чёрной бронзы
+tile.Anvil.Black Steel.name=Наковальня из чёрной стали
+tile.Anvil.Blue Steel.name=Наковальня из синей стали
+tile.Anvil.Bronze.name=Наковальня из бронзы
+tile.Anvil.Copper.name=Наковальня из меди
+tile.Anvil.Red Steel.name=Наковальня из красной стали
+tile.Anvil2.Rose Gold.name=Наковальня из розового золота
+tile.Anvil.Steel.name=Наковальня из стали
+tile.Anvil.Tin.name=Наковальня из олова
+tile.Anvil.Wrought Iron.name=Наковальня из кованого железа
+tile.Anvil.Zinc.name=Наковальня из цинка
 
-#==============
-#= Наковальни =
-#==============
-tile.Grass.name=Grass
-tile.DryGrass.name=Dry Grass
-tile.PeatGrass.name=Peat Grass
-tile.ClayGrass.name=Clay Grass
-tile.dirt.name=Dirt
-tile.sand.name=Sand
-tile.Peat.name=Peat
-tile.tilledSoil.name=Farmland
-tile.LooseRock.name=Debris
-tile.Ice.name=Ice
+#============
+#= Растения =
+#============
+tile.Grass.name=Трава
+tile.DryGrass.name=Сухая трава
+tile.PeatGrass.name=Трава на торфе
+tile.ClayGrass.name=Трава на глине
+tile.dirt.name=Земля
+tile.sand.name=Песок
+tile.Peat.name=Торф
+tile.tilledSoil.name=Пашня
+tile.LooseRock.name=Рассыпчатый камень
+tile.Ice.name=Лёд
 
 #==========
 #= Разное =
 #==========
 #== Другие предметы ==
-item.arrow.name=Arrow
-item.book.name=Book
-item.stick.name=Stick
-item.coal.coal.name=Coal
-item.coal.charcoal.name=Charcoal
-item.Fertilizer.name=Fertilizer
-item.Reeds.name=Sugar Canes
+item.arrow.name=Стрела
+item.book.name=Книга
+item.stick.name=Палка
+item.coal.coal.name=Уголь
+item.coal.charcoal.name=Древесный уголь
+item.Fertilizer.name=Удобрение
+item.Reeds.name=Сахарный тростник
 
-item.Wooden Bucket Empty.name=Wooden Bucket (Empty)
-item.Wooden Bucket Water.name=Wooden Bucket (Fresh Water)
-item.Wooden Bucket Salt Water.name=Wooden Bucket (Salt Water)
-item.Wooden Bucket Milk.name=Wooden Bucket (Milk)
-item.Lime Water.name=Limewater
+item.Wooden Bucket Empty.name=Деревянное ведро (Пустое)
+item.Wooden Bucket Water.name=Деревянное ведро (Пресная вода)
+item.Wooden Bucket Salt Water.name=Деревянное ведро (Солёная вода)
+item.Wooden Bucket Milk.name=Деревянное ведро (Молоко)
+item.Lime Water.name=Деревянное ведро (Известковая вода)
 
-item.Red Steel Bucket Empty.name=Red Steel Bucket (Empty)
-item.Red Steel Bucket Water.name=Red Steel Bucket (Fresh Water)
-item.Red Steel Bucket Salt Water.name=Red Steel Bucket (Salt Water)
-item.Blue Steel Bucket Empty.name=Blue Steel Bucket (Empty)
-item.Blue Steel Bucket Lava.name=Blue Steel Bucket (Lava)
+item.Red Steel Bucket Empty.name=Ведро из красной стали (Пустое)
+item.Red Steel Bucket Water.name=Ведро из красной стали (Пресная вода)
+item.Red Steel Bucket Salt Water.name=Ведро из красной стали (Солёная вода)
+item.Blue Steel Bucket Empty.name=Ведро из синей стали (Пустое)
+item.Blue Steel Bucket Lava.name=Ведро из синей стали (Лава)
 
-item.GoldPan.name=Gold Pan
-item.Gold Pan.Sand.name=Gold Pan - Sand
-item.Gold Pan.Gravel.name=Gold Pan - Gravel
-item.Gold Pan.Clay.name=Gold Pan - Clay
-item.Gold Pan.Dirt.name=Gold Pan - Dirt
-item.Ink.name=Marking
-item.Firestarter.name=Fire Starter
+item.GoldPan.name=Рудная чашка
+item.Gold Pan.Sand.name=Рудная чашка - песок
+item.Gold Pan.Gravel.name=Рудная чашка - гравий
+item.Gold Pan.Clay.name=Рудная чашка - глина
+item.Gold Pan.Dirt.name=Рудная чашка - земля
+item.Ink.name=Чернила
+item.Firestarter.name=Воспламенитель
 
-item.Quern.name=Handstone
-item.Blueprint.name=Blueprint
-item.WoolYarn.name=Wool Yarn
-item.Wool.name=Wool
-item.WoolCloth.name=Wool Cloth
-item.SilkCloth.name=Silk Cloth
-item.BurlapCloth.name=Burlap Cloth
-item.Mortar.name=Mortar
-item.Vinegar.name=Vinegar
+item.Quern.name=Камень перемалывания
+item.Blueprint.name=План
+item.WoolYarn.name=Шерстяная пряжа
+item.Wool.name=Шерсть
+item.WoolCloth.name=Шерстяная ткань
+item.SilkCloth.name=Шёлковая ткань
+item.BurlapCloth.name=Мешковина
+item.Mortar.name=Раствор
+item.Vinegar.name=Деревянное ведро (Уксус)
 
 item.Hide.small.name=Small Raw Hide
 item.Hide.medium.name=Medium Raw Hide
