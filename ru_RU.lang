@@ -40,6 +40,16 @@ entity.horseTFC.name=Лошадь
 entity.irongolemTFC.name=Железный голем
 entity.fishTFC.name=Оукнь
 
+
+#============
+#= Существо =
+#============
+entity.notFamiliar=Животное не позволяет вам это сделать.
+fishingRod.lineTension=Леска будет оснащена!
+fishingRod.lineSnap=Леска оснащена!
+fishingRod.bite=Ох! Укусила!
+fishingRod.gotAway=Сорвался...
+
 #==============
 #= Достижения =
 #==============
@@ -1563,24 +1573,15 @@ item.Wrought Iron Tuyere.name=Фурма из кованого железа
 
 #== Броня ==
 #=== Шлема ===
-item.Bismuth Bronze Unfinished Helmet.name=Недоделанный шлем из висмутовой бронзы (Стадия 1)
-item.Black Bronze Unfinished Helmet.name=Недоделанный шлем из чёрной бронзы (Стадия 1)
-item.Black Steel Unfinished Helmet.name=Недоделанный шлем из чёрной стали (Стадия 1)
-item.Blue Steel Unfinished Helmet.name=Недоделанный шлем из синей стали (Стадия 1)
-item.Bronze Unfinished Helmet.name=Недоделанный шлем из бронзы (Стадия 1)
-item.Copper Unfinished Helmet.name=Недоделанный шлем из меди (Стадия 1)
-item.Red Steel Unfinished Helmet.name=Недоделанный шлем из красной стали (Стадия 1)
-item.Steel Unfinished Helmet.name=Недоделанный шлем из стали (Стадия 1)
+item.Bismuth Bronze Unfinished Helmet.name=Недоделанный шлем из висмутовой бронзы
+item.Black Bronze Unfinished Helmet.name=Недоделанный шлем из чёрной бронзы
+item.Black Steel Unfinished Helmet.name=Недоделанный шлем из чёрной стали
+item.Blue Steel Unfinished Helmet.name=Недоделанный шлем из синей стали
+item.Bronze Unfinished Helmet.name=Недоделанный шлем из бронзы
+item.Copper Unfinished Helmet.name=Недоделанный шлем из меди
+item.Red Steel Unfinished Helmet.name=Недоделанный шлем из красной стали
+item.Steel Unfinished Helmet.name=Недоделанный шлем из стали
 item.Wrought Iron Unfinished Helmet.name=Недоделанный шлем из кованого железа
-item.Bismuth Bronze Unfinished Helmet2.name=Недоделанный шлем из висмутовой бронзы (Стадия 2)
-item.Black Bronze Unfinished Helmet2.name=Недоделанный шлем из чёрной бронзы (Стадия 2)
-item.Black Steel Unfinished Helmet2.name=Недоделанный шлем из чёрной стали (Стадия 2)
-item.Blue Steel Unfinished Helmet2.name=Недоделанный шлем из синей стали (Стадия 2)
-item.Bronze Unfinished Helmet2.name=Недоделанный шлем из бронзы (Стадия 2)
-item.Copper Unfinished Helmet2.name=Недоделанный шлем из меди (Стадия 2)
-item.Red Steel Unfinished Helmet2.name=Недоделанный шлем из красной стали (Стадия 2)
-item.Steel Unfinished Helmet2.name=Недоделанный шлем из стали (Стадия 2)
-item.Wrought Iron Unfinished Helmet2.name=Недоделанный шлем из кованого железа (Стадия 2)
 item.Bismuth Bronze Helmet.name=Шлем из висмутовой бронзы
 item.Black Bronze Helmet.name=Шлем из чёрной бронзы
 item.Black Steel Helmet.name=Шлем из чёрной стали
@@ -1593,24 +1594,15 @@ item.Wrought Iron Helmet.name=Шлем из кованого железа
 item.helmetCloth.name=Шлем из кожи
 
 #=== Нагрудники (Кирасы) ===
-item.Bismuth Bronze Unfinished Chestplate.name=Недоделанный нагрудник из висмутовой бронзы (Стадия 1)
-item.Black Bronze Unfinished Chestplate.name=Недоделанный нагрудник из чёрной бронзы (Стадия 1)
-item.Black Steel Unfinished Chestplate.name=Недоделанный нагрудник из чёрной стали (Стадия 1)
-item.Blue Steel Unfinished Chestplate.name=Недоделанный нагрудник из синей стали (Стадия 1)
-item.Bronze Unfinished Chestplate.name=Недоделанный нагрудник из бронзы (Стадия 1)
-item.Copper Unfinished Chestplate.name=Недоделанный нагрудник из меди (Стадия 1)
-item.Red Steel Unfinished Chestplate.name=Недоделанный нагрудник из красной стали (Стадия 1)
-item.Steel Unfinished Chestplate.name=Недоделанный нагрудник из стали (Стадия 1)
-item.Wrought Iron Unfinished Chestplate.name=Недоделанный нагрудник из кованого железа (Стадия 1)
-item.Bismuth Bronze Unfinished Chestplate2.name=Недоделанный нагрудник из висмутовой бронзы (Стадия 2)
-item.Black Bronze Unfinished Chestplate2.name=Недоделанный нагрудник из чёрной бронзы (Стадия 2)
-item.Black Steel Unfinished Chestplate2.name=Недоделанный нагрудник из чёрной стали (Стадия 2)
-item.Blue Steel Unfinished Chestplate2.name=Недоделанный нагрудник из синей стали (Стадия 2)
-item.Bronze Unfinished Chestplate2.name=Недоделанный нагрудник из бронзы (Стадия 2)
-item.Copper Unfinished Chestplate2.name=Недоделанный нагрудник из меди (Стадия 2)
-item.Red Steel Unfinished Chestplate2.name=Недоделанный нагрудник из красной стали (Стадия 2)
-item.Steel Unfinished Chestplate2.name=Недоделанный нагрудник из стали (Стадия 2)
-item.Wrought Iron Unfinished Chestplate2.name=Недоделанный нагрудник из кованого железа (Стадия 2)
+item.Bismuth Bronze Unfinished Chestplate.name=Недоделанный нагрудник из висмутовой бронзы
+item.Black Bronze Unfinished Chestplate.name=Недоделанный нагрудник из чёрной бронзы
+item.Black Steel Unfinished Chestplate.name=Недоделанный нагрудник из чёрной стали
+item.Blue Steel Unfinished Chestplate.name=Недоделанный нагрудник из синей стали
+item.Bronze Unfinished Chestplate.name=Недоделанный нагрудник из бронзы
+item.Copper Unfinished Chestplate.name=Недоделанный нагрудник из меди
+item.Red Steel Unfinished Chestplate.name=Недоделанный нагрудник из красной стали
+item.Steel Unfinished Chestplate.name=Недоделанный нагрудник из стали
+item.Wrought Iron Unfinished Chestplate.name=Недоделанный нагрудник из кованого железа
 item.Bismuth Bronze Chestplate.name=Нагрудник из висмутовой бронзы
 item.Black Bronze Chestplate.name=Нагрудник из чёрной бронзы
 item.Black Steel Chestplate.name=Нагрудник из чёрной стали
@@ -1623,24 +1615,15 @@ item.Wrought Iron Chestplate.name=Нагрудник из кованого же�
 item.chestplateCloth.name=Нагрудник из кожи
 
 #=== Поножи ===
-item.Bismuth Bronze Unfinished Greaves.name=Недоделанные поножи из висмутовой бронзы (Стадия 1)
-item.Black Bronze Unfinished Greaves.name=Недоделанные поножи из чёрной бронзы (Стадия 1)
-item.Black Steel Unfinished Greaves.name=Недоделанные поножи из чёрной стали (Стадия 1)
-item.Blue Steel Unfinished Greaves.name=Недоделанные поножи из синей стали (Стадия 1)
-item.Bronze Unfinished Greaves.name=Недоделанные поножи из бронзы (Стадия 1)
-item.Copper Unfinished Greaves.name=Недоделанные поножи из меди (Стадия 1)
-item.Red Steel Unfinished Greaves.name=Недоделанные поножи из красной стали (Стадия 1)
-item.Steel Unfinished Greaves.name=Недоделанные поножи из стали (Стадия 1)
-item.Wrought Iron Unfinished Greaves.name=Недоделанные поножи из кованого железа (Стадия 1)
-item.Bismuth Bronze Unfinished Greaves2.name=Недоделанные поножи из висмутовой бронзы (Стадия 2)
-item.Black Bronze Unfinished Greaves2.name=Недоделанные поножи из чёрной бронзы (Стадия 2)
-item.Black Steel Unfinished Greaves2.name=Недоделанные поножи из чёрной стали (Стадия 2)
-item.Blue Steel Unfinished Greaves2.name=Недоделанные поножи из синей стали (Стадия 2)
-item.Bronze Unfinished Greaves2.name=Недоделанные поножи из бронзы (Стадия 2)
-item.Copper Unfinished Greaves2.name=Недоделанные поножи из меди (Стадия 2)
-item.Red Steel Unfinished Greaves2.name=Недоделанные поножи из красной стали (Стадия 2)
-item.Steel Unfinished Greaves2.name=Недоделанные поножи из стали (Стадия 2)
-item.Wrought Iron Unfinished Greaves2.name=Недоделанные поножи из кованого железа (Стадия 2)
+item.Bismuth Bronze Unfinished Greaves.name=Недоделанные поножи из висмутовой бронзы
+item.Black Bronze Unfinished Greaves.name=Недоделанные поножи из чёрной бронзы
+item.Black Steel Unfinished Greaves.name=Недоделанные поножи из чёрной стали
+item.Blue Steel Unfinished Greaves.name=Недоделанные поножи из синей стали
+item.Bronze Unfinished Greaves.name=Недоделанные поножи из бронзы
+item.Copper Unfinished Greaves.name=Недоделанные поножи из меди
+item.Red Steel Unfinished Greaves.name=Недоделанные поножи из красной стали
+item.Steel Unfinished Greaves.name=Недоделанные поножи из стали
+item.Wrought Iron Unfinished Greaves.name=Недоделанные поножи из кованого железа
 item.Bismuth Bronze Greaves.name=Поножи из висмутовой бронзы
 item.Black Bronze Greaves.name=Поножи из чёрной бронзы
 item.Black Steel Greaves.name=Поножи из чёрной стали
@@ -1653,24 +1636,15 @@ item.Wrought Iron Greaves.name=Поножи из кованого железа
 item.leggingsCloth.name=Поножи из кожи
 
 #=== Ботинки ===
-item.Bismuth Bronze Unfinished Boots.name=Недоделанные ботинки из висмутовой бронзы (Стадия 1)
-item.Black Bronze Unfinished Boots.name=Недоделанные ботинки из чёрной бронзы (Стадия 1)
-item.Black Steel Unfinished Boots.name=Недоделанные ботинки из чёрной стали (Стадия 1)
-item.Blue Steel Unfinished Boots.name=Недоделанные ботинки из синей стали (Стадия 1)
-item.Bronze Unfinished Boots.name=Недоделанные ботинки из бронзы (Стадия 1)
-item.Copper Unfinished Boots.name=Недоделанные ботинки из меди (Стадия 1)
-item.Red Steel Unfinished Boots.name=Недоделанные ботинки из красной стали (Стадия 1)
-item.Steel Unfinished Boots.name=Недоделанные ботинки из стали (Стадия 1)
-item.Wrought Iron Unfinished Boots.name=Недоделанные ботинки из кованого железа (Стадия 1)
-item.Bismuth Bronze Unfinished Boots2.name=Недоделанные ботинки из висмутовой бронзы (Стадия 2)
-item.Black Bronze Unfinished Boots2.name=Недоделанные ботинки из чёрной бронзы (Стадия 2)
-item.Black Steel Unfinished Boots2.name=Недоделанные ботинки из чёрной стали (Стадия 2)
-item.Blue Steel Unfinished Boots2.name=Недоделанные ботинки из синей стали (Стадия 2)
-item.Bronze Unfinished Boots2.name=Недоделанные ботинки из бронзы (Стадия 2)
-item.Copper Unfinished Boots2.name=Недоделанные ботинки из меди (Стадия 2)
-item.Red Steel Unfinished Boots2.name=Недоделанные ботинки из красной стали (Стадия 2)
-item.Steel Unfinished Boots2.name=Недоделанные ботинки из стали (Стадия 2)
-item.Wrought Iron Unfinished Boots2.name=Недоделанные ботинки из кованого железа (Стадия 2)
+item.Bismuth Bronze Unfinished Boots.name=Недоделанные ботинки из висмутовой бронзы
+item.Black Bronze Unfinished Boots.name=Недоделанные ботинки из чёрной бронзы
+item.Black Steel Unfinished Boots.name=Недоделанные ботинки из чёрной стали
+item.Blue Steel Unfinished Boots.name=Недоделанные ботинки из синей стали
+item.Bronze Unfinished Boots.name=Недоделанные ботинки из бронзы
+item.Copper Unfinished Boots.name=Недоделанные ботинки из меди
+item.Red Steel Unfinished Boots.name=Недоделанные ботинки из красной стали
+item.Steel Unfinished Boots.name=Недоделанные ботинки из стали
+item.Wrought Iron Unfinished Boots.name=Недоделанные ботинки из кованого железа
 item.Bismuth Bronze Boots.name=Ботинки из висмутовой бронзы
 item.Black Bronze Boots.name=Ботинки из чёрной бронзы
 item.Black Steel Boots.name=Ботинки из чёрной стали
@@ -1898,6 +1872,7 @@ item.Firestarter.name=Воспламенитель
 
 item.Quern.name=Камень перемалывания
 item.Blueprint.name=План
+item.Nametag.name=Name Tag
 item.WoolYarn.name=Шерстяная пряжа
 item.Wool.name=Шерсть
 item.WoolCloth.name=Шерстяная ткань
@@ -1906,52 +1881,52 @@ item.BurlapCloth.name=Мешковина
 item.Mortar.name=Раствор
 item.Vinegar.name=Деревянное ведро (Уксус)
 
-item.Hide.small.name=Small Raw Hide
-item.Hide.medium.name=Medium Raw Hide
-item.Hide.large.name=Large Raw Hide
-item.Soaked Hide.small.name=Small Soaked Hide
-item.Soaked Hide.medium.name=Medium Soaked Hide
-item.Soaked Hide.large.name=Large Soaked Hide
-item.Scraped Hide.small.name=Small Scraped Hide
-item.Scraped Hide.medium.name=Medium Scraped Hide
-item.Scraped Hide.large.name=Large Scraped Hide
-item.Prep Hide.small.name=Small Prepared Hide
-item.Prep Hide.medium.name=Medium Prepared Hide
-item.Prep Hide.large.name=Large Prepared Hide
-item.Sheep Skin.small.name=Small Sheepskin
-item.Sheep Skin.medium.name=Medium Sheepskin
-item.Sheep Skin.large.name=Large Sheepskin
-item.TFC Leather.name=Leather
-item.Flat Leather.name=Flat Leather
-item.leather.name=Leather
+item.Hide.small.name=Малая шкура (Сырая)
+item.Hide.medium.name=Средняя шкура (Сырая)
+item.Hide.large.name=Большая шкура (Сырая)
+item.Soaked Hide.small.name=Малая шкура (Пропитанная)
+item.Soaked Hide.medium.name=Средняя шкура (Пропитанная)
+item.Soaked Hide.large.name=Большая шкура (Пропитанная)
+item.Scraped Hide.small.name=Малая шкура (Обрезанная)
+item.Scraped Hide.medium.name=Средняя шкура (Обрезанная)
+item.Scraped Hide.large.name=Большая шкура (Обрезанная)
+item.Prep Hide.small.name=Малая шкура (Готовая)
+item.Prep Hide.medium.name=Средняя шкура (Готовая)
+item.Prep Hide.large.name=Большая шкура (Готовая)
+item.Sheep Skin.small.name=Малая овечья шкура
+item.Sheep Skin.medium.name=Средняя овечья шкура
+item.Sheep Skin.large.name=Большая овечья шкура
+item.TFC Leather.name=Кожа
+item.Flat Leather.name=Растянутая кожа
+item.leather.name=Кожа
 
-item.minecartChest.name=Minecart with Chest
-item.fishingRod.name=Fishing Rod
+item.minecartChest.name=Вагонетка с сундуком
+item.fishingRod.name=Удочка
 
-item.Quiver.name=Quiver
-item.Rope.name=Rope
+item.Quiver.name=Колчан
+item.Rope.name=Верёвка
 
 #======== Другие блоки ========
-tile.Straw Hide Bed.name=Straw & Hide Bed
-tile.customBed.sleep.name=This bed is too uncomfortable to fall asleep
-tile.BasicPipe.name=Pipe
-tile.ValvePipe.name=Valve Pipe
-tile.Torch.name=Torch
-tile.Chest.name=Chest
-tile.Bookshelf.name=Bookshelf
-tile.Workbench.name=Workbench
-tile.ButtonWood.name=Wooden Button
+tile.Straw Hide Bed.name=Кровать из соломы и шкуры
+tile.customBed.sleep.name=Эта кровать слишком неудобная, чтобы заснуть
+tile.BasicPipe.name=Труба#?!
+tile.ValvePipe.name=Valve Pipe#?!
+tile.Torch.name=Факел
+tile.Chest.name=Сундук
+tile.Bookshelf.name=Книжная полка
+tile.Workbench.name=Верстак
+tile.ButtonWood.name=Деревянная кнопка
 
 #= Растения =
-item.Sugarcane.name=Sugarcane
-item.Hemp.name=Hemp
-item.Straw.name=Straw
-item.Jute.name=Jute
-item.Jute Fibre.name=Jute Fiber
+item.Sugarcane.name=Сахарный тростник
+item.Hemp.name=Конопля
+item.Straw.name=Солома
+item.Jute.name=Джут
+item.Jute Fibre.name=Джутовые волокна
 
-tile.Fungi.mushroom_brown.name=Brown Mushroom
-tile.Fungi.mushroom_red.name=Red Mushroom
-tile.Cactus.name=Cactus
+tile.Fungi.mushroom_brown.name=Коричневый гриб
+tile.Fungi.mushroom_red.name=Красный гриб
+tile.Cactus.name=Кактус
 tile.Pumpkin.name=Pumpkin
 tile.Moss.name=Moss
 tile.Thatch.name=Thatch
@@ -1976,7 +1951,7 @@ tile.Flowers.flower_meads_milkweed.name=Meads Milkweed
 tile.Flowers.flower_tropical_milkweed.name=Tropical Milkweed
 tile.Flowers.flower_butterfly_milkweed.name=Butterfly Milkweed
 tile.Flowers.flower_calendula.name=Calendula
-tile.Flowers2.flower_rose.name=Red Rose
+tile.Flowers2.flower_rose.name=Poppy
 tile.Flowers2.flower_blue_orchid.name=Blue Orchid
 tile.Flowers2.flower_allium.name=Allium
 tile.Flowers2.flower_houstonia.name=Houstonia
@@ -2202,6 +2177,7 @@ gui.plans.shears=Shears
 
 #== Другие GUI ==
 gui.Blueprint=Blueprint
+gui.Nametag=Nametag
 gui.fertilized=Fertilized
 gui.Inventory=Inventory
 gui.ClearSlot=Clear an output slot.
@@ -2215,9 +2191,8 @@ gui.Workbench.Crafting=Crafting
 gui.ShowHelp=§8Help: (Hold §fShift§8)
 gui.Help=§8Help:
 gui.Clay.Inst0=§bRight Click §7with 5 in a stack to shape.
-gui.Knife.Inst0=§bRight Click §7the top of a block with a
-gui.Knife.Inst1=bowl in your inventory to create a
-gui.Knife.Inst2=meal preparation area.
+gui.Knife.Inst0=§bRight Click §7the top of a block to
+gui.Knife.Inst1=create a meal preparation area.
 gui.Leather.Inst0=§bRight Click §7with a knife in your inventory to cut.
 gui.LooseRock.Inst0=§bRight Click §7with 2 in a stack to knap.
 gui.MeltedMetal.Inst0=§bRight Click §7to pour or combine.
@@ -2314,6 +2289,7 @@ skill.weaponsmith=Weapon Smithing
 skill.agriculture=Agriculture
 skill.cooking=Cooking
 skill.prospecting=Prospecting
+skill.butchering=Butchering
 
 #===========================
 #======== Остальное ========
@@ -2432,3 +2408,9 @@ gui.FoodPrep.Sandwich=Sandwich
 gui.FoodPrep.Salad=Salad
 item.Sandwich.name=Sandwich
 item.Salad.name=Salad
+item.ClayBowl.Ceramic Bowl.name= Ceramic Bowl
+item.ClayBowl.Clay Bowl.name= Clay Bowl
+item.Sugar.name=Sugar
+item.Sea Weed.name=Sea Weed
+word.stage1= (Стадия 1)
+word.stage2= (Стадия 2)
