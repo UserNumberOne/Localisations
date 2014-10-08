@@ -1848,7 +1848,7 @@ item.stick.name=Палка
 item.coal.coal.name=Уголь
 item.coal.charcoal.name=Древесный уголь
 item.Fertilizer.name=Удобрение
-item.Reeds.name=Сахарный тростник
+item.Reeds.name=Тростник
 
 item.Wooden Bucket Empty.name=Деревянное ведро (Пустое)
 item.Wooden Bucket Water.name=Деревянное ведро (Пресная вода)
@@ -1927,58 +1927,58 @@ item.Jute Fibre.name=Джутовые волокна
 tile.Fungi.mushroom_brown.name=Коричневый гриб
 tile.Fungi.mushroom_red.name=Красный гриб
 tile.Cactus.name=Кактус
-tile.Pumpkin.name=Pumpkin
-tile.Moss.name=Moss
-tile.Thatch.name=Thatch
-tile.Flora.Golden Rod.name=Goldenrod
+tile.Pumpkin.name=Тыква
+tile.Moss.name=Мох
+tile.Thatch.name=Солома
+tile.Flora.Golden Rod.name=Золотарник
 tile.Flora.Cat Tails.name=Cattails
 
-item.Seeds Sugarcane.name=Sugarcane Seeds
-item.Seeds Hemp.name=Hemp Seeds
-item.Seeds Jute.name=Jute Seeds
+item.Seeds Sugarcane.name=Семена сахарного тросника
+item.Seeds Hemp.name=Семена конопли
+item.Seeds Jute.name=Семена джута
 
-tile.TallGrass.tallgrass.name=Tall Grass
-tile.TallGrass.fern.name=Fern
-tile.TallGrass.shortgrass.name=Short Grass
-tile.LilyPad.name=Lilypad
-tile.Vine.name=Vine
-tile.SeaGrassStill.name=Seagrass
-tile.SeaGrassIce.name=Frozen Seagrass
+tile.TallGrass.tallgrass.name=Высокая трава
+tile.TallGrass.fern.name=Папоротник
+tile.TallGrass.shortgrass.name=Короткая трава
+tile.LilyPad.name=Кувшинка
+tile.Vine.name=Лоза
+tile.SeaGrassStill.name=Морская трава
+tile.SeaGrassIce.name=Замороженная морская трава
 
-tile.Flowers.flower_nasturtium.name=Nasturtium
-tile.Flowers.flower_dandelion.name=Dandelion
-tile.Flowers.flower_meads_milkweed.name=Meads Milkweed
-tile.Flowers.flower_tropical_milkweed.name=Tropical Milkweed
-tile.Flowers.flower_butterfly_milkweed.name=Butterfly Milkweed
-tile.Flowers.flower_calendula.name=Calendula
-tile.Flowers2.flower_rose.name=Poppy
-tile.Flowers2.flower_blue_orchid.name=Blue Orchid
-tile.Flowers2.flower_allium.name=Allium
-tile.Flowers2.flower_houstonia.name=Houstonia
-tile.Flowers2.flower_tulip_red.name=Red Tulip
-tile.Flowers2.flower_tulip_orange.name=Orange Tulip
-tile.Flowers2.flower_tulip_white.name=White Tulip
-tile.Flowers2.flower_tulip_pink.name=Pink Tulip
-tile.Flowers2.flower_oxeye_daisy.name=Daisy
+tile.Flowers.flower_nasturtium.name=Настурция
+tile.Flowers.flower_dandelion.name=Одуванчик
+tile.Flowers.flower_meads_milkweed.name=Ваточник
+tile.Flowers.flower_tropical_milkweed.name=Тропический ваточник
+tile.Flowers.flower_butterfly_milkweed.name=Данаид
+tile.Flowers.flower_calendula.name=Календула
+tile.Flowers2.flower_rose.name=Мак
+tile.Flowers2.flower_blue_orchid.name=Синяя орхидея
+tile.Flowers2.flower_allium.name=Лукабатуна
+tile.Flowers2.flower_houstonia.name=Хоустония
+tile.Flowers2.flower_tulip_red.name=Красный тюльпан
+tile.Flowers2.flower_tulip_orange.name=Оранжевый тюльпан
+tile.Flowers2.flower_tulip_white.name=Белый тюльпан
+tile.Flowers2.flower_tulip_pink.name=Розовый тюльпан
+tile.Flowers2.flower_oxeye_daisy.name=Маргаритка
 
 #=======
 #= GUI =
 #=======
-gui.badnbt=BAD Info
+gui.badnbt=ОШИБОЧНАЯ информация
 
 #== GUI Наковальни ==
-gui.Anvil.Plans=Plans
-gui.Anvil.Weld=Weld
+gui.Anvil.Plans=Чертежи
+gui.Anvil.Weld=Сварить
 
-gui.Anvil.LightHit=Light Hit
-gui.Anvil.MediumHit=Medium Hit
-gui.Anvil.HeavyHit=Heavy Hit
-gui.Anvil.Draw=Draw
+gui.Anvil.LightHit=Слабый удар
+gui.Anvil.MediumHit=Средний удар
+gui.Anvil.HeavyHit=Сильный удар
+gui.Anvil.Draw=Протянуть
 
-gui.Anvil.Punch=Punch
-gui.Anvil.Bend=Bend
-gui.Anvil.Upset=Upset
-gui.Anvil.Shrink=Shrink
+gui.Anvil.Punch=Штамповать
+gui.Anvil.Bend=Изогнуть
+gui.Anvil.Upset=Усадить
+gui.Anvil.Shrink=Обжать
 
 gui.Anvil.Rules=Rules
 gui.Anvil.Rule1=Any
@@ -2410,7 +2410,7 @@ item.Sandwich.name=Sandwich
 item.Salad.name=Salad
 item.ClayBowl.Ceramic Bowl.name= Ceramic Bowl
 item.ClayBowl.Clay Bowl.name= Clay Bowl
-item.Sugar.name=Sugar
-item.Sea Weed.name=Sea Weed
+item.Sugar.name=Сахар
+item.Sea Weed.name=Морские водоросли
 word.stage1= (Стадия 1)
 word.stage2= (Стадия 2)
