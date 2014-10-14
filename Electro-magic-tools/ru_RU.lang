@@ -1,7 +1,7 @@
-#=============Creative Tab Name=============
+#=============Название раздела в креативе=============
 itemGroup.EMT.creativeTab=Electro-Magic Tools
 
-#=============Thaumonomicon Tab Name=============
+#=============Название в разделе Таумономикона=============
 tc.research_category.EMT=Electro-Magic Tools
 
 #=============GUI=============
@@ -12,7 +12,7 @@ gui.EMT.inventory=Инвентарь
 gui.EMT.book.aspect.output.eu.title=Книга выхода эссенции
 gui.EMT.book.aspect.output.essentia.eu=Выход EU за эссенцию
 
-#=============Tooltips=============
+#=============Всплывающие подсказки=============
 #This comes after a player name. The 's is depicting ownership.
 tooltip.EMT.hammer.electric= молот
 tooltip.EMT.hammer.broken.thor=Это был молот Тора.
@@ -34,11 +34,11 @@ tooltip.EMT.output.double.lava=если над ним лава
 tooltip.EMT.output.double.half.height=если блок находится над Y = 160
 tooltip.EMT.output.double.half.low=если блок находится под Y = 10
 
-#=============Enity Names=============
+#=============Имена сущностей=============
 entity.EMT.entityLaser.name=Лазер
 entity.EMT.entityArcher.name=Снеговик-хранитель
 
-#=============Item Names=============
+#=============Названия предметов=============
 item.EMT.emtitems.oreClusterUranium=Скопление чистого урана
 item.EMT.emtitems.crushedOreAmber.name=Измельчённая янтарная руда
 item.EMT.emtitems.purifiedOreAmber.name=Очищенная янтарная руда
@@ -172,7 +172,7 @@ item.EMT.carver.iron.name=Iron Shard Carver
 item.EMT.carver.obsidian.name=Obsidian Shard Carver
 item.EMT.carver.diamond.name=Diamond Shard Carver
 
-#=============Block Names=============
+#=============Названия блоков=============
 tile.EMT.shield.name=Защищённый блок
 tile.EMT.portablenode.name=Портативный узел
 tile.EMT.essentiaGens.potentia.name=Генератор эссенции: Potentia
@@ -205,7 +205,7 @@ tile.EMT.emtsolars2.doubleearth.name=Наполненная землёй, два
 tile.EMT.emtsolars2.tripleearth.name=Наполненная землёй, трижды сжатая солнечная панель
 tile.EMT.essentiaGenerator.name=Генератор эссенции
 
-#=============Thaumonomicon Flavor Text=============
+#=============Цитаты в таумономиконе=============
 emt.tag.Electric Magic Tools=Кто сказал что магия и технология не дружат вместе?
 emt.tag.Thaumium Drill=Магическая добыча
 emt.tag.Thaumium Chainsaw=Вырубание деревьев и голов прикосновением магии
@@ -220,11 +220,11 @@ emt.tag.Kris-tmas Focus=Хо! Хо! Хо!
 emt.tag.Shield Focus=З.А.Щ.И.Т.А.
 emt.tag.Potentia Generator=Harnessing the power-producing potential of essentia
 emt.tag.Ignis Generator=If you can't handle the heat...
-emt.tag.Auram Generator=Harnessing the magic in the air
+emt.tag.Auram Generator=Использование возможности магии в воздухе
 emt.tag.Arbor Generator=Bringing power generation back to its basics
 emt.tag.Aer Generator=Compressing your environement
 emt.tag.Chainsaw of the Stream=Вырубка деревьев одним махом
-emt.tag.Drill of the Rockbreaker=Mining it big
+emt.tag.Drill of the Rockbreaker=Большая добыча
 emt.tag.Shield Block=Магическая защита
 emt.tag.Tiny Uranium=Some shrinkage may occur
 emt.tag.Mjolnir=Божественная сила
@@ -261,7 +261,7 @@ emt.tag.Thaumium Reinforced Wings=Уже намного лучше
 emt.tag.Nanosuit Wings=Нанотехнологии в помощь!
 emt.tag.Quantum Wings=Последний шаг...
 
-#=============Thaumonomicon Texts=============
+#=============Тексты в таумономиконе=============
 emt.text.Electric Magic Tools=Who says magic can't work with technology? Our researchers have collaborated with the top mages of the school of Thaumaturgy to bring you the effectiveness of magic coupled with the convenience of electric tools.
 emt.text.Thaumium Drill=You have discovered a way to infuse Thaumium with mundane electricity. Fusing Thaumium to a Diamond Drill results in a tool that can dig through stone faster and has a higher capacity.<BR><BR>While Thaumium is a very useful and powerful material, it is nowhere near the strength of Iridium. It is considered a mid-tier tool. <BR><BR>This tool may not be the most powerful, but you have a feeling that you will be able to upgrade it in the near future.
 emt.text.Thaumium Chainsaw=You have found a way to fuse Thaumium to a Diamond Chainsaw, allowing it to fell trees quicker and hold more power. Nevertheless, these ameliorations do not come without drawbacks: during the process of fusing these materials, the chainsaw loses its ability to shear foliage, tall grass, and animals.<BR><BR>You have an intuition you will be able to upgrade this tool in the near future.
@@ -317,7 +317,7 @@ emt.text.Thaumium Reinforced Wings=The magic infusing thaumium is well known. Th
 emt.text.Nanosuit Wings=Combining the magic harnessed by thaumium with the nanotechnologies in your wings.. seemed like the logical way to go. You can thrust yourself way higher than before, and fall even slower when holding spacebar. Included: fall damage reduction, 75%.
 emt.text.Quantum Wings=After exploring all the possibilities of nanotechnologies, you decided to do the last jump. Quantum. You can thrust yourself many blocks high, have a very good protection, and your fall is slowed down a lot. However, the quantum impredictability happened once again. Your fall will be completely stopped when spacebar and sneak are maintained. You don't know why, but it works. Included: fall damage reduction, 100%.
 
-#=============Console Logging=============
+#=============Сообщения при загрузке игры=============
 console.EMT.preInit.begin=Начало планирования над мировым господством
 console.EMT.preInit.configRead=Создание/Чтение файла конфигурации
 console.EMT.preInit.end=Планирование завершено!
