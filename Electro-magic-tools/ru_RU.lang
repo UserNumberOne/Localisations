@@ -1,65 +1,65 @@
-#=============Название раздела в креативе=============
+#=============Creative Tab Name=============
 itemGroup.EMT.creativeTab=Electro-Magic Tools
 
-#=============Название в разделе Таумономикона=============
+#=============Thaumonomicon Tab Name=============
 tc.research_category.EMT=Electro-Magic Tools
 
 #=============GUI=============
 gui.EMT.config.title=Конфигурация Electro-Magic Tools
 gui.EMT.etherealMacerator.title=Эфирный обработчик
-gui.EMT.wandRecharge.title=Индустриальная станция заряда жезлов
+gui.EMT.wandRecharge.title=Промышленная станция зарядки жезлов
 gui.EMT.inventory=Инвентарь
 gui.EMT.book.aspect.output.eu.title=Книга выхода эссенции
 gui.EMT.book.aspect.output.essentia.eu=Выход EU за эссенцию
 
-#=============Всплывающие подсказки=============
+#=============Tooltips=============
 #This comes after a player name. The 's is depicting ownership.
 tooltip.EMT.hammer.electric= молот
 tooltip.EMT.hammer.broken.thor=Это был молот Тора.
 tooltip.EMT.hammer.broken.danger=Сейчас он очень опасен.
-tooltip.EMT.hammer.broken.plsNoRightClick=Не нажимай ПКМ.
-tooltip.EMT.hammer.broken.plsRightClick=Нажми на ПКМ.
-tooltip.EMT.visDiscount=Vis Discount
-tooltip.EMT.specialEffect=Специальный эффект
+tooltip.EMT.hammer.broken.plsNoRightClick=Не нажимайте ПКМ.
+tooltip.EMT.hammer.broken.plsRightClick=Нажмите ПКМ.
+tooltip.EMT.visDiscount=Уменьшение затрат Вис
+tooltip.EMT.specialEffect=Особый эффект
 tooltip.EMT.normalConditions=Нормальные условия
-tooltip.EMT.euPerTick=EU/т
+tooltip.EMT.euPerTick=EU/тик
 tooltip.EMT.night=ночью
-tooltip.EMT.forget=Didn't I forget a tooltip?
+tooltip.EMT.forget=Я не забыл подсказку?
 tooltip.EMT.raining=во время дождя
-tooltip.EMT.output.triple=Выход умножен на 3
-tooltip.EMT.output.double=Выход умножен на 2
-tooltip.EMT.output.double.half=Выход умножен на 2.5
-tooltip.EMT.output.double.nether=если он находится в нижнем мире
+tooltip.EMT.output.triple=Выход увеличен на 3
+tooltip.EMT.output.double=Выход увеличен на 2
+tooltip.EMT.output.double.half=Выход увеличен на 2.5
+tooltip.EMT.output.double.nether=если он находится в Нижнем мире
 tooltip.EMT.output.double.lava=если над ним лава
-tooltip.EMT.output.double.half.height=если блок находится над Y = 160
-tooltip.EMT.output.double.half.low=если блок находится под Y = 10
+tooltip.EMT.output.double.half.height=если блок находится выше Y = 160
+tooltip.EMT.output.double.half.low=если блок находится ниже Y = 10
 
-#=============Имена сущностей=============
+#=============Enity Names=============
 entity.EMT.entityLaser.name=Лазер
 entity.EMT.entityArcher.name=Снеговик-хранитель
 
-#=============Названия предметов=============
-item.EMT.emtitems.oreClusterUranium=Скопление чистого урана
+#=============Item Names=============
+item.EMT.emtitems.oreClusterUranium=Скопление природного урана
 item.EMT.emtitems.crushedOreAmber.name=Измельчённая янтарная руда
 item.EMT.emtitems.purifiedOreAmber.name=Очищенная янтарная руда
 item.EMT.emtitems.crushedOreCinnabar.name=Измельчённая киноварная руда
 item.EMT.emtitems.purifiedOreCinnabar.name=Очищенная янтарная руда
 item.EMT.emtitems.thaumiumPlate.name=Таум-пластина
 item.EMT.emtitems.lightningSummoner.name=Призыватель молний
-item.EMT.emtitems.featherMesh.name=Перья
+item.EMT.emtitems.featherMesh.name=Кучка перьев
 item.EMT.emtitems.glue.name=Клей
 item.EMT.emtitems.ductTape.name=Клейкая лента
-item.EMT.emtitems.rubberBall.name=Резиновый шар
+item.EMT.emtitems.rubberBall.name=Резиновый шарик
 item.EMT.emtitems.cardboard.name=Картонный лист
-item.EMT.emtitems.featherGluedCardboardWing.name=Склеенное из перьев картонный лист
-item.EMT.emtitems.denseIronSheet.name=Плотная железная пластина
+item.EMT.emtitems.featherGluedCardboardWing.name=Картонное крыло, обклеенное перьями
+item.EMT.emtitems.denseIronSheet.name=Плотный железный лист
 item.EMT.emtitems.taintedFeather.name=Заражённое перо
-item.EMT.emtitems.thaumiumWing.name=Усиленное таум-крыло
-item.EMT.emtitems.uumatterDrop.name=Кристаллизированная материя
+item.EMT.emtitems.thaumiumWing.name=Укреплённое таум-крыло
+item.EMT.emtitems.uumatterDrop.name=Кристаллизированная капля материи
 
-item.EMT.emtbauble.euMaker.armor.name=Кольцо заряда брони
-item.EMT.emtbauble.euMaker.inventory.name=Кольцо заряда инвентаря
-item.EMT.emtbauble.oneRing.name=Кольцо всевластия
+item.EMT.emtbauble.euMaker.armor.name=Кольцо для зарядки брони
+item.EMT.emtbauble.euMaker.inventory.name=Кольцо для зарядки инвентаря
+item.EMT.emtbauble.oneRing.name=Кольцо Всевластия
 
 item.EMT.goggles.electric.name=Электрические очки откровения
 item.EMT.goggles.nano.name=Нано-очки откровения
@@ -70,63 +70,63 @@ item.EMT.boots.traveller.electric.name=Электрические ботинки
 item.EMT.boots.traveller.nano.name=Нано-ботинки путешественника
 item.EMT.boots.traveller.quantum.name=Квантовые ботинки путешественника
 
-item.EMT.scribingtools.electric.name=Электрический инструмент написания
+item.EMT.scribingtools.electric.name=Электрическая чернильница с пером
 
-item.EMT.wing.feather.name=Связанные крылья из перьев и картона
-item.EMT.wing.thaumium.name=Усиленные таум-крылья
+item.EMT.wing.feather.name=Склеенные крылья из картона
+item.EMT.wing.thaumium.name=Укреплённые таум-крылья
 item.EMT.wing.nano.name=Нано-крылья
 item.EMT.wing.quantum.name=Квантовые крылья
 
 item.EMT.hammer.broken.name=Сломанная реликвия Мьёлнира
 item.EMT.hammer.name=Мьёлнир
-item.EMT.hammer.electric.name=Заряженный супер-молот Мьёлнира
+item.EMT.hammer.electric.name=Сильнозаряженный Мьёлнир
 
 item.EMT.drill.thaumium.name=Таум-бур
 
-item.EMT.chainsaw.diamond.name=Алмазная бензопила
-item.EMT.chainsaw.thaumium.name=Таум-бензопила
+item.EMT.chainsaw.diamond.name=Алмазная электропила
+item.EMT.chainsaw.thaumium.name=Таум-электропила
 
-item.EMT.omnitool.iron.name=Iron Omnitool
-item.EMT.omnitool.diamond.name=Diamond Omnitool
-item.EMT.omnitool.thaumium.name=Thaumium Omnitool
+item.EMT.omnitool.iron.name=Железный мультиинструмент
+item.EMT.omnitool.diamond.name=Алмазный мультиинструмент
+item.EMT.omnitool.thaumium.name=Таум-мультиинструмент
 
-item.EMT.chainsaw.stream.name=Бензопила потока
+item.EMT.chainsaw.stream.name=Электропила Потока
 item.EMT.drill.rockbreaker.name=Бур Камнелома
-item.EMT.hoeofgrowth.electric.name=Электрическая мотыга роста
+item.EMT.hoeofgrowth.electric.name=Электрическая мотыга Роста
 
 item.EMT.focus.explosion.name=Набалдашник: Взрыв
-item.EMT.focus.christmas.name=Набалдашник: Kris-tmas
+item.EMT.focus.christmas.name=Набалдашник: Рождество
 item.EMT.focus.shield.name=Набалдашник: Щит
 item.EMT.focus.charge.name=Набалдашник: Зарядка
 item.EMT.focus.charge.wand.name=Набалдашник: Зарядка жезла
 
-item.EMT.drill.wood.name=Деревянный дрель
-item.EMT.drill.stone.name=Каменный дрель
-item.EMT.drill.iron.name=Железный дрель
-item.EMT.drill.gold.name=Золотой дрель
-item.EMT.drill.diamond.name=Алмазный дрель
-item.EMT.drill.copper.name=Медный дрель
-item.EMT.drill.tin.name=Оловянный дрель
-item.EMT.drill.lead.name=Свинцовый дрель
-item.EMT.drill.bronze.name=Бронзовый дрель
+item.EMT.drill.wood.name=Деревянный бур
+item.EMT.drill.stone.name=Каменный бур
+item.EMT.drill.iron.name=Железный бур
+item.EMT.drill.gold.name=Золотой бур
+item.EMT.drill.diamond.name=Алмазный бур
+item.EMT.drill.copper.name=Медный бур
+item.EMT.drill.tin.name=Оловянный бур
+item.EMT.drill.lead.name=Свинцовый бур
+item.EMT.drill.bronze.name=Бронзовый бур
 
-item.EMT.chainsaw.wood.name=Деревянная бензопила
-item.EMT.chainsaw.stone.name=Каменная бензопила
-item.EMT.chainsaw.iron.name=Железная бензопила
-item.EMT.chainsaw.gold.name=Золотая бензопила
-item.EMT.chainsaw.diamond.name=Алмазная бензопила
-item.EMT.chainsaw.copper.name=Медная бензопила
-item.EMT.chainsaw.tin.name=Оловянная бензопила
-item.EMT.chainsaw.lead.name=Свинцовая бензопила
-item.EMT.chainsaw.bronze.name=Бронзовая бензопила
+item.EMT.chainsaw.wood.name=Деревянная электропила
+item.EMT.chainsaw.stone.name=Каменная электропила
+item.EMT.chainsaw.iron.name=Железная электропила
+item.EMT.chainsaw.gold.name=Золотая электропила
+item.EMT.chainsaw.diamond.name=Алмазная электропила
+item.EMT.chainsaw.copper.name=Медная электропила
+item.EMT.chainsaw.tin.name=Оловянная электропила
+item.EMT.chainsaw.lead.name=Свинцовая электропила
+item.EMT.chainsaw.bronze.name=Бронзовая электропила
 
-item.EMT.omnitool.iron.name=Iron Omnitool
-item.EMT.omnitool.gold.name=Golden Omnitool
-item.EMT.omnitool.diamond.name=Diamond Omnitool
-item.EMT.omnitool.copper.name=Copper Omnitool
-item.EMT.omnitool.tin.name=Tin Omnitool
-item.EMT.omnitool.lead.name=Lead Omnitool
-item.EMT.omnitool.bronze.name=Bronze Omnitool
+item.EMT.omnitool.iron.name=Железный мультиинструмент
+item.EMT.omnitool.gold.name=Золотой мультиинструмент
+item.EMT.omnitool.diamond.name=Алмазный мультиинструмент
+item.EMT.omnitool.copper.name=Медный мультиинструмент
+item.EMT.omnitool.tin.name=Оловянный мультиинструмент
+item.EMT.omnitool.lead.name=Свинцовый мультиинструмент
+item.EMT.omnitool.bronze.name=Бронзовый мультиинструмент
 
 item.EMT.material.drillTop.wood.name=Wooden Drill Top
 item.EMT.material.drillTop.stone.name=Stone Drill Top
@@ -156,31 +156,31 @@ item.EMT.material.omnitoolTop.tin.name=Tin Omnitool Top
 item.EMT.material.omnitoolTop.lead.name=Lead Omnitool Top
 item.EMT.material.omnitoolTop.bronze.name=Bronze Omnitool Top
 
-item.EMT.material.shard.wood.name=Деревянный кристалл
-item.EMT.material.shard.stone.name=Каменный кристалл
-item.EMT.material.shard.iron.name=Железный кристалл
-item.EMT.material.shard.gold.name=Золотой кристалл
-item.EMT.material.shard.obsidian.name=Обсидианоый кристалл
-item.EMT.material.shard.copper.name=Медный кристалл
-item.EMT.material.shard.tin.name=Оловянный кристалл
-item.EMT.material.shard.lead.name=Свинцовый кристалл
-item.EMT.material.shard.bronze.name=Бронзовый кристалл
+item.EMT.material.shard.wood.name=Деревянный осколок
+item.EMT.material.shard.stone.name=Каменный осколок
+item.EMT.material.shard.iron.name=Железный осколок
+item.EMT.material.shard.gold.name=Золотой осколок
+item.EMT.material.shard.obsidian.name=Обсидиановый осколок
+item.EMT.material.shard.copper.name=Медный осколок
+item.EMT.material.shard.tin.name=Оловянный осколок
+item.EMT.material.shard.lead.name=Свинцовый осколок
+item.EMT.material.shard.bronze.name=Бронзовый осколок
 
-item.EMT.carver.wood.name=Wooden Shard Carver
-item.EMT.carver.stone.name=Stone Shard Carver
-item.EMT.carver.iron.name=Iron Shard Carver
-item.EMT.carver.obsidian.name=Obsidian Shard Carver
-item.EMT.carver.diamond.name=Diamond Shard Carver
+item.EMT.carver.wood.name=Деревянный резчик по осколкам
+item.EMT.carver.stone.name=Каменный резчик по осколкам
+item.EMT.carver.iron.name=Железный резчик по осколкам
+item.EMT.carver.obsidian.name=Обсидиановый резчик по осколкам
+item.EMT.carver.diamond.name=Алмазный резчик по осколкам
 
-#=============Названия блоков=============
-tile.EMT.shield.name=Защищённый блок
-tile.EMT.portablenode.name=Портативный узел
-tile.EMT.essentiaGens.potentia.name=Генератор эссенции: Potentia
-tile.EMT.essentiaGens.ignis.name=Генератор эссенции: Ignis
-tile.EMT.essentiaGens.auram.name=Генератор эссенции: Auram
-tile.EMT.essentiaGens.arbor.name=Генератор эссенции: Arbor
-tile.EMT.essentiaGens.aer.name=Генератор эссенции: Aer
-tile.EMT.emtmachines.wandrecharge.name=Индустриальная станция заряда жезлов
+#=============Block Names=============
+tile.EMT.shield.name=Щит-блок
+tile.EMT.portablenode.name=Переносной узел
+tile.EMT.essentiaGens.potentia.name=Potentia генератор
+tile.EMT.essentiaGens.ignis.name=Ignis генератор
+tile.EMT.essentiaGens.auram.name=Auram генератор
+tile.EMT.essentiaGens.arbor.name=Arbor генератор
+tile.EMT.essentiaGens.aer.name=Aer генератор
+tile.EMT.emtmachines.wandrecharge.name=Промышленная станция зарядки жезлов
 tile.EMT.emtmachines.etheralprocessor.name=Эфирный обработчик
 tile.EMT.emtsolars.compressed.name=Сжатая солнечная панель
 tile.EMT.emtsolars.doublecompressed.name=Дважды сжатая солнечная панель
@@ -205,91 +205,91 @@ tile.EMT.emtsolars2.doubleearth.name=Наполненная землёй, два
 tile.EMT.emtsolars2.tripleearth.name=Наполненная землёй, трижды сжатая солнечная панель
 tile.EMT.essentiaGenerator.name=Генератор эссенции
 
-#=============Цитаты в таумономиконе=============
+#=============Thaumonomicon Flavor Text=============
 emt.tag.Electric Magic Tools=Кто сказал что магия и технология не дружат вместе?
 emt.tag.Thaumium Drill=Магическая добыча
-emt.tag.Thaumium Chainsaw=Вырубание деревьев и голов прикосновением магии
+emt.tag.Thaumium Chainsaw=Рубка деревьев и голов прикосновением магии
 emt.tag.Electric Goggles=Лучшее из обоих миров
 emt.tag.Nanosuit Goggles of Revealing=Защита глаз высшего уровня
 emt.tag.Quantum Goggles of Revealing=Защита в сочетании с полезностью
-emt.tag.Iron Omnitool=Changing tools is for peasants
+emt.tag.Iron Omnitool=Смена инструментов для холопов
 emt.tag.Diamond Omnitool=Мастер на все руки
-emt.tag.Thaumium Omnitool=Mystical multitool
+emt.tag.Thaumium Omnitool=Мистический мультиинструмент
 emt.tag.Explosion Focus=Используйте только в хорошо вентилируемых помещениях
 emt.tag.Kris-tmas Focus=Хо! Хо! Хо!
 emt.tag.Shield Focus=З.А.Щ.И.Т.А.
-emt.tag.Potentia Generator=Harnessing the power-producing potential of essentia
-emt.tag.Ignis Generator=If you can't handle the heat...
-emt.tag.Auram Generator=Использование возможности магии в воздухе
-emt.tag.Arbor Generator=Bringing power generation back to its basics
-emt.tag.Aer Generator=Compressing your environement
+emt.tag.Potentia Generator=Освоение производящего потенциала эссенции
+emt.tag.Ignis Generator=Если Вы не можете справиться с жаром...
+emt.tag.Auram Generator=Освоение магии в воздухе
+emt.tag.Arbor Generator=Возвращает производство энергии к её истокам
+emt.tag.Aer Generator=Сжатие Вашей окружающей среды
 emt.tag.Chainsaw of the Stream=Вырубка деревьев одним махом
 emt.tag.Drill of the Rockbreaker=Большая добыча
 emt.tag.Shield Block=Магическая защита
-emt.tag.Tiny Uranium=Some shrinkage may occur
+emt.tag.Tiny Uranium=Может произойти небольшое сокращение
 emt.tag.Mjolnir=Божественная сила
-emt.tag.The Legend=Childhood memories...
-emt.tag.Lightning Summoner=From vilest enemies
-emt.tag.Supercharged Mjolnir=Making it yours
-emt.tag.Industrial Wand Charging Station=Charging your wand the industrial way
+emt.tag.The Legend=Воспоминания детства...
+emt.tag.Lightning Summoner=От гнусных врагов
+emt.tag.Supercharged Mjolnir=Индивидуальный стиль
+emt.tag.Industrial Wand Charging Station=Зарядка Вашего жезла промышленным путём
 emt.tag.Compressed Solars=Повышение эффективности!
 emt.tag.Solar Helmet of Revealing=Солнечный свет причиняет боль моим глазам!
-emt.tag.Diamond Chainsaw=Сложнее, лучше, быстрее, сильнее
-emt.tag.Thaumium Plate=Thaumium, the industrial way
-emt.tag.Macerating Native Ore Clusters=Augmenting your yield
-emt.tag.Electric Boots of the Traveller=I've got the power
-emt.tag.Nano Boots of the Traveller=Speed demon
+emt.tag.Diamond Chainsaw=Выносливее, лучше, быстрее, сильнее
+emt.tag.Thaumium Plate=Таум-металл - промышленный путь
+emt.tag.Macerating Native Ore Clusters=Расширяя Ваш доход
+emt.tag.Electric Boots of the Traveller=Вы получили силу
+emt.tag.Nano Boots of the Traveller=Демон скорости
 emt.tag.Quantum Boots of the Traveller=Быстрее света!
 emt.tag.Electric Scribing Tools=Сохраняем спрутов!
 emt.tag.Etheral Processor=Небо голубое...
 emt.tag.Water Infused Solar Panels=Дождь, будь ты проклят!!!
 emt.tag.Entropy Infused Solar Panels=Не боится темноты
-emt.tag.Order Infused Solar Panels=I've got the power!
-emt.tag.Fire Infused Solar Panels=Where it is hot and dangerous...
-emt.tag.Air Infused Solar Panels=Don't be afraid of heights
-emt.tag.Earth Infused Solar Panels=Not for claustrophobic persons 
-emt.tag.UU-Matter Infusion=A magically charged metamorphic liquid...
-emt.tag.Portable Node=Randomly convenient
-emt.tag.Electric Hoe of Growth=Shockingly natural
-emt.tag.Wand Focus: Charging=From vis to electricity
-emt.tag.Wand Focus: Wand Charging=From electricity to vis
-emt.tag.Inventory Charging Ring=Passive charger
-emt.tag.Armor Charging Ring=Passive life-saver
-emt.tag.The One Ring=Forged inside the pit of the volcanic Mount Doom...
+emt.tag.Order Infused Solar Panels=Вы получили силу!
+emt.tag.Fire Infused Solar Panels=Где жарко и опасно...
+emt.tag.Air Infused Solar Panels=Не бойтесь высот
+emt.tag.Earth Infused Solar Panels=Не для людей, страдающих клаустрофобией
+emt.tag.UU-Matter Infusion=Метаморфическая жидкость, заряженная магией...
+emt.tag.Portable Node=Случайное удобство
+emt.tag.Electric Hoe of Growth=Потрясающая природа
+emt.tag.Wand Focus: Charging=От Вис к электричеству
+emt.tag.Wand Focus: Wand Charging=От электричества к Вис
+emt.tag.Inventory Charging Ring=Пассивный зарядник
+emt.tag.Armor Charging Ring=Пассивный спасатель
+emt.tag.The One Ring=Скованно внутри кратера вулкана Ородруина...
 emt.tag.Feather Wings=Это работает только в аниме...
 emt.tag.Thaumium Reinforced Wings=Уже намного лучше
 emt.tag.Nanosuit Wings=Нанотехнологии в помощь!
 emt.tag.Quantum Wings=Последний шаг...
 
-#=============Тексты в таумономиконе=============
-emt.text.Electric Magic Tools=Who says magic can't work with technology? Our researchers have collaborated with the top mages of the school of Thaumaturgy to bring you the effectiveness of magic coupled with the convenience of electric tools.
-emt.text.Thaumium Drill=You have discovered a way to infuse Thaumium with mundane electricity. Fusing Thaumium to a Diamond Drill results in a tool that can dig through stone faster and has a higher capacity.<BR><BR>While Thaumium is a very useful and powerful material, it is nowhere near the strength of Iridium. It is considered a mid-tier tool. <BR><BR>This tool may not be the most powerful, but you have a feeling that you will be able to upgrade it in the near future.
-emt.text.Thaumium Chainsaw=You have found a way to fuse Thaumium to a Diamond Chainsaw, allowing it to fell trees quicker and hold more power. Nevertheless, these ameliorations do not come without drawbacks: during the process of fusing these materials, the chainsaw loses its ability to shear foliage, tall grass, and animals.<BR><BR>You have an intuition you will be able to upgrade this tool in the near future.
-emt.text.Electric Goggles=You have found a way to detect auras using purely electronic means, no longer requiring mystical energy that can be depleted over time. You can now create a pair of Goggles of Revealing that can be recharged with EU while being able to see Aura Nodes just as you could before. A diamond helmet is required to house the sensitive vis sensing circuitry and prevent it from being damaged, which also has the added benefit of providing extra protection.
-emt.text.Nanosuit Goggles of Revealing=You have discovered a way to incorporate your previous vis sensors to a Nanosuit Helmet without moving too much around. By infusing the nano helmet with magic, you will be able to use it to see Aura Nodes. During the magical process, the control circuits for the night vision feature are replaced with capacitors to absorb the excess magical energy and vis-sensing microchips. This will prevent you from turning off the night vision effect of the helmet.
-emt.text.Quantum Goggles of Revealing=It took a lot of trial and error, but you have found a way to slip in vis detection sensors to a Quantum Helmet. By infusing the quantum helmet with magic, you will be able to use it to see Aura Nodes. During the design process, you had to replace several control circuits that involve night vision and automatic feeding with vis detecting circuitry and capacitors to absorb the excess magical energy. You find that using a Mining Laser to contain it can safely focus and direct the explosive pulse where the vision effect and the feeding unit of the helmet lie. Have fun getting force-fed energy. This will prevent you from turning off the night vision and feeding features.
-emt.text.Iron Omnitool=While tinkering with the inner workings of some of your tools to see if magical integration is a possibility, you have discovered a way to combine the Mining Drill and the Chainsaw, resulting in a tool capable of both mining, cutting down trees and attacking enemies! As you are working with mundane metals, magic influence is not needed to merge these tools together.
-emt.text.Diamond Omnitool=Your discovery of an Iron Omnitool has driven you to try to accomplish the same with some more powerful devices. You have discovered a way to combine the Diamond Drill and the Diamond Chainsaw, resulting in a tool capable of both mining, cutting down trees and attacking enemies, while maintaining the speed and capacity bonuses of the diamond tools. As diamonds are incredibly tough and nearly impossible to reshape once the raw diamonds have been fashioned into tools such as drills and chainsaws, you will require a little bit of magic to coax them to merge.
-emt.text.Thaumium Omnitool=After creating the Diamond and Iron Omnitools, the next logical step was to do the same with Thaumium. Unfortunately, this isn't as easy. You have discovered a way to combine the Thaumium Drill and the Thaumium Chainsaw, resulting in a tool capable of mining and chopping trees at great speed with a high energy capacity. These tools have already once been infused with magic. You are not sure what will happen if they were to be infused again.
-emt.text.Explosion Focus=You have found a way to improve the Nine Hells focus.  By exposing the bats to the explosive properties of a Mining Laser, you have built a focus that acts similarly to the Laser but uses vis instead of EU.  However, its effects are incredibly unstable, so you make a note to be careful.
-emt.text.Kris-tmas Focus=Merry Christmas!<BR><BR>You have found a novel use for the frost focus. By exposing it to the magic of Christmas, you can summon your snowy friends at will to fire snowballs at your Festivus celebrating neighbours!
-emt.text.Shield Focus=With some experimentation with the Portable Hole, you have found out more about the transportation of objects to alternate dimensions. You believe you can reverse these effects to summon a swath of blocks from a dimension full of matter to shield you from any oncoming disaster. Caution is to be taken when using this focus, as when bringing these blocks into our dimension, it will transpose any blocks in the way into the dimension it came from, never to return again. You will also be unable to move while this shield is in existance.
-emt.text.Potentia Generator=After much studying and research, you have finally discovered how to create electricity from your leftover essentia.<BR><BR>This generator will produce between 3000 and 3500 EU per unit of Potentia, making it very efficient. Simply place a Warded Jar containing Potentia in a 8 blocks radius of the machine and it will draw it in to create EU.<BR><BR>While Potentia seems like the most logical choice for producing essentia with EU, you believe you will be able to generate electricity from different essentia in the near future with a bit of tinkering.
-emt.text.Ignis Generator=Just as you thought, with a bit of tweaking, you have found a way to instead use Ignis essentia to produce power. On the inside, this machine is able to heat water by consuming Ignis. The steam produced by this heat then spins the turbines, similar to a typical generator.
-emt.text.Auram Generator=Though it took a bit more work than you initially thought, you have found a way to produce EU using Auram essenita. This required a complete reworking of the machine, relying on Auram's pulsating magical power to spin a generator.
-emt.text.Arbor Generator=You always seem to have excess Arbor essentia sitting around. Not anymore! By modifying your original Potentia generator, you have found a way to produce energy using Arbor essentia instead.
-emt.text.Aer Generator=You have discovered the enormous power of the air, and therefore decided to try out a modification of your original Potentia Generator capable of compressing air from Aer essentia in a nearby jar, giving you 300 EU per unit.
-emt.text.Chainsaw of the Stream=After studying both the Axe of the Stream and the Thaumium Chainsaw, you managed to combine most of their abilities, resulting in an electric tool that can chop down whole trees without much effort.
-emt.text.Drill of the Rockbreaker=After studying the Pickaxe of the Core, the Shovel of the Earthmover and the Thaumium Drill, you have managed to combine most of their abilities, resulting in an electric tool that can mine a whole 3x3x1 area of pickaxe and dirt materials very quickly.<BR><BR>This marvelous device is able to find the closest ore clusters on a shift-right click, though at the cost of some EU.
-emt.text.Shield Block=After studying the blocks created by the shield focus, you have discovered how to recreate them yourself, without relying on them to be summoned by the focus. They are highly blast resistant, and even resistant to nukes. However, in the event of an actual nuclear explosion, while the shield blocks will survive the aftermath, the surrounding blocks will not.<BR><BR>These blocks are unstable and do not drop when broken, even when Silk Touch is used.
-emt.text.Tiny Uranium=After processing all your ores and using them for the creation of nuclear reactors, you have finally run out of uranium nuggets, nedeed to make your beloved fuel rods. After long research sessions, you have managed to transform your leftover uranium into much-needed nuggets!<BR><BR>Unfortunately, this process is a bit wasteful, but you believe it to be worth the cost.
-emt.text.Mjolnir=You have travelled the world, in quest for the mighty Hammer of Thor. One day, you stumbled upon its broken remains, and your heart crumbled with it. Ater some long and tedious research, you found a way to restore this magnificent tool to its past greatness.<BR><BR>You have an odd feeling,(you seem to have a lot of these), that although this tool is amazingly powerful, you could do more with it.
-emt.text.The Legend=You have always heard about the Legend of the Hammer.<BR><BR>It is said that the god of Lightning, Thor, had a hammer capable of summoning lightning.<BR><BR>The legend also states that, when the god retired in his dimension, he left his hammer, hidden somewhere in a well protected dungeon, where only a worthy mortal could find it.<BR><BR>You have long since wanted to go explore the world, to try and find it.
-emt.text.Lightning Summoner=This item is dropped by your archenemy, the Supercharged Creeper. You feel it is going to be very useful later on.
-emt.text.Supercharged Mjolnir=After some more exploring of the dungeons existing all around the worlds and dimensions, you have managed to find a method that makes you able to overpower Thor's power, making his Hammer yours. Furthermore, you have managed to make your Hammer summon defenders, some strange Snow-Golems like creature that shall protect you. However, the hammer lost its power to summon lightning where you desire it to, and creates a ring of lightning around you.
-emt.text.Industrial Wand Charging Station=You have managed to combine the powers of the Wand Pedestal with those of the mighty UU-Matter, resulting in a machine capable of replicating aspects on your wand, at the cost of 50000 EU to recharge every aspect on the wand of 1 unit.
-emt.text.Compressed Solars=You have found a way to compress 9 mundane Solar Panels in a magical one, that acts as if it was made of 10 mundane solar panels, generating 10 eu/t. You may repeat this process with compressed solar panels, allowing you to increase the power potential per block even higher. You can also, by magical infusion, create triple compressed solar panels, taking the folly a step further.
-emt.text.Solar Helmet of Revealing=You now have a helmet that acts exactly like your quantum goggles of revealing, but can also recharge your chest armor! It generates 128 eu/t during the day, and nothing at night.
+#=============Thaumonomicon Texts=============
+emt.text.Electric Magic Tools=Кто сказал, что магия не может дружить с технологией? Наши исследователи сотрудничали с лучшими магами школы тауматургов, чтобы приподнести Вам эффективность магии, в сочетании с удобством электроинструментов.
+emt.text.Thaumium Drill=Вы обнаружили способ наполнения таум-металла земным электричеством. Результатом соединения таум-металла с алмазным буром, стал инструмент, который может добывать камень быстрее и который имеет большую ёмкость.<BR><BR>Несмотря на то, что таум-металл очень полезный и прочный материал, его прочность близка к прочности иридия. Этот инструмент считается инструментом среднего уровня. <BR><BR>Этот инструмент, возможно, не самый мощный, но у Вас есть ощущение, что Вы сможете улучшить его в ближайшем будущем.
+emt.text.Thaumium Chainsaw=Вы обнаружили способ соединения таум-металла с алмазной электропилой, что позволяет ей рубить деревья быстрее и содержать больше энергии. Nevertheless, these ameliorations do not come without drawbacks: during the process of fusing these materials, the chainsaw loses its ability to shear foliage, tall grass, and animals.<BR><BR>You have an intuition you will be able to upgrade this tool in the near future.
+emt.text.Electric Goggles=Вы обнаружили способ обнаружения аур, используя чисто электрические средства, больше не требуется мистическая энергия, которая может быть утрачена с течением времени. You can now create a pair of Goggles of Revealing that can be recharged with EU while being able to see Aura Nodes just as you could before. A diamond helmet is required to house the sensitive vis sensing circuitry and prevent it from being damaged, which also has the added benefit of providing extra protection.
+emt.text.Nanosuit Goggles of Revealing=Вы обнаружили способ добавления Ваших предыдущих датчиков Вис, в нано-шлем без особых усилий. By infusing the nano helmet with magic, you will be able to use it to see Aura Nodes. During the magical process, the control circuits for the night vision feature are replaced with capacitors to absorb the excess magical energy and vis-sensing microchips. This will prevent you from turning off the night vision effect of the helmet.
+emt.text.Quantum Goggles of Revealing=Методом проб и ошибок, Вы обнаружили способ добавления датчиков Вис в квантовой шлем. By infusing the quantum helmet with magic, you will be able to use it to see Aura Nodes. During the design process, you had to replace several control circuits that involve night vision and automatic feeding with vis detecting circuitry and capacitors to absorb the excess magical energy. You find that using a Mining Laser to contain it can safely focus and direct the explosive pulse where the vision effect and the feeding unit of the helmet lie. Have fun getting force-fed energy. This will prevent you from turning off the night vision and feeding features.
+emt.text.Iron Omnitool=Работая с некоторыми из Ваших инструментов, Вы решили узнать - возможна ли магическая интеграция? Вы обнаружили способ соединения бура с электропилой, результатом стал инструмент, который подходит для добычи ресурсов, рубки деревьев и защиты от монстров! Поскольку Вы работаете с земными металлами, магическое влияние не требуется для объединения этих инструментов.
+emt.text.Diamond Omnitool=Ваше открытие железного мультиинструмента привело Вас к попытке сделать то же самое, но с более мощными инструментами. You have discovered a way to combine the Diamond Drill and the Diamond Chainsaw, resulting in a tool capable of both mining, cutting down trees and attacking enemies, while maintaining the speed and capacity bonuses of the diamond tools. As diamonds are incredibly tough and nearly impossible to reshape once the raw diamonds have been fashioned into tools such as drills and chainsaws, you will require a little bit of magic to coax them to merge.
+emt.text.Thaumium Omnitool=После создания алмазного и железного мультиинструментов, следующим логическим шагом стал таум-мультиинструмент. Unfortunately, this isn't as easy. You have discovered a way to combine the Thaumium Drill and the Thaumium Chainsaw, resulting in a tool capable of mining and chopping trees at great speed with a high energy capacity. These tools have already once been infused with magic. You are not sure what will happen if they were to be infused again.
+emt.text.Explosion Focus=Вы обнаружили способ улучшения набалдашника: 9 кругов ада.  By exposing the bats to the explosive properties of a Mining Laser, you have built a focus that acts similarly to the Laser but uses vis instead of EU.  However, its effects are incredibly unstable, so you make a note to be careful.
+emt.text.Kris-tmas Focus=С Рождеством!<BR><BR>Вы обнаружили новое применение для набалдашника: Заморозка. By exposing it to the magic of Christmas, you can summon your snowy friends at will to fire snowballs at your Festivus celebrating neighbours!
+emt.text.Shield Focus=После некоторых экспериментов с червоточиной, Вы узнали больше о транспортировке объектов в альтернативные измерения. You believe you can reverse these effects to summon a swath of blocks from a dimension full of matter to shield you from any oncoming disaster. Caution is to be taken when using this focus, as when bringing these blocks into our dimension, it will transpose any blocks in the way into the dimension it came from, never to return again. You will also be unable to move while this shield is in existance.
+emt.text.Potentia Generator=После долгих изучений и исследований, Вы, наконец-то, узнали как получить электричество от остатков эссенции.<BR><BR>This generator will produce between 3000 and 3500 EU per unit of Potentia, making it very efficient. Simply place a Warded Jar containing Potentia in a 8 blocks radius of the machine and it will draw it in to create EU.<BR><BR>While Potentia seems like the most logical choice for producing essentia with EU, you believe you will be able to generate electricity from different essentia in the near future with a bit of tinkering.
+emt.text.Ignis Generator=Так же, как Вы думали, после небольшой настройки, Вы обнаружили способ использования эссенции Ignis для получения электричества. On the inside, this machine is able to heat water by consuming Ignis. The steam produced by this heat then spins the turbines, similar to a typical generator.
+emt.text.Auram Generator=Хотя потребовалось немного больше работы, чем Вы первоначально думали, Вы обнаружили способ производить EU, используя эссенцию Auram. This required a complete reworking of the machine, relying on Auram's pulsating magical power to spin a generator.
+emt.text.Arbor Generator=У Вас всегда есть избыток эссенции Arbor? Уже нет! После модификации Potentia генератора, Вы обнаружили способ производства энергии, используя эссенцию Arbor.
+emt.text.Aer Generator=Вы обнаружили огромную энергию в воздухе и поэтому решили попробовать модифицировать обычный Potentia генератор, чтобы позволить ему сжимать воздух из эссенции Aer, отдавая 300 EU за единицу эссенции.
+emt.text.Chainsaw of the Stream=После изучения топора Потока и таум-электропилы, Вам удалось объединить большую часть их особенностей, результатом стал электроинструмент, который может срубать целые деревья без особых усилий.
+emt.text.Drill of the Rockbreaker=После изучения кирки Огня, лопаты Землероя и таум-бура, Вам удалось объединить большую часть их особенностей, результатом стал электроинструмент, который может добывать область 3x3x1, как кирка, и материалы, схожие с землёй, очень быстро.<BR><BR>Этот чудесный инструмент может найти ближайшие рудные скопления по shift-ПКМ, это будет стоить немного EU.
+emt.text.Shield Block=После изучения блоков, созданных набалдашником: Щит, Вы обнаружили способ, как воссоздать их, не полагаясь на набалдашник. They are highly blast resistant, and even resistant to nukes. However, in the event of an actual nuclear explosion, while the shield blocks will survive the aftermath, the surrounding blocks will not.<BR><BR>These blocks are unstable and do not drop when broken, even when Silk Touch is used.
+emt.text.Tiny Uranium=После обработки всех Ваших руд и использования их для создания ядерных реакторов, у Вас закончились урановые самородки, необходимые для Ваших топливных стержней. After long research sessions, you have managed to transform your leftover uranium into much-needed nuggets!<BR><BR>Unfortunately, this process is a bit wasteful, but you believe it to be worth the cost.
+emt.text.Mjolnir=Вы путешествовали по миру, в поисках могучего молота Тора. Однажды, Вы наткнулись на его останки, и Ваше сердце рассыпалось вместе с ними. Ater some long and tedious research, you found a way to restore this magnificent tool to its past greatness.<BR><BR>You have an odd feeling,(you seem to have a lot of these), that although this tool is amazingly powerful, you could do more with it.
+emt.text.The Legend=Вы очень часто слышали легенду о молоте.<BR><BR>Она говорит, что бог Молний, Тор, имел молот, способный призвать молнии.<BR><BR>The legend also states that, when the god retired in his dimension, he left his hammer, hidden somewhere in a well protected dungeon, where only a worthy mortal could find it.<BR><BR>You have long since wanted to go explore the world, to try and find it.
+emt.text.Lightning Summoner=Этот предмет выпал из Вашего заклятого врага, сильнозаряженного крипера. Вы чувствуете, что он будет полезен позже.
+emt.text.Supercharged Mjolnir=После длительного исследования подземелий, существующих во всех мирах и измерениях, Вам удалось найти способ, который позволит Вам получить силу Тора, делая его молот - Вашим. Furthermore, you have managed to make your Hammer summon defenders, some strange Snow-Golems like creature that shall protect you. However, the hammer lost its power to summon lightning where you desire it to, and creates a ring of lightning around you.
+emt.text.Industrial Wand Charging Station=Вы сумели объединить силы пьедестала с могучей материей, результатом стал механизм, способный воспроизводить аспекты Вашего жезла, ценой в 50000 EU, Вы можете восстановить каждый аспект Вашего жезла на 1 единицу.
+emt.text.Compressed Solars=Вы обнаружили способ сжатия девяти земных солнечных панелей в одну магическую, которая работает, как десять земных солнечных панелей, производя 10 EU/тик. You may repeat this process with compressed solar panels, allowing you to increase the power potential per block even higher. You can also, by magical infusion, create triple compressed solar panels, taking the folly a step further.
+emt.text.Solar Helmet of Revealing=Теперь у Вас есть шлем, который функционирует, как квантовые очки откровения, но он также может заряжать Вашу кирасу! It generates 128 EU/тик during the day, and nothing at night.
 emt.text.Diamond Chainsaw=You are unsure why the thought of upgrading a Chainsaw with diamonds similarily to what you have done with a Drill has never occured to you. This upgrade makes the Chainsaw capable of holding more energy and breaking blocks faster.
 emt.text.Thaumium Plate=As every electrical engineer knows, plates are the basis of many devices. We knew that pressing Thaumium into plates would be a neccesary step to facilitate integration of magic into our tools, but this made the mages of the school of Thaumaturgy very upset. The don't like us tampering with their precious metal. You can produce these plates as shown, which is a bit more expensive, or in a metal former, requiring only one Thaumium Ingot. Keep an eye out for angry mages.
 emt.text.Macerating Native Ore Clusters=You can macerate all Native Ore Clusters, except cinnabar. You will get 22 tiny dusts per Native Ore Cluster macerated.
@@ -317,28 +317,28 @@ emt.text.Thaumium Reinforced Wings=The magic infusing thaumium is well known. Th
 emt.text.Nanosuit Wings=Combining the magic harnessed by thaumium with the nanotechnologies in your wings.. seemed like the logical way to go. You can thrust yourself way higher than before, and fall even slower when holding spacebar. Included: fall damage reduction, 75%.
 emt.text.Quantum Wings=After exploring all the possibilities of nanotechnologies, you decided to do the last jump. Quantum. You can thrust yourself many blocks high, have a very good protection, and your fall is slowed down a lot. However, the quantum impredictability happened once again. Your fall will be completely stopped when spacebar and sneak are maintained. You don't know why, but it works. Included: fall damage reduction, 100%.
 
-#=============Сообщения при загрузке игры=============
+#=============Console Logging=============
 console.EMT.preInit.begin=Начало планирования над мировым господством
-console.EMT.preInit.configRead=Создание/Чтение файла конфигурации
-console.EMT.preInit.end=Планирование завершено!
+console.EMT.preInit.configRead=Создание/чтение файла конфигурации
+console.EMT.preInit.end=Планирование завершено
 
 console.EMT.init.begin=Сбор союзников
 console.EMT.init.loadProxies=Загрузка прокси
-console.EMT.init.mobDrops=Добавление дропа для мобов
-console.EMT.init.dungeon=Добавление лута
+console.EMT.init.mobDrops=Добавление предметов для мобов
+console.EMT.init.dungeon=Добавление сокровищ
 console.EMT.init.recipes=Добавление рецептов
-console.EMT.init.entities=Добавление сущностей
-console.EMT.init.guiHandler=Подготовка GUI
-console.EMT.init.end=Cоюзники собраны.
+console.EMT.init.entities=Регистрация сущностей
+console.EMT.init.guiHandler=Регистрация обработчика интерфейса
+console.EMT.init.end=Союзники собраны.
 
 console.EMT.postInit.begin=Начало захвата мира
 console.EMT.postInit.recipes=Добавление рецептов
-console.EMT.postInit.uumatter=Добавление рецептов для материи
-console.EMT.postInit.end=Мир захвачен!
+console.EMT.postInit.uumatter=Добавление рецептов наполнения для материи
+console.EMT.postInit.end=Захват мира завершён. Наслаждайтесь!
 
 console.EMT.config.refresh=Обновление конфигурационного файла.
 
-console.EMT.recipes.amberConflict=Удаление конфликтующих рецептов янтаря в дробителе
-console.EMT.recipes.cinnabarConflict=Удаление конфликтующих рецептов киновари в дробителе
+console.EMT.recipes.amberConflict=Удаление конфликтующих рецептов дробления янтаря
+console.EMT.recipes.cinnabarConflict=Удаление конфликтующих рецептов дробления киновари
 
-console.EMT.modLoaded.GT=Обнаружен аддон Gregtech. Отключение фикса для рецепта Алмазного бура...
+console.EMT.modLoaded.GT=Обнаружен аддон GregTech. Отключение исправления для рецепта алмазного бура...
