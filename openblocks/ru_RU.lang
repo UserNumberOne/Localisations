@@ -29,10 +29,10 @@ openblocks.gui.misc=Разное
 openblocks.gui.digitalfuse=Цифровой запал
 
 openblocks.gui.welcome.title=Добро пожаловать!
-openblocks.gui.welcome.content=OpenBlocks - это новая модификация с открытым исходным кодом, которая внедряет множество идей в Minecraft. В том числе дельтапланы, лифты, резервуары, могилы, краски, краны, жидкий опыт, картографы, трофеи и многое другое!
+openblocks.gui.welcome.content=OpenBlocks - это новая модификация с открытым исходным кодом, которая внедряет множество идей в Minecraft. В числе этих идей: Дельтапланы, лифты, резервуары, могилы, краски, краны, жидкий опыт, картографы, трофеи и многое другое!
 
 openblocks.gui.credits.title=Авторы
-openblocks.gui.credits.content=§LBoq, Mikee и NeverCast§R - ведущие разработчики OpenBlocks (Можем ли Мы написать про себя?)\n\n§LSinZ и Yoshi2§R - члены команды OpenMods с самого начала.\n\n§LVexatos и crafteverywhere§R - регулярно переводят модификации.\n\nВсе остальные, кто внёс свой вклад в код за последний год.\n\n§LDirewolf20 и остальная часть ForgeCraft§R - за нахождение багов и вылетов перед обновлениями.\n\nВсе кто делал обзоры, "летсплеи" и в целом поддержал мод, когда мы начинали!
+openblocks.gui.credits.content=§LBoq, Mikee и NeverCast§R - Ведущие разработчики OpenBlocks (Можем ли Мы написать про себя?)\n\n§LSinZ и Yoshi2§R - Члены команды OpenMods с самого начала.\n\n§LVexatos и crafteverywhere§R - Регулярно переводят наши модификации.\n\nВсе остальные, кто внёс свой вклад в код за последний год.\n\n§LDirewolf20 и остальная часть ForgeCraft§R - За нахождение багов и вылетов перед обновлениями.\n\nВсе кто делал обзоры, "летсплеи" и в целом поддержал мод, когда мы начинали!
 
 openblocks.gui.config.title=Лёгкое редактирование конфигурации
 openblocks.gui.config.content=OpenMods позволяет клиенту и серверу изменять настройки конфигурации через команды чата. Некоторые даже не требуют перезапуск!\n\nСерверные настройки конфигурации могут быть изменены с помощью '§L/om_config_s§R' (Нужен Оп), а настройки конфигурации клиента могут быть изменены с помощью '§L/om_config_c§R'\n\nНапример:\n\n§L/om_config_s set OpenBlocks dropblock elevatorDrainsXP false§R\n§L/om_config_s save§R\n\nДля получения полного списка команд напишите: §L/help om_config_s§R или §L/help om_config_c§R
@@ -107,8 +107,8 @@ openblocks.misc.radio.too_many=Слишком много радио уже ра�
 openblocks.misc.radio.invalid_stream=Недействительный стрим
 openblocks.misc.radio.invalid_url=Недействительная ссылка
 openblocks.misc.radio.url_not_found=Ссылка не найдена
-openblocks.misc.radio.unknown_stream_type=Неизвестный тип стрима
-openblocks.misc.radio.malformed_data=Плохо составленные данные в стриме
+openblocks.misc.radio.unknown_stream_type=Неизвестный тип потока
+openblocks.misc.radio.malformed_data=Плохо составленные данные в потоке
 openblocks.misc.radio.not_ready=Стрим не готов, попробуйте позже
 openblocks.misc.radio.cant_connect=Не удаётся подключиться
 openblocks.misc.radio.unknown_error=Неизвестная ошибка
@@ -120,12 +120,12 @@ openblocks.misc.side.north=Северная сторона
 openblocks.misc.side.south=Южная сторона
 openblocks.misc.side.up=Верхняя сторона
 openblocks.misc.side.down=Нижняя сторона
-
+«Флим Флам»
 openblocks.misc.command.invalid=Недопустимые аргументы команды
-openblocks.misc.command.no_flim_flam=Invalid flim-flam name
-openblocks.misc.command.flim_flam_source=Player %s had been successfully flim-flammed with %s
+openblocks.misc.command.no_flim_flam=Недопустимое «Флим-Флам» имя
+openblocks.misc.command.flim_flam_source=Игрок %s успешно соединился с %s
 openblocks.misc.command.flim_flam_target=Кто-то не любит Вас. Кто-то, у кого есть сила
-openblocks.misc.command.flim_flam_failed=Flim-flamming failed!
+openblocks.misc.command.flim_flam_failed=Не удалось соединиться с игроком!
 openblocks.misc.command.luck_added=Удача изменена для игрока %s, текущая: %d
 openblocks.misc.command.luck_current=Удача: %d игрока %s
 openblocks.flim_flammed=Что-то странное происходит вокруг Вас
@@ -133,67 +133,67 @@ openblocks.flim_flammed=Что-то странное происходит вок
 openblocks.turtle.magnet=Магнит
 
 tile.openblocks.elevator.name=Лифт
-tile.openblocks.elevator.description=Place one elevator directly three or more blocks above another with no blocks inbetween and you'll be able to either 'jump' to move up, or 'crouch' to move down. Elevators can be dyed by clicking on them with dye, however, you can only teleport between elevators of the same color.
+tile.openblocks.elevator.description=Поставьте первый лифт, а через три или более блоков в высоту другой, между ними должно быть пустое пространство, и Вы сможете либо 'прыгнуть', чтобы подняться, либо 'присесть', чтобы спуститься. Лифты могут быть покрашены нажатием по ним красителем, однако, Вы можете телепортироваться только между лифтами одинакового цвета.
 tile.openblocks.elevator.video=http://www.youtube.com/watch?v=bCfhJCkox5g
 
 tile.openblocks.heal.name=Исцелитель
 tile.openblocks.heal.description=Исцеляющий блок - это блок только для творческого режима, который даёт небольшой лечебный эффект с течением времени.
 
 tile.openblocks.guide.name=Руководитель по строительству
-tile.openblocks.guide.description=The building guide will give you an outline of ghost blocks in different shapes and sizes that'll help you plan out rooms.\nYou can shift-click the guide to change the shape, or you can whack the different sides to increase or decrease the size.\nWhen in creative mode you can place an obsdian block above, then hit the building guide with any block you like to automatically create the shape.
+tile.openblocks.guide.description=Руководитель по строительству покажет Вам схему из призрачных блоков различных форм и размеров, что поможет Вам распланировать комнаты.\nВы можете нажать shift-ПКМ по нему, чтобы изменить форму, или Вы можете постукать по разным сторонам, чтобы увеличить или уменьшить размер.\nЕсли Вы в творческом режим, Вы можете поставить обсидиановый блок над ним, затем ударить его любим блоком, чтобы автоматически создать комнату нужного размера и формы.
 tile.openblocks.guide.video=http://www.youtube.com/watch?v=XAKxfQhdLRA
 
-tile.openblocks.ladder.name=Лестница-люк
-tile.openblocks.ladder.description=The jaded ladder solves that annoying problem of jumping out of a trapdoor at the top of a ladder. The jaded ladder acts as both a trap door and a ladder at the same time.
+tile.openblocks.ladder.name=Люк-лестница
+tile.openblocks.ladder.description=Люк-лестница исправляет эту досадную ошибку, когда Вы не можете до конца подняться по лестнице, если сверху люк. Люк-лестница действует, как люк и лестница, одновременно.
 tile.openblocks.ladder.video=http://www.youtube.com/watch?v=PSNeU6kAigY
 
 tile.openblocks.tank.name=Резервуар
-tile.openblocks.tank.description=Tanks can hold liquids. If you place tanks next to each other and they'll distribute their liquid between the tanks. You can place liquid into the tanks using buckets. If the tank contains XP Juice you can click on them with an empty hand to give yourself some of the XP. When broken tanks will retain their liquid.
+tile.openblocks.tank.description=Резервуары могут хранить жидкости. Если Вы поставите резервуары рядом друг к другу, то они объединятся и обменяются жидкостью. Вы можете залить жидкости в резервуары с помощью ведра. Если резервуар содержит жидкий опыт, Вы можете нажать на них пустой рукой, чтобы получить немного опыта. Если сломать резервуар, то он сохранит свою жидкость.
 tile.openblocks.tank.video=http://www.youtube.com/watch?v=NBcneEthjn0
 
 tile.openblocks.flag.name=Флаг
-tile.openblocks.flag.description=Flags can be used for decoration or for marking the way back out of a cave you've ventured in to. The flag will point in the direction that you placed it, or you can put it on walls. If you shift-click with a flag in your hand it will change color.
+tile.openblocks.flag.description=Флаги могут быть использованы для украшения или для маркировки выхода из пещеры. Флаг будет показывать в то направление, в которые Вы его направили, или Вы можете повесить его на стену. Если Вы нажмёте shift-ПКМ с флагом в руке, то он изменит цвет.
 
 tile.openblocks.beartrap.name=Медвежий капкан
 tile.openblocks.beartrap.description=Поставьте медвежий капкан и нажмите на него, чтобы открыть его. Когда моб наступит на ловушку, он не сможет двигаться!
 
 tile.openblocks.sponge.name=Губка
-tile.openblocks.sponge.description=The sponge is a replacement for the vanilla sponge. Perfect for removing small pockets of lava or water. Be careful when using it on large areas of liquid though as it'll start to get quite messy.
+tile.openblocks.sponge.description=Губка является заменой оригинальной губки. Идеально подходит для удаления небольших впадин с водой или лавой. Будьте осторожны используя её для очистки большой площади от жидкости, так как она может начать работать неправильно.
 
 item.openblocks.spongeonastick.name=Губка на палочке
 item.openblocks.spongeonastick.description=Губка на палочке - это инструмент для очистки жидкостей. Работает, как простая губка, но более мобильна за счёт изнашивания.
 
 tile.openblocks.cannon.name=Предметная пушка
-tile.openblocks.cannon.description=When given a redstone signal, the item cannon will shoot items that it finds in an adjacent inventory. Use the 'pointer' item to aim the cannon.
+tile.openblocks.cannon.description=Когда подан сигнал красного камня, предметная пушка будет выстреливать предметы, которые она найдёт в соседнем инвентаре. Используйте 'указатель', чтобы направить пушку.
 
 tile.openblocks.ropeladder.name=Верёвочная лестница
 tile.openblocks.ropeladder.description=Когда Вы размещаете верёвочную лестницу, она разворачивается на всё расстояние до земли.
 
 tile.openblocks.sprinkler.name=Разбрызгиватель
-tile.openblocks.sprinkler.description=The sprinkler will help fertilize crops up to 4 blocks away. Simply place it above an OpenBlocks tank filled with water! You can also add bonemeal for an even faster rate of growth.\nIt also acts as a water source block!
+tile.openblocks.sprinkler.description=Разбрызгиватель поможет удобрять культуры вблизи четырёх блоков, со всех сторон. Просто поместите его над резервуаром OpenBlocks, заполненным водой! Вы также можете добавить костную муку для ещё большего ускорения роста культур.\nОн также считается источником воды!
 
 tile.openblocks.paintmixer.name=Смеситель краски
-tile.openblocks.paintmixer.description=The paint mixer can mix any colour of paint you want! Drop either an existing paint bucket or a bucket of milk into the top slot, then cyan, magenta, yellow and black dyes into the other four slots and click mix!
+tile.openblocks.paintmixer.description=Смеситель краски может смешать краски любого цвета! Положите ведро краски или ведро молока в верхний слот, затем бирюзовый, сиреневый, жёлтый и чёрные красители в четыре других слота и нажмите смешать!
 tile.openblocks.paintmixer.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 tile.openblocks.canvas.name=Холст
-tile.openblocks.canvas.description=The canvas is a perfectly white block that's perfect for painting. See the Paint Mixer for information about making paints.
+tile.openblocks.canvas.description=Холст - это совершенно белый блок, который идеально подходит для рисования. Смотрите информацию о смесители краски, чтобы узнать больше о рисовании.
 tile.openblocks.canvas.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 tile.openblocks.fan.name=Вентилятор
-tile.openblocks.fan.description=Вентилятор будет дуть на игроков, мобов или сущностей, в направлении, куда он смотрит.
+tile.openblocks.fan.description=Вентилятор будет сдувать игроков, мобов и других сущностей туда, куда он повёрнут.
 
 tile.openblocks.target.name=Мишень
-tile.openblocks.target.description=The target will give out a redstone signal of a strength relative to the accuracy of the players aim. Give the target a redstone signal to make it pop up!
+tile.openblocks.target.description=Мишень будет выдавать сигнал красного камня с силой, зависимой от точности игрока. Дайте мишени сигнал красного камня, чтобы она поднялась!
 
 tile.openblocks.path.name=Путь
 tile.openblocks.path.description=Путь ничего не делает. Он просто выглядит красиво!
 
 tile.openblocks.itemDropper.name=Выбрасыватель предметов
-tile.openblocks.itemDropper.description=The item dropper is similar to the vanilla dropper, except it drops items directly down in a straight line.
+tile.openblocks.itemDropper.description=Выбрасыватель предметов аналогичен оригинальному выбрасывателю, за исключением того, что он выбрасывает предметы вниз по прямой линии.
 
 tile.openblocks.bigbutton.name=Большая кнопка
-tile.openblocks.bigbutton.description=The big button is a large button that can be placed on walls. If you shift-click on the button with an empty hand it will bring up an inventory with a single slot. You can put items into this slot to increase the length of time the button is pressed - one item increases the button press by one tick.
+tile.openblocks.bigbutton.description=Большая кнопка - это большая кнопка, которая может быть поставлена на стену. Если Вы нажмёте shift-ПКМ по кнопке пустой рукой, Вам будет показан инвентарь с одним слотом. Вы можете положить предметы в этот слот, чтобы увеличить количество времени, во время которого кнопка остаётся нажатой - один предмет увеличивает время нажатия кнопки на один тик.
 
 tile.openblocks.xpdrain.name=Всасыватель опыта
 tile.openblocks.xpdrain.description=Place the XP drain above an OpenBlocks tank and stand on it. Your XP will drain into the tank, which can then be used for blocks such as the auto enchantment table or the auto anvil.
@@ -205,7 +205,7 @@ tile.openblocks.village_highlighter.name=Подсвечиватель дерев
 tile.openblocks.village_highlighter.description=Drop the village highlighter down in a village and give it a redstone signal. It will outline the perimeter of the village and draw a box in the iron golem spawning area. Useful if you want to make sure villages don't merge into each other or you're making an iron farm!
 
 tile.openblocks.donationStation.name=Станция пожертвований
-tile.openblocks.donationStation.description=Love a block or item and want to show the mod developer some appreciation? Drop it into the donation station and if we know the authors donation page we'll give you a link.
+tile.openblocks.donationStation.description=Любите блок или предмет и хотите показать своё уважение разработчику модификации? Бросьте его в станцию пожертвований и если мы знаем страницу пожертвований этого автора, мы дадим Вам ссылку.
 
 tile.openblocks.blockPlacer.name=Разместитель блоков
 tile.openblocks.blockPlacer.description=When given a redstone pulse the block placer will place an item in the direction it's facing.
@@ -214,7 +214,7 @@ tile.openblocks.blockbreaker.name=Разрушитель блоков
 tile.openblocks.blockbreaker.description=When given a redstone pulse the block breaker will break the block it's facing.
 
 tile.openblocks.projector.name=Прожектор карты высот
-tile.openblocks.projector.description=I'll let you write this one boq!
+tile.openblocks.projector.description=Пусть boq напишет описание для него!
 
 tile.openblocks.autoenchantmenttable.name=Автоматический стол зачаровывания
 tile.openblocks.autoenchantmenttable.description=The auto enchantment table works in a similar way to the vanilla enchantment table except it runs off XP juice. Use the tabs on the right side of the interface to select where items or xp can be pulled from. Just like with the vanilla table bookshelves are required for higher levels.
