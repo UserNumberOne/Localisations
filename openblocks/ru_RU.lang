@@ -196,10 +196,10 @@ tile.openblocks.bigbutton.name=Большая кнопка
 tile.openblocks.bigbutton.description=Большая кнопка - это большая кнопка, которая может быть поставлена на стену. Если Вы нажмёте shift-ПКМ по кнопке пустой рукой, Вам будет показан инвентарь с одним слотом. Вы можете положить предметы в этот слот, чтобы увеличить количество времени, во время которого кнопка остаётся нажатой - один предмет увеличивает время нажатия кнопки на один тик.
 
 tile.openblocks.xpdrain.name=Всасыватель опыта
-tile.openblocks.xpdrain.description=Place the XP drain above an OpenBlocks tank and stand on it. Your XP will drain into the tank, which can then be used for blocks such as the auto enchantment table or the auto anvil.
+tile.openblocks.xpdrain.description=Поместите Всасыватель опыта над Резервуаром OpenBlocks, и встанте на него.. Ваш опыт будет накапливаться в Резервуаре, который в дальнейшем может быть использован в Автоматическом столе зачаровывания, или в Автоматической наковальне.
 
 tile.openblocks.vacuumhopper.name=Вакуумная воронка
-tile.openblocks.vacuumhopper.description=The vacuum hopper will suck up items and XP orbs around it. You can use the tabs on the right of the interface to select which sides to output to.
+tile.openblocks.vacuumhopper.description=Вакуумная воронка будет всасывать предметы и опыт вокруг него. В правой части интерфейса вы можете выбрать, какую сторону использовать для выхода.
 
 tile.openblocks.village_highlighter.name=Подсвечиватель деревни
 tile.openblocks.village_highlighter.description=Drop the village highlighter down in a village and give it a redstone signal. It will outline the perimeter of the village and draw a box in the iron golem spawning area. Useful if you want to make sure villages don't merge into each other or you're making an iron farm!
@@ -208,16 +208,16 @@ tile.openblocks.donationStation.name=Станция пожертвований
 tile.openblocks.donationStation.description=Любите блок или предмет и хотите показать своё уважение разработчику модификации? Бросьте его в станцию пожертвований и если мы знаем страницу пожертвований этого автора, мы дадим Вам ссылку.
 
 tile.openblocks.blockPlacer.name=Разместитель блоков
-tile.openblocks.blockPlacer.description=When given a redstone pulse the block placer will place an item in the direction it's facing.
+tile.openblocks.blockPlacer.description=Когда будет подан сигнал красного камня, Разместитель Блоков поставит блок туда, куда он напрвлен.
 
 tile.openblocks.blockbreaker.name=Разрушитель блоков
-tile.openblocks.blockbreaker.description=When given a redstone pulse the block breaker will break the block it's facing.
+tile.openblocks.blockbreaker.description=Когда будет подан сигнал красного камня, Разрушитель Блоков разрушит блок который стоит перед ним.
 
 tile.openblocks.projector.name=Прожектор карты высот
 tile.openblocks.projector.description=Пусть boq напишет описание для него!
 
 tile.openblocks.autoenchantmenttable.name=Автоматический стол зачаровывания
-tile.openblocks.autoenchantmenttable.description=The auto enchantment table works in a similar way to the vanilla enchantment table except it runs off XP juice. Use the tabs on the right side of the interface to select where items or xp can be pulled from. Just like with the vanilla table bookshelves are required for higher levels.
+tile.openblocks.autoenchantmenttable.description=Автоматический стол зачаровывания работает так же, как и обычный стол зачаровывания, но он требует жидкий опыт. В правой части интерфейса вы можете выбрать, с какой стороны "Вытягивать" опыт. Так же, книжные полки будут влять на уровень зачарования.
 
 tile.openblocks.xpbottler.name=Разливщик опыта
 tile.openblocks.xpbottler.description=Разливщик опыта будет брать жидкий опыт и заливать его в стеклянные бутылки, создавая тем самым зелье опыта.
