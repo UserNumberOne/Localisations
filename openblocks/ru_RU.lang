@@ -256,16 +256,16 @@ item.openblocks.devnull.name=/dev/null
 item.openblocks.devnull.description=Click using /dev/null to open the inventory. There's a single inventory slot - put an item in there - dirt, for example. As you gather dirt from the ground this slot will fill up. Once it's full, any more dirt you pick up will be automatically discarded. You can shift-click with the item in your hand as though you were placing the block!
 
 item.openblocks.slimalyzer.name=Слаймлизёр
-item.openblocks.slimalyzer.description=Walk around with the slimalyzer in your hand and it'll light up whenever you're in a slime spawning chunk.
+item.openblocks.slimalyzer.description=Во время прогулки с Слаймлизером в руке, он будет светиться, когда вы будете находиться около месторождения Слизней.
 
 item.openblocks.hangglider.name=Дельтаплан
-item.openblocks.hangglider.description=The hang glider is self explanatory. Hold it in your hand and click to place it on your back. Now jump!\nTo increase your speed you can press shift while gliding, but watch out, you'll lose altitude faster!
+item.openblocks.hangglider.description=Думаю не надо разъяснять что такое Дельтаплан. Держа его в руке, кликните, чтобы поместить его на спину. Теперь прыгайте!\nДля увеличения скорости можно зажать Shift, но вы будете будете терять высоту. Будьте аккуратней!
 item.openblocks.hangglider.video=http://www.youtube.com/watch?v=SfX4jM7XrRY
 
 item.openblocks.gliderwing.name=Крыло дельтаплана
 
 item.openblocks.sleepingbag.name=Спальной мешок
-item.openblocks.sleepingbag.description=The sleeping bag lets you sleep out in the wilderness without having to reset your spawn location. To sleep, simply wear it on your back.
+item.openblocks.sleepingbag.description=Спальный мешок позволяет спать где угодно, не сбрасывая свою точку возрождения. Для сна, просто носите его на спине.
 
 item.openblocks.luggage.name=Багаж
 item.openblocks.luggage.description=Багаж - ваш новый друг. Он будет везде следовать за Вами, и собирать предметы, которые находятся около него. Ням Ням Ням!\nДля его разбора, просто зажмите Shiftt и кликните по нему ПКМ, и он превратится в предмет, который вы можете носить с собой.\nЕсли в него попадёт молния, он будет подбирать даже ещё больше предметов!
