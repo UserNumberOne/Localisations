@@ -217,16 +217,16 @@ tile.openblocks.projector.name=Прожектор карты высот
 tile.openblocks.projector.description=Пусть boq напишет описание для него!
 
 tile.openblocks.autoenchantmenttable.name=Автоматический стол зачаровывания
-tile.openblocks.autoenchantmenttable.description=Автоматический стол зачаровывания работает так же, как и обычный стол зачаровывания, но он требует жидкий опыт. В правой части интерфейса вы можете выбрать, с какой стороны "Вытягивать" опыт. Так же, книжные полки будут влять на уровень зачарования.
+tile.openblocks.autoenchantmenttable.description=Автоматический стол зачаровывания работает так же, как и обычный стол зачаровывания, но он требует жидкий опыт. В правой части интерфейса Вы можете выбрать, какие стороны стола будут использованы для  извлечения/помещения  жидкого опыта/предметов. Так же, книжные полки будут влять на уровень зачарования.
 
 tile.openblocks.xpbottler.name=Разливщик опыта
 tile.openblocks.xpbottler.description=Разливщик опыта будет брать жидкий опыт и заливать его в стеклянные бутылки, создавая тем самым зелье опыта.
 
 tile.openblocks.autoanvil.name=Автоматическая наковальня
-tile.openblocks.autoanvil.description=The auto anvil works just like the vanilla anvil, except it runs from XP juice and can be fully automated.\n\nUse the tabs on the right of the GUI to select which sides of the anvil items or liquid can be inserted or extracted. Right click and drag the anvil in the tab to spin it around and select other sides!
+tile.openblocks.autoanvil.description=Автоматическая наковальня работает так же, как и обычная наковальня, но он требует жидкий опыт, и может быть полностью автоматизирован.n\n\В правой части интерфейса Вы можете выбрать, какие стороны наковальни будут использованы для  извлечения/помещения  жидкостей/предметов.
 
 tile.openblocks.drawingtable.name=Стол для рисования
-tile.openblocks.drawingtable.description=The drawing table is for creating stencils which can be used while painting. Insert an Unprepared Stencil into the drawing table then use the arrows to select which stencil you want!
+tile.openblocks.drawingtable.description=Стол рисования нужен для создания Трафаретов, которые можно использовать во время рисования. Вставьте неподготовленный Трафарет в Стол для Рисования, и выберете нужный Вам Трафарет, используя стрелки для выбора!
 tile.openblocks.drawingtable.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 tile.openblocks.grave.name=Могила
