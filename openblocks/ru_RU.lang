@@ -268,22 +268,22 @@ item.openblocks.sleepingbag.name=Спальной мешок
 item.openblocks.sleepingbag.description=The sleeping bag lets you sleep out in the wilderness without having to reset your spawn location. To sleep, simply wear it on your back.
 
 item.openblocks.luggage.name=Багаж
-item.openblocks.luggage.description=Luggage is your new friend. He'll follow you around anywhere you go collecting any items he finds on the floor. Nom nom nom!\nTo dismantle him just shift-click on him and he'll turn into an item that you can carry around.\nIf he ever gets struck by lightning he'll be able to carry even more items!
+item.openblocks.luggage.description=Багаж - ваш новый друг. Он будет везде следовать за Вами, и собирать предметы, которые находятся около него. Ням Ням Ням!\nДля его разбора, просто зажмите Shiftt и кликните по нему ПКМ, и он превратится в предмет, который вы можете носить с собой.\nЕсли в него попадёт молния, он будет подбирать даже ещё больше предметов!
 item.openblocks.luggage.video=http://www.youtube.com/watch?v=hEWvvVrD14Q
 
 item.openblocks.sonicglasses.name=Звуковые очки
-item.openblocks.sonicglasses.description=Introducing the fantabulous new Sonic Glasses!\nThis new and exciting technology from OpenMods Inc allow you see what you hear!
+item.openblocks.sonicglasses.description=Представляем Вам новые, фантастические Звуковые Очки!\nЭто новая, и очень интересная технология от OpenMods Inc, котороая позволяет увидеть то, что вы слышите!
 
 item.openblocks.squeegee.name=Резиновая швабра
-item.openblocks.squeegee.description=The squeegee removes paint from any painted blocks. Just click on the side of the block you want to remove the paint from, or alternative shift-click the block to remove paint from all sides!
+item.openblocks.squeegee.description=Швабра удаляет краску с любых окрашенных блоков. Просто нажмите на нужную сторону блока, с которого Вы хотите удалить краску, или нажмите Shift + ПКМ по блоку, чтобы удалить краску со всех сторон!
 item.openblocks.squeegee.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 item.openblocks.paintbrush.name=Кисточка
-item.openblocks.paintbrush.description=Paint brushes let you paint blocks in whatever color you like!\n\nDab your paint brush in a Paint Can made in the Paint Mixer then click on a block to paint it.\n\nCanvas blocks are perfect for painting, but you can also paint quite a few vanilla blocks and even some blocks from other mods. You can also place stencils on blocks and then paint over the stencil!
+item.openblocks.paintbrush.description=Кисти позволяют покрасить блоки в любой понравившийся вам цвет!\n\nМокните вашу кисть в краску, сделанную в Смесителе Краски, и нажмите по блоку чтобы покрасить его.\n\nХолст идеально подходит для рисования, но вы также можете покрасить довольно много блоков из ванили, и даже некоторые блоки из других модов. Также, Вы можете разместить трафарет на блок, а затем закрасить трафарет!
 item.openblocks.paintbrush.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 item.openblocks.unprepared_stencil.name=Неподготовленный трафарет
-item.openblocks.unprepared_stencil.description="What are these pesky stencils I keep finding in chests?"\n\nStencils can be placed onto blocks and then painted over using paint brushes!\n\nYou can paint a block using multiple stencils and you can click on them with an empty hand to rotate them.\n\nPlace an Unprepared Stencil in a Drawing table to create different patterns.
+item.openblocks.unprepared_stencil.description="Что это за трафареты которые я всё время нахожу в сундуках?"\n\nТрафареты могут быть размещены на блоки, а затем закрашены с помощью кисти!\n\nВы можете покрасить блок с использованием нескольких трафаретов и вы можете нажать на них с пустой рукой, чтобы повернуть их.\n\nПоместите неподготовленный трафарет на стол для рисования, для создания различных шаблонов.
 item.openblocks.unprepared_stencil.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 item.openblocks.stencil.name=Трафарет
