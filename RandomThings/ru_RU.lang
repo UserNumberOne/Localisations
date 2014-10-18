@@ -12,10 +12,11 @@ tile.notificationInterface.name=Интерфейс уведомлений
 tile.wirelessLever.name=Беспроводной рычаг
 tile.soundBox.name=Резонаторный ящик
 tile.carpentryBench.name=Верстак плотника [WIP]
-tile.lapisLamp.name=Лазуритовая лампа
+tile.lapisLamp.name=Лазуритовый светильник
 tile.dyeingMachine.name=Механизм покраски
 tile.spiritRod.name=Палочка духа
 tile.imbuingStation.name=Станция наполнения
+tile.spectreGlass.name=Призрачное стекло
 
 tile.spectreBlock.name=Призрачный блок
 tile.spectreBlock.black.name=Чёрный призрачный блок
@@ -99,12 +100,33 @@ text.miscellaneous.entityName=Имя сущности
 text.miscellaneous.connectedTo=Соединено с
 text.miscellaneous.invalidArguments=Неверные аргументы
 text.miscellaneous.setBonus=Бонус комплекта:
+text.miscellaneous.opOnly=Только для Операторов
+text.miscellaneous.creativeOnly=Только для творческого режима
+text.miscellaneous.category=Категория: %s
+text.miscellaneous.shiftCategory=Shift-ПКМ, чтобы изменить категорию
+text.miscellaneous.save=Сохранить
+
+text.miscellaneous.whiteList=Белый список
+text.miscellaneous.blackList=Чёрный список
+
+text.miscellaneous.yes=Да
+text.miscellaneous.no=Нет
+
+text.onlineDetector.detectingNobody=Никто не отслеживается
+text.onlineDetector.detecting="Отслеживание %s"
 
 text.miscellaneous.ignoreOreDict=Игнорировать словарь руд
 text.miscellaneous.useOreDict=Использовать словарь руд
 
 text.miscellaneous.ignoreMetadata=Игнорировать метаданные
 text.miscellaneous.useMetadata=Использовать метаданные
+
+text.miscellaneous.noTarget=Цель не выбрана (Shift-ПКМ по блоку)
+text.miscellaneous.target.x=Координата-X: %d
+text.miscellaneous.target.y=Координата-Y: %d
+text.miscellaneous.target.z=Координата-Z: %d
+
+text.spectre.soulSolid=Твёрдая душа
 
 text.dyed=Покрашено в %s
 text.color.black=чёрный
@@ -131,6 +153,9 @@ text.magneticForce.invalidUsername=Неверное имя игрока
 text.magneticForce.noRights=Нет права
 text.magneticForce.notYourself=Не себя
 
+text.enderLetter.noReceiver=Получатель не выбран
+text.enderLetter.receiver=Получатель: %s
+text.enderLetter.sender=Отправитель: %s
 text.enderLetter.invalidreceiver=Вы указали неправильного получателя
 text.enderLetter.empty=Вы не можете отправить пустое письмо
 
