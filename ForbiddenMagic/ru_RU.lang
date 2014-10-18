@@ -61,13 +61,13 @@ item.WandCores.tainted.name=Заражённый стержень
 item.WandCores.infernal.name=Адский стержень
 item.WandCores.soul.name=Жуткий стержень
 item.WandCores.blood.name=Кровавый стержень
-item.WandCores.witchwood.name=Ведьмин стержень
+item.WandCores.witchwood.name=Стержень из ведьминой древесины
 item.WandCores.totem.name=Тотемный стержень
 item.WandCores.blood_inert.name=Инертный кровавый стержень
-item.WandCores.livingwood.name=Живодревесный стержень
-item.WandCores.livingwood_inert.name=Бездействующий живодревесный стержень
+item.WandCores.livingwood.name=Стержень из живой древесины
+item.WandCores.livingwood_inert.name=Бездействующий стержень из живой древесины
 item.WandCores.blood_staff.name=Кровавое ядро посоха
-item.WandCores.witchwood_staff.name=Ведьминодревесное ядро посоха
+item.WandCores.witchwood_staff.name=Ядро посоха из ведьминой древесины
 item.WandCaps.alchemical.name=Алхимический наконечник
 item.WandCaps.vinteum.name=Винтеумный наконечник
 item.WandCaps.soul.name=Наконечник Края
@@ -80,16 +80,16 @@ tile.InkFlower.name=Мрачная роза
 tile.WrathCage.name=Клетка гнева
 tile.StarBlock.name=Блок звезды Нижнего мира
 tile.blackRoseBush.name=Мрачный куст роз
-tile.darkflower.euclidaisy.name=Евклидова ромшка
+tile.darkflower.euclidaisy.name=Евклидова маргаритка
 #
 # Enchantments
 enchantment.cluster=Огненное ядро
-enchantment.wrath=Wrath
+enchantment.wrath=Гнев
 enchantment.greedy=Капиталист
 enchantment.consuming=Потребление
 enchantment.educational=Образование
 enchantment.corrupting=Искажение
-enchantment.voidtouched=Voidtouched
+enchantment.voidtouched=Касание пустоты
 enchantment.impact=Impact
 #
 # Potions
@@ -99,28 +99,28 @@ potion.blood_seal=Отпечаток крови
 itemGroup.forbidden=Forbidden Magic
 itemGroup.mobcrystal=Впечатанные кристаллы
 tc.research_category.FORBIDDEN=Апокрифы
-forbidden.lexicon.euclidaisy=Евклидова ромшка
-forbidden.lexicon.euclidaisy.0=Жуткая, розовая &1Евклидова ромшка&0 - очень необычна.  Она использует большие объемы маны, чтобы заклинать что-то наподобие эфирной субстанции, и Тауматургам кажется это очень полезным свойством.<br>Способ создания, неизвестен. Заглянете в Таумономикон?
+forbidden.lexicon.euclidaisy=Евклидова маргаритка
+forbidden.lexicon.euclidaisy.0=Жуткая, розовая &1Евклидова маргаритка&0 - очень необычна. Она использует большие объёмы маны, чтобы заклинать что-то наподобие эфирной субстанции, и тауматургам это кажется очень полезным свойством.<br>Способ создания - не общеизвестен. Загляните в таумономикон.
 #
 # Research
 forbidden.research_name.NETHERSHARDS=Осколки Нижнего мира
 forbidden.research_text.NETHERSHARDS=Цель: плохо себя вести.
-forbidden.research_page.NETHERSHARDS.1=Странная энергия циркулирует по Нижнему миру. Иногда они, как известно, затвердевают в хрустальные осколки при наступлении определенных сочувственных событий.
-forbidden.research_page.NETHERSHARDS.2=Эти кристаллы пронизаны различными пороками, и имеют множество применений для более недобросовестных Туматургов.<BR>Есть семь типов осколоков Нижнего мира, и каждый настроен на "Смертный грех".<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
-forbidden.research_page.NETHERSHARDS.2b=Эти кристаллы пронизаны различными пороками, и имеют множество применений для более недобросовестных Туматургов.<BR>Есть шесть типов осколоков Нижнего мира, и каждый настроен на "Смертный грех."<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
-forbidden.research_page.NETHERSHARDS.3=Осколок гнева кристаллизуются во время актов насилия. Чем больше используется физической силы, тем больше вероятности появления осколка гнева.<BR><BR>Осколок лени кристаллизируется, когда неровность поверхности используются для сбора ресурсов без усилий.<BR><BR>Осколок жадности берётся у тех, у кого он есть, и передаётся тем, кто жаждит его.<BR><BR>Осколок гордости материализуется, когда существо с поистинно великой силой, будет поставлен на место.<BR><BR>Более симпатические события могут проявиться, только с течением времени.
+forbidden.research_page.NETHERSHARDS.1=Странная энергия циркулирует по Нижнему миру. Иногда они, как известно, затвердевают в хрустальные осколки во время наступления определённых симпатических событий.
+forbidden.research_page.NETHERSHARDS.2=Эти кристаллы пронизаны различными пороками и имеют множество применений для бессовестных тауматургов.<BR>Есть семь типов осколков Нижнего мира и каждый настроен на "Смертный грех".<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
+forbidden.research_page.NETHERSHARDS.2b=Эти кристаллы пронизаны различными пороками и имеют множество применений для бессовестных тауматургов.<BR>Есть шесть типов осколков Нижнего мира и каждый настроен на "Смертный грех."<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
+forbidden.research_page.NETHERSHARDS.3=Осколки гнева кристаллизуются во время актов насилия. Чем больше используется физической силы, тем больше вероятности появления осколка гнева.<BR><BR>Осколки лени кристаллизируются, когда случайные случаи используются для получения ресурсов.<BR><BR>Осколки жадности берутся у тех, у кого они есть, и передаются тем, кто жаждут их.<BR><BR>Осколок гордости появляется, когда существо с поистине великой силой, будет поставлено на место.<BR><BR>Более симпатические события могут проявиться только с течением времени.
 #
 forbidden.research_name.SKULLAXE=Топор собирателя черепов
 forbidden.research_text.SKULLAXE=Отрубить им головы!
-forbidden.research_page.SKULLAXE.1=Некоторые монстры, ну просто выводят Вас из себя! Например, Скелеты! Они всегда используют Вас, в качестве мишени. Или Криперы! Они всегда ходят рядом, и взрывают всё вокруг! Вы хотите отрубить им их самодовольные головы, и воткнуть их на копья.<BR><BR>К счастью, вы обнаружили предмет, который позволит вам сделать это. При сражении против монстра с Топором собирателя черепов, есть шанс, что Вы отрубите у ему голову. Так можно делать даже с игроками! Unfortunately, the infusion leaves the axe far too bloodthirsty to effectively cleave through boring plant matter.
+forbidden.research_page.SKULLAXE.1=Некоторые монстры, ну просто выводят Вас из себя! Например, скелеты! Они всегда используют Вас, в качестве мишени. Или криперы! Они всегда ходят рядом, и взрывают всё вокруг! Вы хотите отрубить им их самодовольные головы и воткнуть их на копья.<BR><BR>К счастью, Вы обнаружили предмет, который позволит Вам сделать это. При убийстве монстра топором собирателя черепов, есть шанс, что Вы отрубите ему голову. Можно также отрубить головы игрокам! К сожалению, наполнение делает топор слишком кровожадным, чтобы эффективно рубить растения.
 #
 forbidden.research_name.ARCANECAKE=Таумический торт
 forbidden.research_text.ARCANECAKE=Пусть едят торт.
-forbidden.research_page.ARCANECAKE.1=Если и есть одна вещь которую вы любите, то это торт. Вы могли бы есть его хоть целый день, но в конце концов он всё же кончится.<BR><BR>Чтобы исправить это, вы разработали рецепт, который объединяет торт с магией долголетия. Таумический торт заканчивается медленней обычного, а ещё он будет медленно восстанавливать себя, если вы оставили хотябы один кусочек. Его чары неустойчивы, однако, как только вы его поставили, торт нельзя будет заново перемещать обычным способом.
+forbidden.research_page.ARCANECAKE.1=Если существует вещь, которую Вы любите, то это - торт. Вы бы ели его вкусную доброту весь день, если бы Вы могли, но она всегда заканчивается.<BR><BR>Чтобы исправить это, Вы написали рецепт, который наполняет торт магией долголетия. Таумический торт заканчивается намного медленнее, чем земной, и он будет медленно себя восстанавливать, пока есть хотя бы кусочек. Однако его чары нестабильны, как только Вы его поставили, торт нельзя будет перемещать обычными способами.
 #
 forbidden.research_name.TAINTSHOVEL=Лопата очистителя
 forbidden.research_text.TAINTSHOVEL=Как горячий нож сквозь плотное масло
-forbidden.research_page.TAINTSHOVEL.1=Sometimes, the easiest way to remove patches of taint is to just physically remove them.<BR><BR>By reinforcing a thaumium shovel with Silverwood and Order Shards, you have created a tool capable of combating Taint.  The Shovel of the Purifier can dig through pulpy tainted lands as effectively as it can through normal earth.<BR><BR>If held in your hand and right-clicked, the shovel will purify all flux goo and gas from a small radius at the cost of durability. You no longer have to clean up infusion mishaps with a piece of cobblestone!
+forbidden.research_page.TAINTSHOVEL.1=Иногда, самый простой способ убрать пятна заражения - просто физически убрать их.<BR><BR>By reinforcing a thaumium shovel with Silverwood and Order Shards, you have created a tool capable of combating Taint.  The Shovel of the Purifier can dig through pulpy tainted lands as effectively as it can through normal earth.<BR><BR>If held in your hand and right-clicked, the shovel will purify all flux goo and gas from a small radius at the cost of durability. You no longer have to clean up infusion mishaps with a piece of cobblestone!
 forbidden.research_page.TAINTSHOVEL.2=When digging through taint with the shovel, there's a chance that the twisted energies released will crystallize into Taint Shards.  Unlike other tainted materials, the crystalline pattern keeps these shards stable enough to carry around.
 #
 forbidden.research_name.TAINTPICK=Кирка искажения
@@ -208,8 +208,8 @@ forbidden.research_name.CLUSTER=Зачарование: Огненное ядр�
 forbidden.research_text.CLUSTER=Хамелеон ядра
 forbidden.research_page.CLUSTER.1=You've discovered an enchantment to allow the Chameleon Pickaxe to imitate the effects of the Pickaxe of the Core.  A Chameleon Pickaxe with the Fiery Core enchantment has a chance of dropping clusters when mining certain ores.  Clusters are a lot purer than raw ore and can be smelted for two of the ore's normal smelting result.  Higher levels of Fiery Core increase the chance of dropping clusters.
 #
-forbidden.research_name.IMPACT=Enchantment: Impact
-forbidden.research_text.IMPACT=Someday that wall is gonna fall.
+forbidden.research_name.IMPACT=Зачарованиеt: Impact
+forbidden.research_text.IMPACT=Когда-нибудь эта стена упадёт.
 forbidden.research_page.IMPACT.1=Some other tools have a much broader area of effect when mining. With the Impact enchantment, so can your Chameleon Pickaxe and Shovel.<BR><BR>A Chameleon Tool with the Impact enchantment mines a 3 x 3 area of blocks instead of just one, making exploratory mining and flattening areas much easier.
 #
 forbidden.research_name.GREEDY=Зачарование: Капиталист
@@ -220,8 +220,8 @@ forbidden.research_name.CONSUMING=Зачарование: Потребление
 forbidden.research_text.CONSUMING=Мусороудаление
 forbidden.research_page.CONSUMING.1=Sick of having to empty your pack of worthless junk, you've devised an enchantment that will automatically destroy common, unwanted materials.  Any Cobblestone, Dirt, Gravel, or Netherrack mined by a Consuming tool will be destroyed instead of falling to the ground.
 #
-forbidden.research_name.WRATH=Enchantment: Wrath
-forbidden.research_text.WRATH=When every problem is a nail, all you want is a bigger hammer.
+forbidden.research_name.WRATH=Зачарование: Гнев
+forbidden.research_text.WRATH=Когда каждая проблема - гвоздь, всё, что Вам нужно - это большой молот.
 forbidden.research_page.WRATH.1=Ugh. You need more excessively violent weapons to kill things with. Enchanting is a good start, but there's only so much Sharpness you can squeeze into a typical sword before it starts to liquefy and sprout daisies instead. Your weapons just aren't killing things hard enough.<BR><BR>To amend this, you've created a special enchantment to force even more violence and death into a weapon. The Wrath enchantment increases the offensive power of a weapon, but is still compatible with Sharpness, Bane of Arthropods, and Smite.
 #
 forbidden.research_name.EDUCATIONAL=Зачарование: Образование
@@ -232,8 +232,8 @@ forbidden.research_name.CORRUPTING=Зачарование: Искажение
 forbidden.research_text.CORRUPTING=Плохое влияние на осколки
 forbidden.research_page.CORRUPTING.1=The Nether is great and all, but it's also kind of a... Hell Hole.<BR><BR>The Corrupting enchant allows you to harvest Nether Shards without having to be in the Nether.  A pickaxe enchanted with Corrupting will randomly corrupt harvested elemental shards, changing them into nether shards. The shards only seem susceptible while they are encased in infused stone, so corrupting a shard cluster will have no effect.
 #
-forbidden.research_name.VOIDTOUCHED=Enchantment: Voidtouched
-forbidden.research_text.VOIDTOUCHED=Colour Out of Space
+forbidden.research_name.VOIDTOUCHED=Зачарование: Прикосновение пустоты
+forbidden.research_text.VOIDTOUCHED=Цвет из Космоса
 forbidden.research_page.VOIDTOUCHED.1=Voidmetal's ability to flow back into place after being damaged is fascinating. You sure wish your Chameleon Tools had the same properties...<BR><BR>The Voidtouched enchant gives a Chameleon Tool the same regenerating quality as Void Tools.<BR><BR>Chameleon Tools affected by the enchantment appear to be made of living scaled flesh which morphs back into shape when hurt. Just looking at it is disturbing for your sanity.
 #
 forbidden.research_name.TAINTBASICS=Заражённые земли
@@ -265,7 +265,7 @@ forbidden.research_name.HELLFIRE=Властелин адского огня
 forbidden.research_text.HELLFIRE=Никогда не попадай в затруднительное положение
 forbidden.research_page.HELLFIRE.1=Getting stranded in the Nether is the worst. You go through all the trouble of grabbing what you need, but before you can go home, some stupid ghast decides to rain on your parade by blasting the portal shut. Sure, this can be amended by carrying a flint and steel around, but who actually walks around with those things?<BR><BR>You've discovered a way to use vis in your wand to light fires on certain materials.  Right click with a focus-less wand in your hand on the top of netherrack or obsidian to light a flame using some Ignis from your wand.
 #
-forbidden.research_name.EUCLIDAISY=Евклидова ромшка
+forbidden.research_name.EUCLIDAISY=Евклидова маргаритка
 forbidden.research_text.EUCLIDAISY=Mai waifu's power level is over 9000 in the name of the moon! Believe it!
 forbidden.research_page.EUCLIDAISY.1=Ethereal Essences are extremely useful sources of essentia and are a very important ingredient in Thaumaturge's Salt. Unfortunately, it can be very difficult to come by. Wisps aren't exactly common, and no self-respecting thaumaturge wants to stoop to smashing open a node.<BR><BR>By combining thaumaturgy and hedge magic, you've created a flower that can use mana to rip open the fabric of reality. The rip isn't stable enough to form a node, but it does stay open long enough to drop a single wispy strand of essence. Applying a redstone signal to the flower causes it to stop.
 #
