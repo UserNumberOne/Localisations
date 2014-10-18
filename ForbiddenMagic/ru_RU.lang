@@ -80,7 +80,7 @@ tile.InkFlower.name=Мрачная роза
 tile.WrathCage.name=Клетка гнева
 tile.StarBlock.name=Блок звезды Нижнего мира
 tile.blackRoseBush.name=Мрачный куст роз
-tile.darkflower.euclidaisy.name=Euclidaisy
+tile.darkflower.euclidaisy.name=Евклидова ромшка
 #
 # Enchantments
 enchantment.cluster=Огненное ядро
@@ -99,8 +99,8 @@ potion.blood_seal=Отпечаток крови
 itemGroup.forbidden=Forbidden Magic
 itemGroup.mobcrystal=Впечатанные кристаллы
 tc.research_category.FORBIDDEN=Апокрифы
-forbidden.lexicon.euclidaisy=Euclidaisy
-forbidden.lexicon.euclidaisy.0=The eerie, pink &1Euclidaisy&0 is an oddity. It uses large amounts of mana to conjure some sort of ethereal substance that only seems useful to thaumaturges.<br>The method of creating one doesn't appear to be common knowledge. Try consulting a Thaumonomicon?
+forbidden.lexicon.euclidaisy=Евклидова ромшка
+forbidden.lexicon.euclidaisy.0=Жуткая, розовая &1Евклидова ромшка&0 - очень необычна.  Она использует большие объемы маны, чтобы заклинать что-то наподобие эфирной субстанции, и Тауматургам кажется это очень полезным свойством.<br>Способ создания, неизвестен. Заглянете в Таумономикон?
 #
 # Research
 forbidden.research_name.NETHERSHARDS=Осколки Нижнего мира
@@ -116,7 +116,7 @@ forbidden.research_page.SKULLAXE.1=Некоторые монстры, ну пр�
 #
 forbidden.research_name.ARCANECAKE=Таумический торт
 forbidden.research_text.ARCANECAKE=Пусть едят торт.
-forbidden.research_page.ARCANECAKE.1=If there's one thing you love, it's cake. You would eat its delicious goodness all day if you could, but it always runs out in the end.<BR><BR>To remedy this, you have devised a recipe to infuse a cake with longevity-enhancing magic.  The Thaumic Cake lasts significantly longer than a mundane one and will slowly repair itself as long as there's at least a sliver left.  The enchantments are unstable, however, and the cake cannot be moved again through conventional means once placed down.
+forbidden.research_page.ARCANECAKE.1=Если и есть одна вещь которую вы любите, то это торт. Вы могли бы есть его хоть целый день, но в конце концов он всё же кончится.<BR><BR>Чтобы исправить это, вы разработали рецепт, который объединяет торт с магией долголетия. Таумический торт заканчивается медленней обычного, а ещё он будет медленно восстанавливать себя, если вы оставили хотябы один кусочек. Его чары неустойчивы, однако, как только вы его поставили, торт нельзя будет заново перемещать обычным способом.
 #
 forbidden.research_name.TAINTSHOVEL=Лопата очистителя
 forbidden.research_text.TAINTSHOVEL=Как горячий нож сквозь плотное масло
@@ -265,7 +265,7 @@ forbidden.research_name.HELLFIRE=Властелин адского огня
 forbidden.research_text.HELLFIRE=Никогда не попадай в затруднительное положение
 forbidden.research_page.HELLFIRE.1=Getting stranded in the Nether is the worst. You go through all the trouble of grabbing what you need, but before you can go home, some stupid ghast decides to rain on your parade by blasting the portal shut. Sure, this can be amended by carrying a flint and steel around, but who actually walks around with those things?<BR><BR>You've discovered a way to use vis in your wand to light fires on certain materials.  Right click with a focus-less wand in your hand on the top of netherrack or obsidian to light a flame using some Ignis from your wand.
 #
-forbidden.research_name.EUCLIDAISY=Euclidaisy
+forbidden.research_name.EUCLIDAISY=Евклидова ромшка
 forbidden.research_text.EUCLIDAISY=Mai waifu's power level is over 9000 in the name of the moon! Believe it!
 forbidden.research_page.EUCLIDAISY.1=Ethereal Essences are extremely useful sources of essentia and are a very important ingredient in Thaumaturge's Salt. Unfortunately, it can be very difficult to come by. Wisps aren't exactly common, and no self-respecting thaumaturge wants to stoop to smashing open a node.<BR><BR>By combining thaumaturgy and hedge magic, you've created a flower that can use mana to rip open the fabric of reality. The rip isn't stable enough to form a node, but it does stay open long enough to drop a single wispy strand of essence. Applying a redstone signal to the flower causes it to stop.
 #
