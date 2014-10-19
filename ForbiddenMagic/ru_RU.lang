@@ -125,7 +125,7 @@ forbidden.research_page.TAINTSHOVEL.2=When digging through taint with the shovel
 #
 forbidden.research_name.TAINTPICK=Кирка искажения
 forbidden.research_text.TAINTPICK=Обсидиановый уничтожитель
-forbidden.research_page.TAINTPICK.1=By infusing a thaumium pickaxe with taint, you create a tool capable of cutting through difficult materials.<BR><BR>The Pickaxe of Distortion infects hard materials with taint, weakening them. The harder the material, the more effective the pickaxe is at removing it. Unfortunately, the effects of the taint have an inverse effect when mining softer materials, rendering the pickaxe less effective than just pawing at the block with your bare hands.
+forbidden.research_page.TAINTPICK.1=При объединении таум-кирки с порчей, вы создали инструмент, способный "Прорезать" твёрдые материалы.<BR><BR>Кирка искажения заражает твёрдые материалы порчей, ослабляя их. Чем твёрже материал, тем эффективнее кирка добывает его. К сожалению, последствия порчи имеют обратный эффект, и при добыче более мягких материалов, кирка добывает их медленней, даже чем от руки.
 #
 forbidden.research_name.ROD_tainted=Заражённый стержень
 forbidden.research_text.ROD_tainted=Изогнутое хранилище Вис
