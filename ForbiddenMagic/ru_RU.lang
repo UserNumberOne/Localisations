@@ -150,7 +150,7 @@ forbidden.research_page.ROD_blood_staff.1=The Blood Wand is useful, but it just 
 #
 forbidden.research_name.ROD_witchwood=Стержень из ведьминой древесины
 forbidden.research_text.ROD_witchwood=Преобразователь маны
-forbidden.research_page.ROD_witchwood.1=By creating a wand core out of Witchwood, you've discovered a way to convert mana into Vis.  The Witchwood Wand Core holds up to 100 vis and will gradually charge itself at the cost of 140 mana per point of vis.<BR><BR>Further research may reveal ways to lower this price.
+forbidden.research_page.ROD_witchwood.1=Создавая стержень из ведьминой древесины, Вы обнаружили способ преобразования маны в Вис.  Стержень из ведьминой древесины содержит до 100 Вис и постепенно заряжает себя ценой в 140 маны - одно очко Вис.<BR><BR>Дальнейшие исследования могут открыть способы понижения этой цены.
 #
 forbidden.research_name.ROD_witchwood_staff=Ядро посоха из ведьминой древесины
 forbidden.research_text.ROD_witchwood_staff=Посох чародея
@@ -272,5 +272,5 @@ forbidden.research_page.EUCLIDAISY.1=Ethereal Essences are extremely useful sour
 forbidden.lexicon.euclidaisy=Евклидова маргаритка
 forbidden.lexicon.euclidaisy.0=Жуткая, розовая &1Евклидова маргаритка&0 - очень необычна. Она использует большие объёмы маны, чтобы заклинать что-то наподобие эфирной субстанции, и тауматургам это кажется очень полезным свойством.<br>Способ создания - не общеизвестен. Загляните в таумономикон.
 forbidden.lexicon.whisperweed=Шепчущий сорняк
-forbidden.lexicon.whisperweed.0=&1Шепчущий сорняк&0 неприятное растение, которое шепчет секреты в уши тем, кто может слышать. Это растение не совсем уж полезное, поскольку секреты не относятся к ботанике.<br>Некоторые шёпоты слишком сильно беспокоят разум смертных...
+forbidden.lexicon.whisperweed.0=&1Шепчущий сорняк&0 - это неприятное растение, которое шепчет секреты в уши тем, кто может слышать. Это растение не совсем уж полезное, поскольку секреты не относятся к ботанике.<br>Некоторые шёпоты слишком сильно беспокоят разум смертных...
 forbidden.lexicon.whisperweed.1=&oБольше секретов, чем у Ван Ши Тонга&r.
