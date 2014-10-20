@@ -39,9 +39,9 @@ item.Bloodwell.name=Инструменты кровавого писца
 item.DivineOrb.name=Жуткий шар крови
 item.Crystalwell.name=Кристальная чернильница с пером
 item.RidingCrop.name=Хлыст
-item.Divinewell.name=Чернильница с пером Тота
 item.BoundShears.name=Связанные ножницы
 item.BloodRapier.name=Рапира неясыти
+item.Boundwell.name=Связанная чернильница с пером
 #
 # Wand components
 item.Wand.tainted.rod=заражённый
@@ -258,7 +258,7 @@ forbidden.research_page.CRYSTALWELL.1=Combining elemental shards with your inkwe
 #
 forbidden.research_name.RIDINGCROP=Хлыст
 forbidden.research_text.RIDINGCROP=Мотивированная боль
-forbidden.research_page.RIDINGCROP.1=A riding crop is, as its name suggests, a tool used to motivate mounts to move faster.  Right clicking with it in your hand while riding a horse or other mount will give the mount a quick lash of pain and cause it to move faster for a little while.<BR><BR>You could hit other creatures with the crop too, but what would possess you to do something like that?
+forbidden.research_page.RIDINGCROP.1=Хлыст, это инструмент, используемый для лошади, чтобы мотивировать её двигаться быстрее. Нажмите ПКМ с хлыстом в руке во время езды на лошади, и после удара, лошадь будет двигаться быстрее на некоторое время.
 #
 forbidden.research_name.HELLFIRE=Властелин адского огня
 forbidden.research_text.HELLFIRE=Никогда не попадай в затруднительное положение
