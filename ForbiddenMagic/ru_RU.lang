@@ -36,7 +36,7 @@ item.DiabolistFork.name=Адские вилы
 item.DiabolistSpork.name=Ложка-вилка смерти
 item.GluttonyShard.name=Осколок прожорливости
 item.Bloodwell.name=Инструменты кровавого писца
-item.DivineOrb.name=Жуткий шар крови
+item.DivineOrb.name=Древний шар крови
 item.Crystalwell.name=Кристальная чернильница с пером
 item.RidingCrop.name=Хлыст
 item.BoundShears.name=Связанные ножницы
@@ -47,7 +47,7 @@ item.Boundwell.name=Связанная чернильница с пером
 item.Wand.tainted.rod=заражённый
 item.Wand.infernal.rod=адский
 item.Wand.neutronium.rod=космически нейтронный
-item.Wand.soul.rod=жуткий
+item.Wand.soul.rod=древний
 item.Wand.blood.rod=кровавый
 item.Wand.witchwood.rod=ведьмодревесный
 item.Wand.totem.rod=тотемный
@@ -59,7 +59,7 @@ item.Wand.soul.cap=экранированный Краем
 item.Wand.manasteel.cap=обвитый манасталью
 item.WandCores.tainted.name=Заражённый стержень
 item.WandCores.infernal.name=Адский стержень
-item.WandCores.soul.name=Жуткий стержень
+item.WandCores.soul.name=Древний стержень
 item.WandCores.blood.name=Кровавый стержень
 item.WandCores.witchwood.name=Стержень из ведьминой древесины
 item.WandCores.totem.name=Тотемный стержень
@@ -135,9 +135,9 @@ forbidden.research_text.ROD_infernal=Дьявольское хранилище �
 forbidden.research_page.ROD_infernal.1=A great and powerful thaumaturge like you deserves a powerful and imposing wand befitting your station. Some hippy silverwood wand just won't cut it. You need a wand that will serve as your scepter of authority.<BR><BR>You've discovered a way to create a wand infused with the power of the Nether.  The Infernal Wand Core can hold up to 150 vis and will slowly replenish its supply of Ignis up to 20%.  While within the Nether, the wand will also replenish its other aspects to 10%.
 forbidden.research_page.ROD_infernal.2=The wand also imbues you with some protection from the Nether's hazards, extinguishing you if you are on fire or protecting you from the effects of Withering as long as it is in your inventory.  While the wand is held in your hand, it will completely protect you from all fire damage.
 #
-forbidden.research_name.ROD_soul=Жуткий стержень
+forbidden.research_name.ROD_soul=Древний стержень
 forbidden.research_text.ROD_soul=Оскверняющее хранилище Вис
-forbidden.research_page.ROD_soul.1=You've discovered a way to tap the energy flowing through a Player Beacon and turn it into vis. As long as you're in a dimension with an active Player Beacon attuned to yourself, the Eldritch Wand Core will slowly charge all its internal reserves, which can hold up to 100 vis.<BR><BR>Channeling such great amounts of energy through your soul comes at a price, however. Each point of vis creates large amounts of corruption in your soul. It's best not to rely on its recharge abilities too greatly...
+forbidden.research_page.ROD_soul.1=Вы обнаружили способ использования энергии, поступающей через мак и превращения её в Вис. Пока Вы находитесь в измерении с активным маяком, который привязан к Вам, древний стержень будет медленно заряжать все свои внутренние резервы, которые могут вместить до 100 Вис.<BR><BR>Однако, перемещение такого большого количества энергии через Вашу душу имеет свою цену. Каждая единица Вис создаёт большие объёмы порчи в Вашей душе. Старайтесь слишком сильно не полагаться эти особенности пополнения...
 #
 forbidden.research_name.ROD_blood=Кровавый стержень
 forbidden.research_text.ROD_blood=Алхимическое хранилище Вис
@@ -201,7 +201,7 @@ forbidden.research_page.FORK.wc=If the Diabolist Fork is used to slay a compatib
 #
 forbidden.research_name.MORPHTOOLS=Хамелеоновые инструменты
 forbidden.research_text.MORPHTOOLS=Существует зачарование для этого...
-forbidden.research_page.MORPHTOOLS.1=Chameleon Tools are like three tools in one. When first enchanted, right-clicking while sneaking with the tool in your hand changes it to a blank new enchanting slate, allowing you to enchant it with a completely different set of enchantments. Each tool can hold up to three separate enchantment sets which can be alternated between by right-clicking while sneaking.<BR><BR>The tools have no innate way to remove enchantments once fully enchanted, so make each enchantment count!
+forbidden.research_page.MORPHTOOLS.1=Хамелеоновые инструменты - это, как три инструмента в одном. When first enchanted, right-clicking while sneaking with the tool in your hand changes it to a blank new enchanting slate, allowing you to enchant it with a completely different set of enchantments. Each tool can hold up to three separate enchantment sets which can be alternated between by right-clicking while sneaking.<BR><BR>The tools have no innate way to remove enchantments once fully enchanted, so make each enchantment count!
 #
 forbidden.research_name.CLUSTER=Зачарование: Огненное ядро
 forbidden.research_text.CLUSTER=Хамелеон ядра
@@ -244,25 +244,25 @@ forbidden.research_name.BLOODWELL=Кровавые инструменты пис
 forbidden.research_text.BLOODWELL="Я завершу это исследование, если оно убьет меня!"
 forbidden.research_page.BLOODWELL.1=There's nothing more frustrating than having to pause your research to refill your inkwell. Sometimes, you're just so desperate to complete a research you'd rather use your own blood as ink than stop to go find a refill.<BR><BR>The Bloody Scrivener's Tools will refill using Life Points from their owner's network, at a rate of 25 LP per point. This ability requires human warmth to activate, requiring you to remove the tools from the research table, but without having to actually leave the research area.
 #
-forbidden.research_name.DIVINEORB=Жуткий кровавый шар
+forbidden.research_name.DIVINEORB=Древний кровавый шар
 forbidden.research_text.DIVINEORB=Шар пожирателя душ
 forbidden.research_page.DIVINEORB.1=It is whispered among some Thaumaturgic circles that Ichor is actually the blood of the divine. You don't know whether this is true or not, but Ichor does seem to have an affinity with more advanced alchemical devices.<BR><BR>The Transcendent Blood Orb is what happens when you combine the most advanced Thaumaturgy and Alchemical Wizardry available. The infusion vastly increases the orb's carrying capacity, allowing it to hold a whopping 70,000,000 LP. What would you ever need that much LP for?
 #
 forbidden.research_name.BLOODRAPIER=Рапира неясыти
 forbidden.research_text.BLOODRAPIER=Уничтожитель Blood Magic
-forbidden.research_page.BLOODRAPIER.1=There's nothing more dangerous than a Blood Magus that is gorged on life essence. As long as they have enough life energy, there's very little that can pierce their defenses.<BR><BR>Until now.<BR><BR>The Rapier of the Strix, upon striking someone, drinks LP directly from their Soul Network and seals it so that they can't regain any more LP for a while. It may not do very much physical damage, but it packs a metaphysical punch against Blood Magi.
+forbidden.research_page.BLOODRAPIER.1=Нет ничего опаснее мага крови, который напился жизненной эссенции. Пока у них достаточно жизненной силы, шанс пробить их защиту очень мал.<BR><BR>Но теперь...<BR><BR>Рапира неясыти, попадая по кому-то, забирает LP напрямую из его жизненной сети и на время блокирует её таким образом, что он больше не может получить LP. Она не наносит большого физического урона, но она содержит в себе метафизический урон против кровавых магов.
 #
 forbidden.research_name.CRYSTALWELL=Кристальная чернильница с пером
 forbidden.research_text.CRYSTALWELL=Тайный исследовательский грант
-forbidden.research_page.CRYSTALWELL.1=Combining elemental shards with your inkwell results in some interesting effects. The Crystal Scribing Tools seem to absorb knowledge as you use them to write. Once the well is empty of ink, you can absorb this knowledge for a small burst of research points by holding the tools in your hand and right clicking. Unfortunately, this burns the tool out and turns it back into a mundane Scribing Tool again.
+forbidden.research_page.CRYSTALWELL.1=Соединение осколков стихий с Вашей чернильницей даёт Вам достаточно интересные эффекты. The Crystal Scribing Tools seem to absorb knowledge as you use them to write. Once the well is empty of ink, you can absorb this knowledge for a small burst of research points by holding the tools in your hand and right clicking. Unfortunately, this burns the tool out and turns it back into a mundane Scribing Tool again.
 #
 forbidden.research_name.RIDINGCROP=Хлыст
 forbidden.research_text.RIDINGCROP=Мотивированная боль
-forbidden.research_page.RIDINGCROP.1=Хлыст, это инструмент, используемый для лошади, чтобы мотивировать её двигаться быстрее. Нажмите ПКМ с хлыстом в руке во время езды на лошади, и после удара, лошадь будет двигаться быстрее на некоторое время.<BR><BR>You could hit other creatures with the crop too, but what would possess you to do something like that?
+forbidden.research_page.RIDINGCROP.1=Хлыст, как подсказывает его название, это инструмент, используемый для побуждения животных, которых можно оседлать, двигаться быстрее.  Нажмите ПКМ с хлыстом в руке, когда Вы на лошади или на другом животном, и после удара животное будет двигаться быстрее в течение некоторого времени.<BR><BR>Вы можете ударить хлыстом и других животных, но что заставляет Вас делать это?
 #
 forbidden.research_name.HELLFIRE=Властелин адского огня
 forbidden.research_text.HELLFIRE=Никогда не попадай в затруднительное положение
-forbidden.research_page.HELLFIRE.1=Getting stranded in the Nether is the worst. You go through all the trouble of grabbing what you need, but before you can go home, some stupid ghast decides to rain on your parade by blasting the portal shut. Sure, this can be amended by carrying a flint and steel around, but who actually walks around with those things?<BR><BR>You've discovered a way to use vis in your wand to light fires on certain materials.  Right click with a focus-less wand in your hand on the top of netherrack or obsidian to light a flame using some Ignis from your wand.
+forbidden.research_page.HELLFIRE.1=Остаться пустым в Нижнем мире - худшее, что может произойти. You go through all the trouble of grabbing what you need, but before you can go home, some stupid ghast decides to rain on your parade by blasting the portal shut. Sure, this can be amended by carrying a flint and steel around, but who actually walks around with those things?<BR><BR>You've discovered a way to use vis in your wand to light fires on certain materials.  Right click with a focus-less wand in your hand on the top of netherrack or obsidian to light a flame using some Ignis from your wand.
 #
 forbidden.research_name.EUCLIDAISY=Евклидова маргаритка
 forbidden.research_text.EUCLIDAISY=Уровень энергии Mai waifu больше, чем 9000 в названии Луны! Верьте!
