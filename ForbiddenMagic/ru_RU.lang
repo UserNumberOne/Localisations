@@ -178,15 +178,15 @@ forbidden.research_page.CAP_soul.1=You've created a wand cap that can safely cha
 #
 forbidden.research_name.CAP_manasteel=Наконечники из манастали
 forbidden.research_text.CAP_manasteel=Секрет маны
-forbidden.research_page.CAP_manasteel.1=Manasteel has very useful properties when it comes to mana manipulation. When crafted into a wand cap, it offers a 90% vis rate. If combined with a Livingwood Wand, it also makes the mana conversion process more efficient.<BR><BR>In order to be used in the creation of a wand, the Inert Manasteel Caps must be infused in a Mana Pool.
+forbidden.research_page.CAP_manasteel.1=Манасталь имеет очень полезные свойства, когда дело доходит до манипуляции маной. Вы сделали наконечник для жезла, который тратит в среднем 90% Вис. В сочетании с живодревесным стержнем, процесс преобразования маны становится более эффективным.<BR><BR>При создании жезла, инертный манастальной наконечник должен быть заряжен маной.
 #
 forbidden.research_name.TRANSEMERALD=Трансмутация изумруда
 forbidden.research_text.TRANSEMERALD=Трансформация ценностей в изумруд
-forbidden.research_page.TRANSEMERALD.1=You have discovered a way to multiply emeralds by steeping emerald fragments in lucrum harvested from other substances.
+forbidden.research_page.TRANSEMERALD.1=Вы нашли способ размножить изумруды, погружая изумрудные осколки в Lucrum, изготовленных из других материалов.
 #
 forbidden.research_name.BLACKFLOWER=Мрачная роза
 forbidden.research_text.BLACKFLOWER=Спасите спрута!
-forbidden.research_page.BLACKFLOWER.1=There's no sight more pathetic than a soggy Thaumaturge.  For all your great and miraculous powers, you still have to go jump in the nearest lake and hunt for squids every time you want to refill your inkwell.<BR><BR>You're done squid hunting.  By infusing a rose with tenebrae and victus, you create a flower that spreads like a weed and whose petals can be crushed for ink.
+forbidden.research_page.BLACKFLOWER.1=Нет более жалкого зрелища, чем видеть мокрого Тауматурга. Для всех ваших великих и чудесных сил, Вам все равно придется идти прыгать в ближайшее озеро, и устраивать охоту за спрутами каждый раз, когда вы хотите пополнить вашу чернильницу.<BR><BR>Прекращайте охотиться за спрутами! Соединяя розу с Tenebrae и Victus, вы создаете цветок, который распространяется как сорняк, и чьи лепестки могут быть раздавлены, для создания чернил.
 #
 forbidden.research_name.WRATHCAGE=Клетка гнева
 forbidden.research_text.WRATHCAGE=Бесконечная битва
