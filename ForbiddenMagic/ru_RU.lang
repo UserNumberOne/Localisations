@@ -266,11 +266,11 @@ forbidden.research_page.HELLFIRE.1=Остаться пустым в Нижнем
 #
 forbidden.research_name.EUCLIDAISY=Евклидова маргаритка
 forbidden.research_text.EUCLIDAISY=Уровень энергии Mai waifu больше, чем 9000 в названии Луны! Верьте!
-forbidden.research_page.EUCLIDAISY.1=Ethereal Essences are extremely useful sources of essentia and are a very important ingredient in Thaumaturge's Salt. Unfortunately, it can be very difficult to come by. Wisps aren't exactly common, and no self-respecting thaumaturge wants to stoop to smashing open a node.<BR><BR>By combining thaumaturgy and hedge magic, you've created a flower that can use mana to rip open the fabric of reality. The rip isn't stable enough to form a node, but it does stay open long enough to drop a single wispy strand of essence. Applying a redstone signal to the flower causes it to stop.
+forbidden.research_page.EUCLIDAISY.1=Эфирная Эссенция, является чрезвычайно полезным источником эссенции, и является очень важным ингредиентом для соли Тауматурга. К сожалению, её очень трудно найти. Но даже не самый уважаемый себя Тауматург, не будет опускаться до разгрома открытых узлов ауры.<BR><BR>Объединив Тауматургию и хедж магию, Вы создали цветок, который использует ману для разрыва тонкой грани реальности. Разрыв не достаточно стабилен чтобы сформировать узел, но он останется открытым достаточно долго для того, чтобы из него вышла хотябы одна склянка эссенции. Активный сигнал красного каня, заставит этот цветок остановиться.
 #
 forbidden.research_name.WHISPERWEED=Шепчущий сорняк
 forbidden.research_text.WHISPERWEED=Dubbed, not Subbed
-forbidden.research_page.WHISPERWEED.1=Занятый Тауматург имеет более важные дела, чем повсюду бегать, и всё исследовать. Чтобы сэконоимть время, Вы создали цветок, который всё время находится в контакте с сверхъестественными потоками вселенной. Шепчущий сорняк - это волшебное растение, которое использует ману для того, чтобы шептать обрывки тайных знаний тем, кто рядом. Длительное воздействие её неземных шумов, может негативно влияять на вашу психику, однако...
+forbidden.research_page.WHISPERWEED.1=Занятый Тауматург имеет более важные дела, чем повсюду бегать, и всё исследовать. Чтобы сэконоимть время, Вы создали цветок, который всё время находится в контакте со сверхъестественными потоками вселенной. Шепчущий сорняк - это волшебное растение, которое использует ману для того, чтобы шептать обрывки тайных знаний тем, кто стоит рядом. Длительное воздействие её неземных шумов, может негативно влияять на вашу психику, однако...
 #
 # Lexicon
 forbidden.lexicon.euclidaisy=Евклидова маргаритка
