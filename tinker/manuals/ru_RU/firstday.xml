@@ -35,15 +35,15 @@
 </page>
 
 <page type="text">
-<text>The first step in making tools is crafting a blank pattern. It is a blank slate to stamp a shape into, providing a reference for future creations. The patterns are shaped on the Stencil Table or are used as tabletops.
+<text>Чтобы смастерить свой первый инструмент, первым делом нужно сделать Пустой бланк . Это бланк - пустой, и его нужно изменить для предания формы вашим будущим творениям. Дать форму для бланков можно на Столе для вырезки схем.
 
-You can then shape a material in a part builder with the pattern, then combine parts in the tool station. Patterns can be stored and accessed in the pattern chest.
+Вы можете дать форму материалу в Конструкторе деталей с помощью схем, а затем объединять части в Инженерной станции. Шаблоны могут быть сохранены и доступны в Сундуке для схем.
 
-Together these make the Tool Workshop. It is recommended you keep all of these nearby when using any of them.</text>
+Вместе все эти блоки образуют инструментальный цех. Рекомендуется ставить их рядом друг с другом.</text>
 </page>
 
 <page type="crafting">
-<text>Blank Pattern</text>
+<text>Пустой бланк</text>
 <recipe>
  <name>blankpattern</name>
  <size>two</size>
@@ -51,7 +51,7 @@ Together these make the Tool Workshop. It is recommended you keep all of these n
 </page>
 
 <page type="crafting">
-<text>Stencil Table</text>
+<text>Стол для вырезки схем</text>
 <recipe>
  <name>stenciltable</name>
  <size>two</size>
