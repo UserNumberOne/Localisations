@@ -232,6 +232,9 @@ Natural Abilities:
 <text>Right-click: Block
 - Blocking cuts a wide variety of damage types in half.
 
+Shift+Right-click: Place Item
+- The battlesign can show up to five lines of text.
+
 Class: Lethal Joke Weapon</text>
 <icon>battlesignicon</icon>
 <item>
@@ -1007,6 +1010,7 @@ Effects:
 - Allows the tool to be charged with Redstone Flux
 - Uses energy instead of durability while charged
 - Available from Thermal Expansion
+- Tools must have at least 1/1000th of the batteries capacity in durability
 
 Type: Single-use
 Stackable: No</text>
