@@ -30,7 +30,7 @@ item.FMResource.0.name=Изумрудный фрагмент
 item.FMResource.1.name=Теневые чернила
 item.FMResource.2.name=Самородок манастали
 item.FMResource.3.name=Осколок заражённой крови
-item.FMResource.4.name=Elementium Nugget
+item.FMResource.4.name=Элементиевый самородок
 item.MobCrystalEmpty.name=Пустой кристалл импринтинга
 item.MobCrystal.name=Отпечатанный кристалл
 item.DiabolistFork.name=Адские вилы
@@ -43,7 +43,7 @@ item.RidingCrop.name=Хлыст
 item.BoundShears.name=Связанные ножницы
 item.BloodRapier.name=Рапира неясыти
 item.Boundwell.name=Связанная чернильница с пером
-item.SubCollar.name=Collar of Pain
+item.SubCollar.name=Воротник боли
 #
 # Wand components
 item.Wand.tainted.rod=заражённый
@@ -52,12 +52,12 @@ item.Wand.neutronium.rod=космически нейтронный
 item.Wand.blood.rod=кровавый
 item.Wand.witchwood.rod=ведьмодревесный
 item.Wand.livingwood.rod=живодревесный
-item.Wand.dreamwood.rod=Dreamwood
+item.Wand.dreamwood.rod=из древесины мечтаний
 item.Wand.orichalcum.cap=обитый орихалком
 item.Wand.alchemical.cap=алхимически коронованный
 item.Wand.vinteum.cap=утолщённой винтеумом
 item.Wand.manasteel.cap=обвитый манасталью
-item.Wand.elementium.cap=Elementium Kissed
+item.Wand.elementium.cap=поцелованный элементием
 item.WandCores.tainted.name=Заражённый стержень
 item.WandCores.infernal.name=Адский стержень
 item.WandCores.soul.name=Древний стержень
@@ -69,16 +69,16 @@ item.WandCores.livingwood.name=Стержень из живой древесин
 item.WandCores.livingwood_inert.name=Бездействующий стержень из живой древесины
 item.WandCores.blood_staff.name=Кровавое ядро посоха
 item.WandCores.witchwood_staff.name=Ядро посоха из ведьминой древесины
-item.WandCores.dreamwood.name=Dreamwood Rod
-item.WandCores.dreamwood_inert.name=Silent Dreamwood Rod
-item.WandCores.dreamwood_staff.name=Dreamwood Staff Core
+item.WandCores.dreamwood.name=Стержень из древесины мечтаний
+item.WandCores.dreamwood_inert.name=Бездействующий стержень из древесины мечтаний
+item.WandCores.dreamwood_staff.name=Ядро посоха из древесины мечтаний
 item.WandCaps.alchemical.name=Алхимический наконечник
 item.WandCaps.vinteum.name=Винтеумный наконечник
 item.WandCaps.soul.name=Наконечник Края
 item.WandCaps.manasteel.name=Манастальной наконечник
 item.WandCaps.manasteel_inert.name=Инертный манастальной наконечник
-item.WandCaps.elementium.name=Elementium Cap
-item.WandCaps.elementium_inert.name=Inert Elementium Cap
+item.WandCaps.elementium.name=Элементиевый наконечник 
+item.WandCaps.elementium_inert.name=Инертный элементиевый наконечник 
 #
 # Blocks
 tile.ArcaneCake.name=Таумический торт
@@ -88,8 +88,8 @@ tile.StarBlock.name=Блок звезды Нижнего мира
 tile.blackRoseBush.name=Мрачный куст роз
 darkflower.euclidaisy.name=Евклидова маргаритка
 darkflower.whisperweed.name=Шепчущий сорняк
-darkflower.tainthistle.name=Tainthistle
-darkflower.bloodthorn.name=Bloodthorn
+darkflower.tainthistle.name=Чертополох
+darkflower.bloodthorn.name=Кровавый шип
 #
 # Enchantments
 enchantment.cluster=Огненное ядро
@@ -99,7 +99,7 @@ enchantment.consuming=Потребление
 enchantment.educational=Образование
 enchantment.corrupting=Искажение
 enchantment.voidtouched=Касание пустоты
-enchantment.impact=Impact
+enchantment.impact=Влияние
 #
 # Potions
 potion.blood_seal=Отпечаток крови
