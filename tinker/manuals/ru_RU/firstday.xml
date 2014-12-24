@@ -59,7 +59,7 @@
 </page>
 
 <page type="crafting">
-<text>Part Crafter</text>
+<text>Конструктор деталей</text>
 <recipe>
  <name>partcrafter</name>
  <size>two</size>
@@ -67,7 +67,7 @@
 </page>
 
 <page type="crafting">
-<text>Pattern Chest</text>
+<text>Сундук для схем</text>
 <recipe>
  <name>patternchest</name>
  <size>two</size>
@@ -75,7 +75,7 @@
 </page>
 
 <page type="crafting">
-<text>Tool Station</text>
+<text>Инженерная станция</text>
 <recipe>
  <name>toolstation</name>
  <size>two</size>
@@ -83,7 +83,7 @@
 </page>
 
 <page type="crafting">
-<text>Tool Forge</text>
+<text>Инженерная кузня</text>
 <recipe>
  <name>toolforge</name>
  <size>three</size>
@@ -91,7 +91,7 @@
 </page>
 
 <page type="crafting">
-<text>Drying Rack</text>
+<text>Доска для вяления</text>
 <recipe>
  <name>dryingrack</name>
  <size>three</size>
@@ -99,11 +99,11 @@
 </page>
 
 <page type="text">
-<text>Oreberry Bushes
+<text>Рудные кусты
 
-Sometime in your travels you will happen upon the bush known as the Oreberry. They grow underground in dark areas, and require close to complete darkness to produce anything. 
+При путешествии, вы можете наткнуться на кусты, известные как Рудные кусты. Они растут под землёй, в тёмных местах, и они требуют полную темноту чтобы производить что-либо.
 
-The berries can be melted down into nuggets and ingots, making them an invaluable source of metals.</text>
+Ягоды этих кустов можно переплавить в самородки и слитки, что делает их ценным источником металла.</text>
 </page>
 
 <page type="picture">
