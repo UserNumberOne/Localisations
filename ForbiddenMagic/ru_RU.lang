@@ -30,6 +30,7 @@ item.FMResource.0.name=Изумрудный фрагмент
 item.FMResource.1.name=Теневые чернила
 item.FMResource.2.name=Самородок манастали
 item.FMResource.3.name=Осколок заражённой крови
+item.FMResource.4.name=Elementium Nugget
 item.MobCrystalEmpty.name=Пустой кристалл импринтинга
 item.MobCrystal.name=Отпечатанный кристалл
 item.DiabolistFork.name=Адские вилы
@@ -42,21 +43,21 @@ item.RidingCrop.name=Хлыст
 item.BoundShears.name=Связанные ножницы
 item.BloodRapier.name=Рапира неясыти
 item.Boundwell.name=Связанная чернильница с пером
+item.SubCollar.name=Collar of Pain
 #
 # Wand components
 item.Wand.tainted.rod=заражённый
 item.Wand.infernal.rod=адский
 item.Wand.neutronium.rod=космически нейтронный
-item.Wand.soul.rod=древний
 item.Wand.blood.rod=кровавый
 item.Wand.witchwood.rod=ведьмодревесный
-item.Wand.totem.rod=тотемный
 item.Wand.livingwood.rod=живодревесный
+item.Wand.dreamwood.rod=Dreamwood
 item.Wand.orichalcum.cap=обитый орихалком
 item.Wand.alchemical.cap=алхимически коронованный
 item.Wand.vinteum.cap=утолщённой винтеумом
-item.Wand.soul.cap=экранированный Краем
 item.Wand.manasteel.cap=обвитый манасталью
+item.Wand.elementium.cap=Elementium Kissed
 item.WandCores.tainted.name=Заражённый стержень
 item.WandCores.infernal.name=Адский стержень
 item.WandCores.soul.name=Древний стержень
@@ -68,11 +69,16 @@ item.WandCores.livingwood.name=Стержень из живой древесин
 item.WandCores.livingwood_inert.name=Бездействующий стержень из живой древесины
 item.WandCores.blood_staff.name=Кровавое ядро посоха
 item.WandCores.witchwood_staff.name=Ядро посоха из ведьминой древесины
+item.WandCores.dreamwood.name=Dreamwood Rod
+item.WandCores.dreamwood_inert.name=Silent Dreamwood Rod
+item.WandCores.dreamwood_staff.name=Dreamwood Staff Core
 item.WandCaps.alchemical.name=Алхимический наконечник
 item.WandCaps.vinteum.name=Винтеумный наконечник
 item.WandCaps.soul.name=Наконечник Края
 item.WandCaps.manasteel.name=Манастальной наконечник
 item.WandCaps.manasteel_inert.name=Инертный манастальной наконечник
+item.WandCaps.elementium.name=Elementium Cap
+item.WandCaps.elementium_inert.name=Inert Elementium Cap
 #
 # Blocks
 tile.ArcaneCake.name=Таумический торт
@@ -82,6 +88,8 @@ tile.StarBlock.name=Блок звезды Нижнего мира
 tile.blackRoseBush.name=Мрачный куст роз
 darkflower.euclidaisy.name=Евклидова маргаритка
 darkflower.whisperweed.name=Шепчущий сорняк
+darkflower.tainthistle.name=Tainthistle
+darkflower.bloodthorn.name=Bloodthorn
 #
 # Enchantments
 enchantment.cluster=Огненное ядро
@@ -164,6 +172,10 @@ forbidden.research_name.ROD_livingwood=Стержень из живой древ
 forbidden.research_text.ROD_livingwood=Ботаническое хранилище Вис
 forbidden.research_page.ROD_livingwood.1=Livingwood has the fantastic ability to manipulate mana. When combined with the right reagents, it can even convert mana into vis.<BR><BR>The Livingwood Wand will quickly draw mana from storage items in your inventory in order to charge itself.<BR><BR>The infusion process burns the livingwood out, unfortunately. Once infused, the wand rod must be charged in a mana pool in order to be re-awakened.
 #
+forbidden.research_name.ROD_dreamwood_staff=Dreamwood Staff
+forbidden.research_text.ROD_dreamwood_staff=Sweet dreams are made of these
+forbidden.research_page.ROD_dreamwood_staff.1=Livingwood is a useful material, but it can't seem to withstand the amount of arcane power needed to make a staff. The elves' dreamwood seems to be up to task, however.<BR><BR>Staves made of dreamwood hold significantly more vis than the equivalent wand and are able to apply more potent power when using foci.<BR><BR>As with livingwood, dreamwood rods must be infused in a mana pool to fully awaken.
+#
 forbidden.research_name.CAP_alchemical=Алхимические наконечники
 forbidden.research_text.CAP_alchemical=Когда таумиум недостаточно кровавый
 forbidden.research_page.CAP_alchemical.1=You've developed a wand cap that merges Thaumaturgy and Alchemical Wizardry.  Alchemical Caps are very effective at channeling Aqua, only using 80% of the normal vis cost.  For everything else, they offer only a 90% rate.<BR><BR>If combined with a Bloody Wand Core, Alchemical Caps discount the amount of LP consumed by the wand, costing only 900 LP per vis.  The caps also cause all attacks from a blood wand to inflict Weakness.
@@ -178,7 +190,11 @@ forbidden.research_page.CAP_soul.1=You've created a wand cap that can safely cha
 #
 forbidden.research_name.CAP_manasteel=Наконечники из манастали
 forbidden.research_text.CAP_manasteel=Секрет маны
-forbidden.research_page.CAP_manasteel.1=Манасталь имеет очень полезные свойства, когда дело доходит до манипуляции маной. Вы сделали наконечник для жезла, который тратит в среднем 90% Вис. В сочетании с живодревесным стержнем, процесс преобразования маны становится более эффективным.<BR><BR>При создании жезла, инертный манастальной наконечник должен быть заряжен маной.
+forbidden.research_page.CAP_manasteel.1=Манасталь имеет очень полезные свойства, когда дело доходит до манипуляции маной. Вы сделали наконечник для жезла, который тратит в среднем 90% Вис. В сочетании со стержнем который может потреблять ману, процесс преобразования маны становится более эффективным.<BR><BR>При создании жезла, инертный манастальной наконечник должен быть заряжен маной.
+#
+forbidden.research_name.CAP_elementium=Elementium Caps
+forbidden.research_text.CAP_elementium=Eco Friendly Wand Caps
+forbidden.research_page.CAP_elementium.1=Alfheim seems to be a world steeped in magical power, and Elementium is no exception. When crafted into a wand cap and treated with the right materials, Elementium Caps have an exceptional ability to channel vis. When combined with a wand or staff that uses mana, they'll also reduce the mana conversion rate.<BR><BR>Elementium's pretty pink color is just icing on the cake.
 #
 forbidden.research_name.TRANSEMERALD=Трансмутация изумруда
 forbidden.research_text.TRANSEMERALD=Трансформация ценностей в изумруд
@@ -272,8 +288,20 @@ forbidden.research_name.WHISPERWEED=Шепчущий сорняк
 forbidden.research_text.WHISPERWEED=Dubbed, not Subbed
 forbidden.research_page.WHISPERWEED.1=Занятый Тауматург имеет более важные дела, чем повсюду бегать, и всё исследовать. Чтобы сэконоимть время, Вы создали цветок, который всё время находится в контакте со сверхъестественными потоками вселенной. Шепчущий сорняк - это волшебное растение, которое использует ману для того, чтобы шептать обрывки тайных знаний тем, кто стоит рядом. Длительное воздействие её неземных шумов, может негативно влияять на вашу психику, однако...
 #
+forbidden.research_name.TAINTHISTLE=Tainthistle
+forbidden.research_text.TAINTHISTLE=It won't clean up your empty pocky containers
+forbidden.research_page.TAINTHISTLE.1=When you have unlimited arcane power at your fingertips, small chores like mopping flux goo off your laboratory floor just seem beneath you.<BR><BR>Fortunately, you now have a helper to clean up for you. The Tainthistle will suck up any flux goo or gas nearby and use it to generate mana.
+#
+forbidden.research_name.SUBCOLLAR=Collar of Pain
+forbidden.research_text.SUBCOLLAR=Pain and Magic
+forbidden.research_page.SUBCOLLAR.1=Sometimes, people just want to get hurt. Especially if there's a benefit...<BR><BR>The Collar of Pain has all the capabilities of an Amulet of Vis Storage with the added bonus that it will generate vis whenever you take damage. The more you get hurt, the more vis it generates.
+#
 # Lexicon
 forbidden.lexicon.euclidaisy=Евклидова маргаритка
 forbidden.lexicon.euclidaisy.0=Жуткая, розовая &1Евклидова маргаритка&0 - очень необычна. Она использует большие объёмы маны, чтобы заклинать что-то наподобие эфирной субстанции, и тауматургам это кажется очень полезным свойством.<br>&oОн несгораем.&r
 forbidden.lexicon.whisperweed=Шепчущий сорняк
 forbidden.lexicon.whisperweed.0=&1Шепчущий сорняк&0 - это неприятное растение, которое шепчет секреты в уши тем, кто может слышать. Это растение не совсем уж полезное, поскольку секреты не относятся к ботанике.<br>&oБольше секретов, чем у Ван Ши Тонга&r.
+forbidden.lexicon.tainthistle=Tainthistle
+forbidden.lexicon.tainthistle.0=The disgusting &1Tainthistle&0 derives sustenance from the tainted runoff of magical experiments. It'll suck up any such substance it can find and try to turn it into mana. Since Botany is an environmentally friendly practice, there doesn't seem to be much point to it.<br>&oMore intrusive than a Spirit Vine&r
+forbidden.lexicon.bloodthorn=Bloodthorn
+forbidden.lexicon.bloodthorn.0=The results of some sick, twisted Blood Mage's experiments, the &1Bloodthorn&0 is a red mystical flower that has been steeped in blood until it developed a taste for the life force of all things. It uses mana to inflict an extreme level of Weakness on surrounding creatures that is unmatched by any conventional alchemy.<br>&oYakone's legacy&r
