@@ -101,24 +101,24 @@
 <page type="text">
 <text>Рудные кусты
 
-При путешествии, вы можете наткнуться на кусты, известные как Рудные кусты. Они растут под землёй, в тёмных местах, и они требуют полную темноту чтобы производить что-либо.
+При путешествии, Вы можете наткнуться на кусты, известные как Рудные кусты. Они растут под землёй, в тёмных местах, и они требуют полную темноту чтобы производить что-либо.
 
 Ягоды этих кустов можно переплавить в самородки и слитки, что делает их ценным источником металла.</text>
 </page>
 
 <page type="picture">
-<text>Oreberries in their natural environment</text>
+<text>Рудные кусты в своей естественной среде</text>
 <location>tinker:manuals/oreberries.png</location>
 </page>
 
 <page type="text">
-<text>Slime Channels
+<text>Сточная слизь
 
-Slime channels are useful for moving items or entities around. They are used as a sort of easily placeable water and can be paired with bounce pads for best effect.</text>
+Сточная слизь - хороший способ для перемещения предметов или сущностей. Она используются в качестве своего рода легко перемещаемой воды, и может быть использована в паре с Прыжковой панелью, для лучшего эффекта.</text>
 </page>
 
 <page type="crafting">
-<text>Slime Channel</text>
+<text>Сточная слизь</text>
 <recipe>
  <name>slimechannel</name>
  <size>two</size>
@@ -126,7 +126,7 @@ Slime channels are useful for moving items or entities around. They are used as 
 </page>
 
 <page type="crafting">
-<text>Bounce Pad</text>
+<text>Прыжковая панель</text>
 <recipe>
  <name>bouncepad</name>
  <size>two</size>
@@ -134,11 +134,11 @@ Slime channels are useful for moving items or entities around. They are used as 
 </page>
 
 <page type="text">
-<text>A few traps or blockades may help with your early survival experience</text>
+<text>Несколько ловушек или баррикад могут помочь Вам в начале выживания</text>
 </page>
 
 <page type="crafting">
-<text>Punji Stick</text>
+<text>Колышек</text>
 <recipe>
  <name>punji</name>
  <size>three</size>
@@ -146,7 +146,7 @@ Slime channels are useful for moving items or entities around. They are used as 
 </page>
 
 <page type="crafting">
-<text>Barricade</text>
+<text>Баррикада</text>
 <recipe>
  <name>barricade</name>
  <size>two</size>
@@ -154,13 +154,13 @@ Slime channels are useful for moving items or entities around. They are used as 
 </page>
 
 <page type="text">
-<text>Once you're well established, you can begin to process metals in a more efficient manner. The scope of the smeltery is beyond this volume, but a few recipes will help you get started.
+<text>После того как Вы хорошо устроитесь, Вы можете начать процесс обработки металлов более эффективным способом. Несколько рецептов помогут вам начать.
 
-Note: The Smeltery is required to process all metals, including iron.</text>
+Примечание: Плавильный завод, необходим для обработки всех металлов, включая железо.</text>
 </page>
 
 <page type="crafting">
-<text>Grout</text>
+<text>Цемент</text>
 <recipe>
  <name>grout</name>
  <size>two</size>
@@ -168,12 +168,12 @@ Note: The Smeltery is required to process all metals, including iron.</text>
 </page>
 
 <page type="furnace">
-<text>Seared Brick</text>
+<text>Обожжённый кирпич</text>
 <recipe>searedbrick</recipe>
 </page>
 
 <page type="crafting">
-<text>Seared Bricks</text>
+<text>Обожжённые кирпичи</text>
 <recipe>
  <name>searedbricks</name>
  <size>two</size>
@@ -181,7 +181,7 @@ Note: The Smeltery is required to process all metals, including iron.</text>
 </page>
 
 <page type="crafting">
-<text>Smeltery Controller</text>
+<text>Контроллер плавильни</text>
 <recipe>
  <name>smelterycontroller</name>
  <size>three</size>
@@ -189,11 +189,11 @@ Note: The Smeltery is required to process all metals, including iron.</text>
 </page>
 
 <page type="text">
-<text>If you ever find yourself without this book, a new one is simple to make. Other books can be made from this one as well.</text>
+<text>Если у Вас вдруг пропадёт эта книга, сделать новую книгу довольно легко. Также из этой книги можно делать другие.</text>
 </page>
 
 <page type="crafting">
-<text>Book</text>
+<text>Книга</text>
 <recipe>
  <name>alternatebook</name>
  <size>three</size>
@@ -201,7 +201,7 @@ Note: The Smeltery is required to process all metals, including iron.</text>
 </page>
 
 <page type="crafting">
-<text>Materials and You: v1</text>
+<text>Материалы и Вы: v1</text>
 <recipe>
  <name>patternbook1</name>
  <size>two</size>
@@ -209,7 +209,7 @@ Note: The Smeltery is required to process all metals, including iron.</text>
 </page>
 
 <page type="crafting">
-<text>Materials and You: v2</text>
+<text>Материалы и Вы: v2</text>
 <recipe>
  <name>patternbook2</name>
  <size>two</size>
@@ -217,7 +217,7 @@ Note: The Smeltery is required to process all metals, including iron.</text>
 </page>
 
 <page type="crafting">
-<text>Mighty Smelting</text>
+<text>Могучая металлургия</text>
 <recipe>
  <name>patternbook3</name>
  <size>two</size>
