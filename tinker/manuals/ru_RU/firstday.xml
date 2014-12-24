@@ -225,21 +225,21 @@
 </page>
 
 <page type="text">
-<text>Armor Modifiers
+<text>Модификаторы брони
 
 The following armor modifiers seem to be missing names or in flux. No word is available on the accuracy or new home of these pages.</text>
 </page>
 
 <page type="sectionpage">
-<title>Night Vision</title>
-<text>Apparently carrots and juice are not only good for your eyes, but for your goggles as well.
-The Night Vision Potion also helps.
+<title>Ночное зрение</title>
+<text>Видимо, морковь и сок не только хороши для ваших глаз, но также и для ваших очков.
+Зелье Ночного зрения тоже помогает.
 
-Effects:
-- Night Vision
+Эффекты:
+- Ночное зрение
 
-Type: Single-use
-Stackable: No</text>
+Тип: Одноразовый
+Стакается: Нет</text>
 </page>
 
 <page type="modifier">
