@@ -43,7 +43,7 @@ item.RidingCrop.name=Хлыст
 item.BoundShears.name=Связанные ножницы
 item.BloodRapier.name=Рапира неясыти
 item.Boundwell.name=Связанная чернильница с пером
-item.SubCollar.name=Воротник боли
+item.SubCollar.name=Амулет боли
 #
 # Wand components
 item.Wand.tainted.rod=заражённый
@@ -292,7 +292,7 @@ forbidden.research_name.TAINTHISTLE=Чертополох
 forbidden.research_text.TAINTHISTLE=It won't clean up your empty pocky containers
 forbidden.research_page.TAINTHISTLE.1=When you have unlimited arcane power at your fingertips, small chores like mopping flux goo off your laboratory floor just seem beneath you.<BR><BR>Fortunately, you now have a helper to clean up for you. The Tainthistle will suck up any flux goo or gas nearby and use it to generate mana.
 #
-forbidden.research_name.SUBCOLLAR=Воротник боли
+forbidden.research_name.SUBCOLLAR=Амулет боли
 forbidden.research_text.SUBCOLLAR=Боль и Магия
 forbidden.research_page.SUBCOLLAR.1=Sometimes, people just want to get hurt. Especially if there's a benefit...<BR><BR>The Collar of Pain has all the capabilities of an Amulet of Vis Storage with the added bonus that it will generate vis whenever you take damage. The more you get hurt, the more vis it generates.
 #
