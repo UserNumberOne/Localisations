@@ -281,7 +281,7 @@ The following armor modifiers seem to be missing names or in flux. No word is av
 
 <page type="sectionpage">
 <title>Мягкое падение</title>
-<text>Вы получили крылья. Если курица может это делать, то можете и вы.
+<text>Вы получили крылья. Если курица может это делать, то можете и Вы.
 Может быть использован любой вариант слизи.
 
 Эффекты:
@@ -301,7 +301,7 @@ The following armor modifiers seem to be missing names or in flux. No word is av
 
 <page type="sectionpage">
 <title>Прогулка по воде</title>
-<text>Если я соеденю это с моими ботинками, я уверен, что я могу ходить по воде. Но что может пойти не так?
+<text>Если Я соеденю это с моими ботинками, Я уверен, что смогу ходить по воде. Но что может пойти не так?
 
 Эффекты:
 - Позволяет ходить по воде
@@ -320,7 +320,7 @@ The following armor modifiers seem to be missing names or in flux. No word is av
 <page type="sectionpage">
 <title>Железные ботинки</title>
 <text>Этот железный блок хорошо служил мне. Я хочу взять его с собой, на дно океана.
-Идеально, если вы хотите посмотреть на рыбок.
+Идеально, если Вы хотите посмотреть на рыбок.
 
 Эффекты:
 - Позволяет ходить под водой
@@ -370,16 +370,16 @@ The following armor modifiers seem to be missing names or in flux. No word is av
 </page>
 
 <page type="sectionpage">
-<title>Auto-Repair</title>
-<text>Attaching moss to an armor infuses it with life. The tool appears to be capable of regenerating wear and tear.
+<title>Авто-починка</title>
+<text>Используя лозу на броне, она наполняется жизнью. У инструментов появляется способность регенерироваться.
 
-Effects:
-- The tool slowly repairs itself
-- Sunlight speeds up the process
-- Can be applied to all travellers gear
+Эффекты:
+- Инструмент медленно сам себя восстанавливает
+- Дневной свет ускоряет процесс восстановления
+- Может быть применим на одеянии путешественника
 
-Type: Single-use
-Stackable: yes</text>
+Тип: Одноразовый
+Стакаемый: Да</text>
 </page>
 
 <page type="modifier">
@@ -388,15 +388,15 @@ Stackable: yes</text>
 </page>
 
 <page type="sectionpage">
-<title>Double Jump</title>
-<text>Infused with the power of a ghast tear and some slime and piston mechanics, I should be able to repel myself even further into the air.
+<title>Двойной прыжок</title>
+<text>С помощью силы взрыва Гаста, механики поршней и слизи, у меня появляется возможность отпрыгивать ещё выше.
 
-Effects:
-- Jump during jumping to jump
-- Can be applied to wings as well
+Эффекты:
+- Прыгать во время прыжка для прыжка
+- Также, может использоваться с Крыльями
 
-Type: Single-use
-Stackable: yes</text>
+Тип: Одноразовый
+Стакаемый: Да</text>
 </page>
 
 <page type="modifier">
