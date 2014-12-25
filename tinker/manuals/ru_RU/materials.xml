@@ -55,53 +55,53 @@
 </page>
 
 <page type="toolpage">
-<title>Shovel</title>
-<text>The Shovel is a basic digging tool. It is the most common way of moving earth around.</text>
-<text>Class: Precision Tool
-Effective on: Dirt, sand, gravel, and snow.</text>
+<title>Лопата</title>
+<text>Лопата - это базовый инструмент для копания. Это наиболее распространенный способ изменения ландшафта.</text>
+<text>Класс: Точный инструмент
+Эффективен для: Земли, песка, песчанника и снега.</text>
 <icon>shovelicon</icon>
 <item>
- <text>Shovel Head</text>
+ <text>Штык лопаты</text>
  <icon>shovelhead</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Hatchet</title>
-<text>The Hatchet is a basic chopping tool. It is the simplest way to shape lumber.</text>
-<text>Class: Precision Tool
-Effective on: Wood, Leaves, and Trees.</text>
+<title>Топорик</title>
+<text>Топорик - это основной инструмент для срубания. Это самый простой способ добыть древесину.</text>
+<text>Класс: Точный инструмент
+Эффективен для: Древесины, листьев и деревьев.</text>
 <icon>axeicon</icon>
 <item>
- <text>Hatchet Head</text>
+ <text>Обух топора</text>
  <icon>axehead</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Mattock</title>
-<text>The Cutter Mattock is a versatile farming tool. Its primary purpose is to till soil. It also works somewhat like an axe and a shovel, but is not a replacement for either.</text>
-<text>Class: Multitool
-Effective on: Wood, dirt, and plants.</text>
+<title>Мотыготопор</title>
+<text>Мотыготопор - это универсальный инструмент для сельского хозяйства. Его основная цель - разрыхлять почву. Также, его можно использовать как топор и лопата, но он не является их заменой.</text>
+<text>Класс: Мультиинструмент
+Эффективен для: Древесины, земли и растений.</text>
 <icon>mattockicon</icon>
 <item>
- <text>Axe Head</text>
+ <text>Обух топора</text>
  <icon>axehead</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 <item>
- <text>Shovel Head</text>
+ <text>Штык лопаты</text>
  <icon>shovelhead</icon>
 </item>
 </page>
