@@ -2,54 +2,54 @@
 
 <book>
 <page type="intro">
-<text>Materials and You
-A Guide to Tools and Abilities
+<text>Материалы и Вы
+Руководство об инструметах
 
-Volume 2
-By Skyla</text>
+Часть 2
+Автор Skyla</text>
 </page>
 
 <page type="contents">
-<text>Table of Contents</text>
+<text>Контент</text>
 <link>
- <text>Tools</text>
+ <text>Инструменты</text>
  <icon>ironpick</icon>
  <jump>2</jump>
 </link>
 <link>
- <text>Materials</text>
+ <text>Материалы</text>
  <icon>woodplanks</icon>
  <jump>4</jump>
 </link>
 <link>
- <text>Modifiers</text>
+ <text>Модификаторы</text>
  <icon>lavacrystal</icon>
  <jump>4</jump>
 </link>
 </page>
 
 <page type="text">
-<text>Welcome to the second edition of Materials and You: A Guide to Tools and Abilities. Within these pages you will details on every known tool, modifier, and material. A detailed breakdown of everything known, and a few unknowns, lie here.
+<text>Добро пожаловать во второе издание книги Материалы и Вы: Руководство об инструметах. С помощью этой книги Вы более подробно узнаете обо всех инструментах, материалах и модификаторах. Тут всё разобрано по полочкам, но кое о чём тут всё же не написано.
 
-This book is a magic copy; it updates whenever the original has been modified. Check back occasionally for information on new things.</text>
+Это книга - магическая копия; она обновляется, когда её оригинал изменяется. Иногда в ней появляется новая информация о новых предметах, следите за обновлениями.</text>
 </page>
 
 <page type="toolpage">
-<title>Pickaxe</title>
-<text>The Pickaxe is a basic mining tool. It is the simplest method of chewing through rock and harvesting ores.</text>
-<text>Class: Precision Tool
-Effective on: Stone or rock, ores, and metal.</text>
+<title>Кирка</title>
+<text>Кирка - это базовый инструмент любого шахтёра. Это самый простой способ добывания камня и руд.</text>
+<text>Класс: Точный инструмент
+Эффективен для: Камня или булыжника, руд и металлов.</text>
 <icon>pickicon</icon>
 <item>
- <text>Pickaxe Head</text>
+ <text>Обух кирки</text>
  <icon>pickhead</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 <item>
- <text>Tool Binding</text>
+ <text>Крепление</text>
  <icon>binding</icon>
 </item>
 </page>
