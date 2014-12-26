@@ -2,43 +2,43 @@
 
 <book>
 <page type="intro">
-<text>Mighty Smelting
-Make the most of your metals
+<text>Могучая металлургия
+Создаёт большинство Ваших металлов
 
-By Thruul M'gon</text>
+Автор: Thruul M'gon</text>
 </page>
 
 <page type="contents">
-<text>Table of Contents</text>
+<text>Содержание</text>
 <link>
- <text>Introduction</text>
+ <text>Введение</text>
  <icon>smelterybook</icon>
  <jump>3</jump>
 </link>
 <link>
- <text>Casting</text>
+ <text>Отливка</text>
  <icon>castingtable</icon>
  <jump>8</jump>
 </link>
 <link>
- <text>Construction</text>
+ <text>Строительство</text>
  <icon>smeltery</icon>
  <jump>5</jump>
 </link>
 <link>
- <text>Alloys</text>
+ <text>Сплавы</text>
  <icon>liquidiron</icon>
  <jump>9</jump>
 </link>
 <link>
- <text>Recipes</text>
+ <text>Рецепты</text>
  <icon>blankcast</icon>
  <jump>9</jump>
 </link>
 </page>
 
 <page type="text">
-<text>Welcome to the world of metalcraft. Within these pages you will learn the secrets of crafting rare and precious metals into usable materials.
+<text>Добро пожаловать в мир металлургии. На этих страницах Вы узнаете секреты переработки редких и драгоценных металлов в необходимые для использования материалы.
 
 You will learn how to cast everything from the softest Iron to the hardest Manyullyn into whatever shape you desire and create alloy mixes from obscure materials. As always, experimentation is key!
 
@@ -46,48 +46,48 @@ The main structure for melting metals is called the Smeltery. It is larger than 
 </page>
 
 <page type="text">
-<text>When working with the Smeltery, there are a few things to keep in mind:
+<text>При работе с плавильней Вы должны знать следующие вещи:
 
-* The Smeltery functions as a large liquid tank. It is capable of melting metals and mixing various things.
+* Плавильня работает как большой жидкостный резервуар. Он подходит для плавки металлов и смешивания разных вещей.
 
-* Drains function as input/output for the tank. If you need to get liquids back into the structure, simply pour them into a drain.
+* Сливы работают как вход/выход для этого резервуара. Если Вам нужно вернуть жидкости обратно в плавильню, просто залейте их в слив.
 
-* Ores naturally have more material than processed versions, such as ingots. The Smeltery will preserve the full value of the ores - roughly twice as much as a regular furnace would provide.</text>
+* У руд больше материала(металла), чем у переработанных версий, типа слитков. Плавильня полностью сохраняет ценность руды - удваивая любую руду(2 слитка за руду вместо 1).</text>
 </page>
 
 <page type="text">
-<text>* Mixing two or more metals in the Smeltery may result in an alloy. The process happens automatically.
+<text>* Смешивание двух или более металлов в плавильне может привести к созданию сплава. Процесс происходит автоматически.
 
-* If you need more space to process metal, add more layers.
+* Если Вам нужно больше места для обработки металлов, добавьте больше слоёв из блоков.
 
-* Casts are made differently from Patterns. Details are found later.</text>
+* Слепки изготавливаются из схем. Подробности позже.</text>
 </page>
 
 <page type="sidebar">
-<text>The Smeltery is a multi-block structure. You will need the following materials to get started.</text>
+<text>Плавильня - это мультиблоковая структура. Вам нужны следующие материалы, чтобы начать.</text>
 <item>
- <text>1 Smeltery Controller</text>
+ <text>1 Контроллер плавильни</text>
  <icon>smeltery</icon>
 </item>
 <item>
- <text>1 Seared Tank</text>
+ <text>1 Обожжённый резервуар</text>
  <icon>lavatank</icon>
 </item>
 <item>
- <text>9 Seared Bricks</text>
+ <text>9 Обожжённых кирпичей</text>
  <icon>searedbrick</icon>
 </item>
 <item>
- <text>Any combination of 10 Seared Bricks, Seared Tanks, or Drains
+ <text>Любая комбинация из 10 Обожжённых кирпичей, обожжённых резервуаров или сливов
  </text>
  <icon>drain</icon>
 </item>
 <item>
- <text>1 Faucet</text>
+ <text>1 Литейный кран</text>
  <icon>faucet</icon>
 </item>
 <item>
- <text>1 Casting Table</text>
+ <text>1 Литейный стол</text>
  <icon>castingtable</icon>
 </item>
 </page>
@@ -116,49 +116,49 @@ Other liquid removal objects will work, but are frowned upon. An example picture
 </page>
 
 <page type="sidebar">
-<text>Alloys are made when two or more metals are mixed in precise proportions. Currently known alloys are:</text>
+<text>Сплавы изготавливаются смешиванием двух или более металлов в точных пропорциях. В настоящее время известны сплавы:</text>
 <item>
- <text>Bronze, made from Copper(3) and Tin(1)</text>
+ <text>Бронза, изготавливается из 3-ёх меди и 1-го олова</text>
  <icon>bronzeingot</icon>
 </item>
 <item>
- <text>Aluminum Brass, made from Aluminum(3) and Copper(1)</text>
+ <text>Алюминиевая латунь, изготавливается из 3-ёх алюминия и 1-го меди</text>
  <icon>alubrassingot</icon>
 </item>
 <item>
- <text>Manyullyn, made from Cobalt(2) and Ardite(2)</text>
+ <text>Мануллин, изготавливается из 2-ух кобальта и 2-ух ардита</text>
  <icon>manyullyningot</icon>
 </item>
 <item>
- <text>Alumite, made from Aluminum(5), Iron(2), and Obsidian(2)</text>
+ <text>Алюмит, изготавливается из 5-ти алюминия, 2-ух железа и 2-ух обсидиана</text>
  <icon>alumiteingot</icon>
 </item>
 <item>
- <text>Pig Iron, made from Iron(1), Blood(1), and Emeralds(1)</text>
+ <text>Свиное железо, изготавливается из 1-го железа, 1-ой крови и 1-го изумруда</text>
  <icon>pigironingot</icon>
 </item>
 </page>
 
 <page type="sidebar">
-<text>There exist a few liquids that are gained through strange means. Currently known liquids are:</text>
+<text>Существует несколько жидкостей, которые получены в результате странных экспериментов. В настоящее время известны жидкости:</text>
 <item>
- <text>Blood, damaging entities in the Smeltery</text>
+ <text>Кровь, наносит урон существам в плавильне</text>
  <icon>bloodbucket</icon>
 </item>
 <item>
- <text>Liquified Emeralds, melting down emeralds or villagers</text>
+ <text>Сжиженные изумруды, расплавьте изумруды или жителей в плавильне</text>
  <icon>emeraldbucket</icon>
 </item>
 <item>
- <text>Glue, melting down horses in the Smeltery</text>
+ <text>Клей, расплавьте лошадей в плавильне</text>
  <icon>gluebucket</icon>
 </item>
 <item>
- <text>Slime, found on slime islands. It functions as a spawner</text>
+ <text>Слизь, можно найти на слизневых островах. Работает как спаунер</text>
  <icon>slimebucket</icon>
 </item>
 <item>
- <text>Ender, either melting down ender pearls or endermen</text>
+ <text>Жидкость Края, расплавьте жемчуг Края или странника Края в плавильне</text>
  <icon>enderbucket</icon>
 </item>
 </page>
@@ -170,12 +170,12 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="picture">
-<text>Forming a Cast</text>
+<text>Создание слепка</text>
 <location>tinker:manuals/casting.png</location>
 </page>
 
 <page type="crafting">
-<text>Grout</text>
+<text>Цемент</text>
 <recipe>
  <name>grout</name>
  <size>two</size>
@@ -183,12 +183,12 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="furnace">
-<text>Seared Brick</text>
+<text>Обожжённый кирпич</text>
 <recipe>searedbrick</recipe>
 </page>
 
 <page type="crafting">
-<text>Seared Bricks</text>
+<text>Обожжённый кирпич</text>
 <recipe>
  <name>searedbricks</name>
  <size>two</size>
@@ -196,7 +196,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Smeltery Controller</text>
+<text>Контроллер плавильни</text>
 <recipe>
  <name>smelterycontroller</name>
  <size>three</size>
@@ -204,7 +204,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Smeltery Drain</text>
+<text>Слив плавильни</text>
 <recipe>
  <name>smelterydrain</name>
  <size>three</size>
@@ -212,7 +212,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Seared Tank</text>
+<text>Обожжённый резервуар</text>
 <recipe>
  <name>smelterytank1</name>
  <size>three</size>
@@ -220,7 +220,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Seared Glass</text>
+<text>Обожжённое стекло</text>
 <recipe>
  <name>smelterytank2</name>
  <size>three</size>
@@ -228,7 +228,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Seared Window</text>
+<text>Обожжённое окно</text>
 <recipe>
  <name>smelterytank3</name>
  <size>three</size>
@@ -236,7 +236,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Seared Faucet</text>
+<text>Литейный кран</text>
 <recipe>
  <name>smelteryfaucet</name>
  <size>three</size>
@@ -244,7 +244,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Casting Channel</text>
+<text>Разливочный канал</text>
 <recipe>
  <name>castingchannel</name>
  <size>three</size>
@@ -252,7 +252,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Casting Table</text>
+<text>Литейный стол</text>
 <recipe>
  <name>smelterytable</name>
  <size>three</size>
@@ -260,7 +260,7 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="crafting">
-<text>Casting Basin</text>
+<text>Литейный резервуар</text>
 <recipe>
  <name>smelterybasin</name>
  <size>three</size>
@@ -268,27 +268,27 @@ Part casts must be created by pouring metal around existing parts, like a pickax
 </page>
 
 <page type="blockcast">
-<text>Brownstone</text>
+<text>Бурый песчаник</text>
 <recipe>brownstone</recipe>
 </page>
 
 <page type="blockcast">
-<text>Clear Glass</text>
+<text>Чистое стекло</text>
 <recipe>clearglass</recipe>
 </page>
 
 <page type="blockcast">
-<text>Seared Stone</text>
+<text>Обожжённый камень</text>
 <recipe>searedstone</recipe>
 </page>
 
 <page type="blockcast">
-<text>Endstone</text>
+<text>Камень Края</text>
 <recipe>endstone</recipe>
 </page>
 
 <page type="blockcast">
-<text>Glueball</text>
+<text>Шарик клея</text>
 <recipe>glueball</recipe>
 </page>
 
