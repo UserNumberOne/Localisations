@@ -107,50 +107,50 @@
 </page>
 
 <page type="toolpage">
-<title>Broadsword</title>
-<text>The Broadsword is a defensive weapon. It is a favorite of many Tinkers and is useful in a wide variety of situations.</text>
-<text>Right-click: Block
-- Blocking cuts a wide variety of damage types in half.
+<title>Палаш</title>
+<text>Палаш - оборонительное оружие. Это любимое оружие многих инженеров, который полезен самых разных ситуациях.</text>
+<text>ПКМ: Блок
+- Блокирование уменьшает повреждения в два раза.
 
-Class: Melee Weapon
-Effective on webs.</text>
+Класс: Оружие ближнего боя
+Эффективен против паутины.</text>
 <icon>swordicon</icon>
 <item>
- <text>Sword Blade</text>
+ <text>Лезвие меча</text>
  <icon>swordblade</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 <item>
- <text>Wide Guard</text>
+ <text>Широкая гарда</text>
  <icon>wideguard</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Longsword</title>
-<text>The Longsword is an offensive weapon. It is used for full-speed charges and plowing through enemy lines</text>
-<text>Right-click: Lunge
-- When released, it sends you careening forward at breakneck speed.
+<title>Полуторный меч</title>
+<text>Полуторный меч - наступительное оружие. Он испльзуется для быстрой атаки.</text>
+<text>ПКМ: Прыжок
+- При отпускании, он отбрасывает вас вперёд с головокружительной скоростью.
 
-Natural Abilities:
-- Charge Boost, does 1.5x damage and knockback while sprinting
+Уже имеющиеся способности:
+- Ускоренный заряд, во время бега он дальше отбрасывает, наносит в 1.5x урона больше.
 
-Class: Melee Weapon
-Effective on webs.</text>
+Класс: Оружие ближнего боя
+Эффективен против паутины.</text>
 <icon>longswordicon</icon>
 <item>
- <text>Sword Blade</text>
+ <text>Лезвие меча</text>
  <icon>swordblade</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 <item>
- <text>Hand Guard</text>
+ <text>Малая гарда</text>
  <icon>handguard</icon>
 </item>
 </page>
