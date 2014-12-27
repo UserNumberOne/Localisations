@@ -40,9 +40,9 @@
 <page type="text">
 <text>Добро пожаловать в мир металлургии. На этих страницах Вы узнаете секреты переработки редких и драгоценных металлов в необходимые для использования материалы.
 
-You will learn how to cast everything from the softest Iron to the hardest Manyullyn into whatever shape you desire and create alloy mixes from obscure materials. As always, experimentation is key!
+Вы научитесь отливать, что угодно из мягкого железа и из плотного мануллина, любые формы, которые Вы пожелаете, и создавать сплавы из неизвестных металлов. Как всегда, экспериментирование - ключ к успеху!
 
-The main structure for melting metals is called the Smeltery. It is larger than structures you may be familiar with, but the method for construction is relatively simple. It operates much like a furnace with a drain.</text>
+Главная конструкция для плавки металлов называется плавильня. Она больше других конструкций, с которыми Вы можете быть знакомы, но способ её строительства относительно прост. Она работает, как печь со сливом.</text>
 </page>
 
 <page type="text">
@@ -64,7 +64,7 @@ The main structure for melting metals is called the Smeltery. It is larger than 
 </page>
 
 <page type="sidebar">
-<text>Плавильня - это мультиблоковая структура. Вам нужны следующие материалы, чтобы начать.</text>
+<text>Плавильня - это мультиблоковая структура. Для начала Вам нужны следующие материалы.</text>
 <item>
  <text>1 Контроллер плавильни</text>
  <icon>smeltery</icon>
@@ -93,19 +93,19 @@ The main structure for melting metals is called the Smeltery. It is larger than 
 </page>
 
 <page type="text">
-<text>Begin construction by laying a 3x3 bed of seared bricks. Leave any space above these bricks open; you will be constructing a shell around a 3x3 hollow inside. 
+<text>Начните строительство, заложив слой 3x3 из обожжённых кирпичей. Пространство над кирпичами должно быть открыто, так как Вы будете строить корпус вокруг этого слоя, которая должна быть полая внутри.
 
-Place the Controller one layer up and the lava tank anywhere on the same level. Fill in the rest of the space with seared bricks, lava tanks, or drains as you like. 
+Поставьте контроллер на один уровень вверх и резервуар для лавы где-нибудь на этом же уровне. Заставьте остальное пространство обожжёнными кирпичами, резервуарами или сливами. 
 
-The small end of drains should be facing the outside. If you're successful, the Controller will light up and start working. Fill the tank with lava, the Smeltery with metal, and watch it go.
+Маленький конец сливов должны смотреть наружу. Если всё сделано правильно, контроллер загорится и начнёт работать. Заполните резервуар лавой, плавильню металлом и наслаждайтесь процессом.
 
-The structure must be a 5x5 shell due to the amount of heat lava gives off. There are no vertical restrictions to the size of the Smeltery. </text>
+Структура корпуса должна быть 5x5 из-за количества выделяемого тепла лавы. Ограничения размера по вертикали у плавильни нет. </text>
 </page>
 
 <page type="text">
-<text>Larger Smelteries will hold more metal, of course, and the Controller can be on any level so long as there is a lava tank to match.
+<text>Большие плавильни, конечно же, могут содержать больше металлов и контроллер может быть на любом уровне до тех пор, пока есть соответствующий резервуар для лавы.
 
-When you are ready to pour liquid metal from the Smeltery, put a faucet on a drain and a casting table below it.
+Когда Вы готовы вылить металл из плавильни, поставьте кран на слив, а под слив поставьте литейный стол.
 
 Other liquid removal objects will work, but are frowned upon. An example picture is provided for your convienence.</text>
 </page>
@@ -164,9 +164,9 @@ Other liquid removal objects will work, but are frowned upon. An example picture
 </page>
 
 <page type="text">
-<text>Blank casts are made by pouring aluminum brass or gold into an empty casting table. These are used in crafting recipes and can be re-melted.
+<text>Пустые слепки изготавливаются путём выливания алюминиевой латуни или золота на пустой литейный стол. Они используются в рецептах создания и могут быть расплавлены обратно в металл.
 
-Part casts must be created by pouring metal around existing parts, like a pickaxe head.</text>
+Слепки деталей изготавливаются путём выливания металла вокруг имеющейся детали, например на обух кирки.</text>
 </page>
 
 <page type="picture">
