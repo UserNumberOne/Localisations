@@ -3,14 +3,14 @@
 <book>
 <page type="intro">
 <text>Материалы и Вы
-Руководство об инструметах
+Руководство о инструментах и их функциях
 
 Часть 2
-Автор Skyla</text>
+Автор: Skyla</text>
 </page>
 
 <page type="contents">
-<text>Контент</text>
+<text>Содержание</text>
 <link>
  <text>Инструменты</text>
  <icon>ironpick</icon>
@@ -29,16 +29,16 @@
 </page>
 
 <page type="text">
-<text>Добро пожаловать во второе издание книги Материалы и Вы: Руководство об инструметах. С помощью этой книги Вы более подробно узнаете обо всех инструментах, материалах и модификаторах. Тут всё разобрано по полочкам, но кое о чём тут всё же не написано.
+<text>Добро пожаловать во второе издание книги Материалы и Вы: Руководство о инструментах и их функциях. С помощью этой книги Вы более подробно узнаете обо всех инструментах, материалах и модификаторах. Тут всё разобрано по полочкам, но кое о чём тут всё же не написано.
 
 Это книга - магическая копия; она обновляется, когда её оригинал изменяется. Иногда в ней появляется новая информация о новых предметах, следите за обновлениями.</text>
 </page>
 
 <page type="toolpage">
 <title>Кирка</title>
-<text>Кирка - это базовый инструмент любого шахтёра. Это самый простой способ добывания камня и руд.</text>
+<text>Кирка - это основной инструмент любого шахтёра. Это самый простой способ добывания камня и руд.</text>
 <text>Класс: Точный инструмент
-Эффективен для: Камня или булыжника, руд и металлов.</text>
+Эффективна для: Камня или булыжника, руд и металлов.</text>
 <icon>pickicon</icon>
 <item>
  <text>Обух кирки</text>
@@ -56,9 +56,9 @@
 
 <page type="toolpage">
 <title>Лопата</title>
-<text>Лопата - это базовый инструмент для копания. Это наиболее распространенный способ изменения ландшафта.</text>
+<text>Лопата - это основной инструмент для копания. Это наиболее распространённый способ изменения ландшафта.</text>
 <text>Класс: Точный инструмент
-Эффективен для: Земли, песка, песчанника и снега.</text>
+Эффективна для: Земли, песка, песчаника и снега.</text>
 <icon>shovelicon</icon>
 <item>
  <text>Штык лопаты</text>
@@ -72,9 +72,9 @@
 
 <page type="toolpage">
 <title>Топорик</title>
-<text>Топорик - это основной инструмент для срубания. Это самый простой способ добыть древесину.</text>
+<text>Топорик - это основной инструмент для рубки. Это самый простой способ добыть древесину.</text>
 <text>Класс: Точный инструмент
-Эффективен для: Древесины, листьев и деревьев.</text>
+Эффективна для: Древесины, листьев и деревьев.</text>
 <icon>axeicon</icon>
 <item>
  <text>Обух топора</text>
@@ -88,7 +88,7 @@
 
 <page type="toolpage">
 <title>Мотыготопор</title>
-<text>Мотыготопор - это универсальный инструмент для сельского хозяйства. Его основная цель - разрыхлять почву. Также, его можно использовать как топор и лопата, но он не является их заменой.</text>
+<text>Мотыготопор - это универсальный инструмент для фермерства. Его основная цель - разрыхлять почву. Также, его можно использовать как топор и лопату, но он не является их заменой.</text>
 <text>Класс: Мультиинструмент
 Эффективен для: Древесины, земли и растений.</text>
 <icon>mattockicon</icon>
@@ -108,7 +108,7 @@
 
 <page type="toolpage">
 <title>Палаш</title>
-<text>Палаш - оборонительное оружие. Это любимое оружие многих инженеров, который полезен самых разных ситуациях.</text>
+<text>Палаш - это оборонительное оружие. Любимое оружие многих инженеров, ведь он полезен самых разных ситуациях.</text>
 <text>ПКМ: Блок
 - Блокирование уменьшает повреждения в два раза.
 
@@ -131,12 +131,12 @@
 
 <page type="toolpage">
 <title>Полуторный меч</title>
-<text>Полуторный меч - наступительное оружие. Он испльзуется для быстрой атаки.</text>
+<text>Полуторный меч - это наступательное оружие. Он используется для врывания в битву на полной скорости.</text>
 <text>ПКМ: Прыжок
 - При отпускании, он отбрасывает вас вперёд с головокружительной скоростью.
 
-Уже имеющиеся способности:
-- Ускоренный заряд, во время бега он дальше отбрасывает, наносит в 1.5x урона больше.
+Обычные функции:
+- Ускоренный заряд, во время бега он дальше отбрасывает, наносит в 1.5x больше урона.
 
 Класс: Оружие ближнего боя
 Эффективен против паутины.</text>
@@ -156,72 +156,72 @@
 </page>
 
 <page type="toolpage">
-<title>Rapier</title>
-<text>The Rapier is a special weapon. The dancing swordplay lets you get in and out of battle quickly. While the Rapier's damage is low, it makes up for this with its other abilities.</text>
-<text>Right-click: Backpedal
-- Take a small hop backwards
+<title>Рапира</title>
+<text>Рапира - это особое оружие. The dancing swordplay lets you get in and out of battle quickly. While the Rapier's damage is low, it makes up for this with its other abilities.</text>
+<text>ПКМ: Шаг назад
+- Небольшие шаги назад
 
-Natural Abilities:
-- Charge Boost, does 1.5x damage and knockback while sprinting.
-- Armor Pierce, ignores armor and blocking.
-- Quick Strike, the enemy is stunned for less time.
+Обычные функции:
+- Усиление удара, наносит в 1.5x раза больше урона и отбрасывает врага во время бега.
+- Пробивает броню, игнорирует броню и блокирование.
+- Быстрая атака, оглушает врага ненадолго.
 
-Class: Melee Weapon</text>
+Класс: Оружие ближнего боя</text>
 <icon>rapiericon</icon>
 <item>
- <text>Sword Blade</text>
+ <text>Лезвие меча</text>
  <icon>swordblade</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 <item>
- <text>Crossbar</text>
+ <text>Поперечная гарда</text>
  <icon>crossbar</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Dagger</title>
-<text>The Dagger is a short weapon. It is light and usable as both a striking and throwing weapon.</text>
-<text>Right-click: Throw Dagger
-- Toss the item for a ranged attack
+<title>Кинжал</title>
+<text>Кинжал - это короткий клинок. Он лёгок, поэтому его можно использовать в качестве оружия ближнего и дальнего оружия.</text>
+<text>ПКМ: Метнуть кинжал
+- Кидает предмет для атаки на расстоянии
 
-Class: Ranged/Melee Weapon</text>
+Класс: Оружие дальнего/ближнего боя</text>
 <icon>daggerIcon</icon>
 <item>
- <text>Knife Blade</text>
+ <text>Лезвие ножа</text>
  <icon>knifeblade</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 <item>
- <text>Crossbar</text>
+ <text>Поперечная гарда</text>
  <icon>crossbar</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Frying Pan</title>
-<text>The Frying is a heavy weapon that uses sheer weight to stun foes or a place to cook your food. It is common to hunt pigs and cook them with the same pan.</text>
-<text>Right-click: Block
-- Blocking cuts a wide variety of damage types in half.
+<title>Сковорода</title>
+<text>Сковорода - это тяжёлое оружие, которое that uses sheer weight to stun foes or a place to cook your food. It is common to hunt pigs and cook them with the same pan.</text>
+<text>ПКМ: Блок
+- Блокирование уменьшает повреждения в два раза.
 
-Shift+Right-click: Place Item
-- The frying pan cooks a large amount of food at a time.
+Shift+ПКМ: Поставить предмет
+- Сковорода готовит огромное количество еды за раз.
 
-Natural Abilities:
-- Bash, does extra knockback and stuns the foe.</text>
+Обычные функции:
+- Сильный удар, отбрасывает и оглушает врага.</text>
 <icon>frypanicon</icon>
 <item>
- <text>Pan</text>
+ <text>Сковорода</text>
  <icon>pan</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 </page>
@@ -481,103 +481,103 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Material Traits</title>
-<text>Some materials have traits that augment their natural uses.
+<title>Особенности материалов</title>
+<text>У некоторых материалов есть особенности, которые расширяют их естественное применение.
 
-- Reinforced: 10% chance per level of not using durability
-- Stonebound: The tool mines faster as it wears out, but does less damage
-- Jagged: The tool attacks with does more damage as it wears out, but mines slower
-- Writable: One extra modifier per piece
-- Tasty: Sometimes drops food items</text>
+- Усиление: 10% шанс за уровень, что прочность не будет использована
+- Сила камня: Инструмент добывает быстрее, когда изнашивается, но наносит меньше урона
+- Зазубренность: Инструмент наносит больше урона, когда изнашивается, но добывает медленее
+- Переписываемость: Один дополнительный модификатор за деталь
+- Вкусность: Иногда можно получить еду</text>
 </page>
 
 <page type="materialstats">
-<title>Wood</title>
+<title>Дерево</title>
 <icon>woodaxe</icon>
-<text>It seems to grow everywhere.</text>
+<text>Кажется оно растёт везде.</text>
 <material>
  <main>woodplanks</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Stone</title>
+<title>Камень</title>
 <icon>stonepick</icon>
-<text>One of the most common materials in the world.</text>
+<text>Один из наиболее распространённых материалов в мире.</text>
 <material>
  <main>stoneblock</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Iron</title>
+<title>Железо</title>
 <icon>ironpick</icon>
-<text>A staple for tools, it can be refined and processed.
-- Requires the Smeltery</text>
+<text>Основа для инструментов, оно может быть улучшено и обработано.
+- Требуется плавильня</text>
 <material>
  <main>ironingot</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Flint</title>
+<title>Кремень</title>
 <icon>flintshovel</icon>
-<text>More durable than stone. The material of choice for cavemen.</text>
+<text>Прочнее камня. Материал для пещерных людей.</text>
 <material>
  <main>flint</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Cactus</title>
+<title>Кактус</title>
 <icon>cactussword</icon>
-<text>A form of wood found only in the desert.</text>
+<text>Вид дерева, который можно найти в пустыни.</text>
 <material>
  <main>cactus</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Bone</title>
+<title>Кость</title>
 <icon>bonerapier</icon>
-<text>A material with many uses, dead or alive.</text>
+<text>Материал с большим количеством применений, мёртвый или живой.</text>
 <material>
  <main>bone</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Obsidian</title>
+<title>Обсидиан</title>
 <icon>bonefrypan</icon>
-<text>Tough as nails, but fragile when shaped.</text>
+<text>Прочный как гвозди, но хрупкий, если придать ему форму.</text>
 <material>
  <main>obsidian</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Alumite</title>
+<title>Алюмит</title>
 <icon>alumitepick</icon>
-<text>An uncommon alloy. It seems to be quite durable.
-- Requires the Smeltery</text>
+<text>Редкий сплав. Достаточно прочный.
+- Требуется плавильня</text>
 <material>
  <main>alumiteingot</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Netherrack</title>
+<title>Камень Нижнего мира</title>
 <icon>netherrackmattock</icon>
-<text>This is made of what?!</text>
+<text>Из чего он сделан?!</text>
 <material>
  <main>netherrack</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Blue Slime</title>
+<title>Синяя слизь</title>
 <icon>blueslimebattlesign</icon>
-<text>Converting it from food has made it stronger.</text>
+<text>Добывание её из еды, сделало её прочнее.</text>
 <toolmaterial>BlueSlime</toolmaterial>
 <material>
  <main>blueslimecrystal</main>
@@ -585,9 +585,9 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="materialstats">
-<title>Green Slime</title>
+<title>Зелёная слизь</title>
 <icon>slimebattlesign</icon>
-<text>Soft and springy, it seems to last forever.</text>
+<text>Мягкая и пружинистая, она кажется бесконечной.</text>
 <toolmaterial>Slime</toolmaterial>
 <material>
  <main>slimecrystal</main>
@@ -595,7 +595,7 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="crafting">
-<text>Slimy Mud</text>
+<text>Слизистая грязь</text>
 <recipe>
  <name>slimymud</name>
  <size>three</size>
@@ -603,21 +603,21 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="furnace">
-<text>Slime Crystal</text>
+<text>Слизистый кристалл</text>
 <recipe>slimecrystal</recipe>
 </page>
 
 <page type="materialstats">
-<title>Paper</title>
+<title>Бумага</title>
 <icon>paperpick</icon>
-<text>It's very weak, but can take a lot of modification.</text>
+<text>Она очень слабая, но она может быть сильно модифицирована.</text>
 <material>
  <main>paperstack</main>
 </material>
 </page>
 
 <page type="crafting">
-<text>Paper Stack</text>
+<text>Кучка бумаги</text>
 <recipe>
  <name>paperstack</name>
  <size>two</size>
@@ -625,50 +625,50 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="materialstats">
-<title>Cobalt</title>
+<title>Кобальт</title>
 <icon>cobaltlongsword</icon>
-<text>One of the nether materials. It's bright blue.
-- Requires the Smeltery</text>
+<text>Один из материалов Нижнего мира. Светло-синий.
+- Требуется плавильня</text>
 <material>
  <main>cobaltingot</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Ardite</title>
+<title>Ардит</title>
 <icon>arditelongsword</icon>
-<text>One of the nether materials. It seems to mine faster as it wears out.
-- Requires the Smeltery</text>
+<text>Один из материалов Нижнего мира. Добывает быстрее, когда изнашивается.
+- Требуется плавильня</text>
 <material>
  <main>arditeingot</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Manyullyn</title>
+<title>Мануллин</title>
 <icon>manyullynlongsword</icon>
-<text>The nether alloy. It's stronger than diamond.
-- Requires the Smeltery</text>
+<text>Сплав Нижнего мира. Крепче алмаза.
+- Требуется плавильня</text>
 <material>
  <main>manyullyningot</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Copper</title>
+<title>Медь</title>
 <icon>copperaxe</icon>
-<text>A common metal found in the ground.
-- Requires the Smeltery</text>
+<text>Распространённый металл, который можно найти под землёй.
+- Требуется плавильня</text>
 <material>
  <main>copperingot</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Bronze</title>
+<title>Бронза</title>
 <icon>bronzeaxe</icon>
-<text>A common alloy. It's a bit better than iron.
-- Requires the Smeltery</text>
+<text>Распространённый сплав. Немного лучше чем железо.
+- Требуется плавильня</text>
 <material>
  <main>bronzeingot</main>
 </material>
@@ -677,19 +677,19 @@ Class: Ranged Projectile Launcher</text>
 <page type="materialstats">
 <title>Steel</title>
 <icon>steelsword</icon>
-<text>An Iron alloy. The method for obtaining this is unknown.
-- Requires the Smeltery</text>
+<text>Сплав железа. Метод получения неизвестен.
+- Требуется плавильня</text>
 <material>
  <main>steelingot</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>Pig Iron</title>
+<title>Свиное железо</title>
 <icon>pigironsword</icon>
 <toolmaterial>PigIron</toolmaterial>
-<text>An Iron alloy. It seems to be made of blood, iron, and emeralds.
-- Requires the Smeltery</text>
+<text>Сплав железа. Кажется сделано из крови, железа и изумрудов.
+- Требуется плавильня</text>
 <material>
  <main>pigironingot</main>
 </material>
@@ -702,12 +702,12 @@ Class: Ranged Projectile Launcher</text>
 <title>Diamond</title>
 <text>Adding a diamond to the edge of a tool seems to make it more resilient.
 
-Effects:
+Эффекты:
 - 500 extra durability
 - Mining level increased to level 3
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -719,12 +719,12 @@ Stackable: No</text>
 <title>Emerald</title>
 <text>Affixing an emerald to a tool's weakest point appears to make it more resilient.
 
-Effects:
+Эффекты:
 - 50% more durability
 - Mining level increased to level 2
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -736,13 +736,13 @@ Stackable: No</text>
 <title>Speed</title>
 <text>Adding redstone to a tool seems to increase its mining speed.
 
-Effects:
+Эффекты:
 - Each redstone dust increases mining speed by 0.08.
 - At 50/50 the boost is 4.0, making a wood pickaxe equivalent in speed to iron.
 - Not useful on weapons
 
-Type: Multi-use
-Stackable: Yes</text>
+Тип: Multi-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -754,12 +754,12 @@ Stackable: Yes</text>
 <title>Auto-Repair</title>
 <text>Attaching moss to a tool infuses it with life. The tool appears to be capable of regenerating wear and tear.
 
-Effects:
+Эффекты:
 - The tool slowly repairs itself
 - Sunlight speeds up the process
 
-Type: Single-use
-Stackable: Yes</text>
+Тип: Single-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -771,14 +771,14 @@ Stackable: Yes</text>
 <title>Auto-Smelt</title>
 <text>Melting a lava crystal onto the end of a tool gives it the power of a furnace.
 
-Effects:
+Эффекты:
 - Smelts blocks as they're harvested
 - Sets mobs on fire for 3 seconds
 - Stacks with Luck
 - Not compatible with Silky
 
-Type: Multi-use
-Stackable: No</text>
+Тип: Multi-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -806,14 +806,14 @@ Stackable: No</text>
 <title>Luck</title>
 <text>Encrusting lapis on tools is a gift to the gods of luck. They will bless your tool with great fortune and loot.
 
-Effects:
+Эффекты:
 - Adds fortune or looting, depends on tool type
 - Increases level at a maximum threshold, but has a chance of increasing before
 - Sometimes adds extra luck to the tool
 - Not compatible with Silky
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -825,12 +825,12 @@ Stackable: No</text>
 <title>Sharpness</title>
 <text>Adding quartz to the edge of a tool seems to make it sharper.
 
-Effects:
+Эффекты:
 - Increases attack damage
 - Has less of an effect on tools with piercing properties
 
-Type: Multi-use
-Stackable: Yes</text>
+Тип: Multi-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -842,12 +842,12 @@ Stackable: Yes</text>
 <title>Fiery</title>
 <text>Adding blaze powder to a tool gives it a fiery tinge.
 
-Effects:
+Эффекты:
 - Sets enemies on fire
 - Every 5 powder adds another second to the flame.
 
-Type: Multi-use
-Stackable: Yes</text>
+Тип: Multi-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -859,12 +859,12 @@ Stackable: Yes</text>
 <title>Necrotic</title>
 <text>Placing the bone of a Wither Skelton on a tool gives it nefarious life-stealing powers.
 
-Effects:
+Эффекты:
 - Heals the player every time a monster is attacked
 - Heals one heart per bone
 
-Type: Single-use
-Stackable: Yes</text>
+Тип: Single-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -876,13 +876,13 @@ Stackable: Yes</text>
 <title>Silky</title>
 <text>Adding a large glob of alunimum brass or gold and a bunch of string seems to give the tool silky-smooth properties.
 
-Effects:
+Эффекты:
 - Allows blocks to be harvested directly
 - Scythes modified with Silky act as shears on blocks
 - Not compatible with Luck or Auto-Smelt
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -910,12 +910,12 @@ Stackable: No</text>
 <title>Reinforced</title>
 <text>Adding an obsidian plate to the tool seems to help with its durability.
 
-Effects:
+Эффекты:
 - Adds the material trait Reinforced to the tool
 - Stacks with previous levels of Reinforced
 
-Type: Single-use
-Stackable: Yes</text>
+Тип: Single-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -927,11 +927,11 @@ Stackable: Yes</text>
 <title>Knockback</title>
 <text>Attaching a piston to the tool and activating it at the right time seems to throw mobs further away.
 
-Effects:
+Эффекты:
 - Adds extra knockback to the tool.
 
-Type: Multi-use
-Stackable: Yes</text>
+Тип: Multi-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -943,11 +943,11 @@ Stackable: Yes</text>
 <title>Beheading</title>
 <text>Working an ender pearl and some obsidian on a weapon has the curious effect of separating the target's head from its body.
 
-Effects:
+Эффекты:
 - Beheads mobs. Enemies drop their heads as a result.
 
-Type: Single-use
-Stackable: Yes</text>
+Тип: Single-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -959,12 +959,12 @@ Stackable: Yes</text>
 <title>Bane of Arthropods</title>
 <text>Striking a spider with its own eyeball causes it to recoil in fear.
 
-Effects:
+Эффекты:
 - Does extra damage to spiders.
 - 1-2 hearts per level.
 
-Type: Multi-use
-Stackable: Yes</text>
+Тип: Multi-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -976,12 +976,12 @@ Stackable: Yes</text>
 <title>Smite</title>
 <text>The raw power of consecrated soil empowers your weapon, smiting enemies from on high.
 
-Effects:
+Эффекты:
 - Does extra damage to undead.
 - 1-2 hearts per level.
 
-Type: Multi-use
-Stackable: Yes</text>
+Тип: Multi-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
@@ -1006,14 +1006,14 @@ Stackable: Yes</text>
 <title>Flux</title>
 <text>Adding a Hardened Flux Capacitor or Leadstone Energy Cell gives a tool energy. The tool still functions properly when the Cell/Capacitor has no charge.
 
-Effects:
+Эффекты:
 - Allows the tool to be charged with Redstone Flux
 - Uses energy instead of durability while charged
 - Available from Thermal Expansion
 - Tools must have at least 1/1000th of the batteries capacity in durability
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -1025,13 +1025,13 @@ Stackable: No</text>
 <title>Flux</title>
 <text>Adding a Hardened Flux Capacitor or Leadstone Energy Cell gives a tool energy. The tool still functions properly when the Cell/Capacitor has no charge.
 
-Effects:
+Эффекты:
 - Allows the tool to be charged with Redstone Flux
 - Uses energy instead of durability while charged
 - Available from Thermal Expansion
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -1040,14 +1040,14 @@ Stackable: No</text>
 </page>
 
 <page type="sectionpage">
-<title>Additional Modifiers</title>
+<title>Дополнительные модификаторы</title>
 <text>Working the tool with a block of gold and a diamond makes the tool more malleable, allowing for more modification.
 
-Effects:
+Эффекты:
 - Adds an additional modifier slot to the tool
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -1056,14 +1056,14 @@ Stackable: No</text>
 </page>
 
 <page type="sectionpage">
-<title>Additional Modifiers</title>
+<title>Дополнительные модификаторы</title>
 <text>Attaching a solid gold apple and encrusting the tool with a block of diamond warps the tool in places you did not notice before.
 
-Effects:
+Эффекты:
 - Adds an additional modifier slot to the tool
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -1072,14 +1072,14 @@ Stackable: No</text>
 </page>
 
 <page type="sectionpage">
-<title>Additional Modifiers</title>
+<title>Дополнительные модификаторы</title>
 <text>Working the tool with a nether star gives it the ability to attach parts they would not otherwise stay.
 
-Effects:
+Эффекты:
 - Adds an additional modifier slot to the tool
 
-Type: Single-use
-Stackable: No</text>
+Тип: Single-use
+Складывается: No</text>
 </page>
 
 <page type="modifier">
@@ -1088,15 +1088,15 @@ Stackable: No</text>
 </page>
 
 <page type="sectionpage">
-<title>Additional Modifiers</title>
+<title>Дополнительные модификаторы</title>
 <text>For the creative types or the map makers in the world, this item is for you.
 
-Effects:
+Эффекты:
 - Adds an additional modifier slot to the tool
 - If it has a target lock, it will only work on that tool.
 
-Type: Single-use
-Stackable: Yes</text>
+Тип: Single-use
+Складывается: Yes</text>
 </page>
 
 <page type="modifier">
