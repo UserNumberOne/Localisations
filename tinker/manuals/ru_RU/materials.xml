@@ -227,255 +227,255 @@ Shift+ПКМ: Поставить предмет
 </page>
 
 <page type="toolpage">
-<title>Battlesign</title>
-<text>The Battlesign is an advance in weapon technology worthy of Zombie Pigmen everywhere.</text>
-<text>Right-click: Block
-- Blocking cuts a wide variety of damage types in half.
+<title>Боевая табличка</title>
+<text>Боевая табличка - это продвинутое оружие.</text>
+<text>ПКМ: Блок
+- Блокирование уменьшает повреждения в два раза.
 
-Shift+Right-click: Place Item
-- The battlesign can show up to five lines of text.
+Shift+ПКМ: Поставить предмет
+- Боевая табличка может отображать до пяти строчек текста.
 
-Class: Lethal Joke Weapon</text>
+Класс: Оружие смертельной шутки</text>
 <icon>battlesignicon</icon>
 <item>
  <text>Board</text>
  <icon>board</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Chisel</title>
-<text>The Chisel is an advanced detailing tool for carving shapes into blocks.</text>
-<text>Right-click: Chisel
-- Transforms various blocks into bricks.
-Crafting grid: Chisel
-- Some items can only be chiseled in the crafting grid.
+<title>Стамеска</title>
+<text>Стамеска - это продвинутый обрабатывающий инструмент, предназначенный для вырезки фигур на блоках.</text>
+<text>ПКМ: Стамеска
+- Преобразует некоторые блоки в кирпичи.
+Сетка создания: Стамеска
+- Некоторые предметы могут быть отточены только в сетке создания.
 
-Class: Utility Tool</text>
+Класс: Полезный инструмент</text>
 <icon>chiselicon</icon>
 <item>
- <text>Chisel Head</text>
+ <text>Лезвие стамески</text>
  <icon>chiselhead</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Hammer</title>
+<title>Молот</title>
 <text>The Hammer is a heavy mining tool meant for digging out large areas. It is also effective on undead.</text>
-<text>Natural Abilities: 
+<text>Обычные функции: 
 - Area of Effect, Mines a 3x3 area. The direction depends on which face is pounded.
 - Smite II, Does 2-4 extra hearts of damage against undead.
 - Huge Durability, this tool has very high durability to make up for the constant beating it will recieve.
 
-Class: Broad Mining Tool</text>
+Класс: Широкий добывающий инструмент</text>
 <icon>hammericon</icon>
 <item>
- <text>Hammer Head</text>
+ <text>Боёк молота</text>
  <icon>hammerhead</icon>
 </item>
 <item>
- <text>Large Plate</text>
+ <text>Большая пластина</text>
  <icon>largeplate</icon>
 </item>
 <item>
- <text>Tough Rod</text>
+ <text>Прочный стержень</text>
  <icon>toughrod</icon>
 </item>
 <item>
- <text>Large Plate</text>
+ <text>Большая пластина</text>
  <icon>largeplate</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Lumber Axe</title>
+<title>Большой топор</title>
 <text>The Lumber Axe is capable of bringing down whole trees or clearing large swaths of food in a single swing.</text>
-<text>Natural Abilities:
-Fell Trees
-- Harvests entire trees. It has a max height of 30. Trees are defined as Leaves on top of Logs.
-Area of Effect
-- Mines a 3x3x3 area. This is a fallback if a tree is not found.
+<text>Обычные функции:
+Валит деревья
+- Полностью валит деревья. It has a max height of 30. Trees are defined as Leaves on top of Logs.
+Область действия
+- Добывает область 3x3x3. This is a fallback if a tree is not found.
 
-Class: Broad Mining Tool</text>
+Класс: Широкий добывающий инструмент</text>
 <icon>lumbericon</icon>
 <item>
- <text>Broad Axe Head</text>
+ <text>Большой обух топора</text>
  <icon>broadaxehead</icon>
 </item>
 <item>
- <text>Large Plate</text>
+ <text>Большая пластина</text>
  <icon>largeplate</icon>
 </item>
 <item>
- <text>Tough Rod</text>
+ <text>Прочный стержень</text>
  <icon>toughrod</icon>
 </item>
 <item>
- <text>Tough Binding</text>
+ <text>Прочное крепление</text>
  <icon>toughbinding</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Excavator</title>
+<title>Копалка</title>
 <text>The Excavator is a large digging tool used for clearing out large swaths of land, gravel, or snow.</text>
-<text>Natural Abilities: 
-Area of Effect
-- Mines a 3x3 area. The direction depends on which face is scooped.
+<text>Обычные функции: 
+Область действия
+- Добывает область 3x3. Направление зависит от того, куда смотрит игрок.
 
-Class: Broad Mining Tool</text>
+Класс: Широкий добывающий инструмент</text>
 <icon>excavatoricon</icon>
 <item>
- <text>Excavator Head</text>
+ <text>Пластина копалки</text>
  <icon>excavatorhead</icon>
 </item>
 <item>
- <text>Large Plate</text>
+ <text>Большая пластина</text>
  <icon>largeplate</icon>
 </item>
 <item>
- <text>Tough Rod</text>
+ <text>Прочный стержень</text>
  <icon>toughrod</icon>
 </item>
 <item>
- <text>Tough Binding</text>
+ <text>Прочное крепление</text>
  <icon>toughbinding</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Scythe</title>
+<title>Коса</title>
 <text>The Scythe is well known for its large swinging area. It can be used to harvest crops, leaves, and is a decent weapon.</text>
-<text>Natural Abilities: 
-Area of Effect
-- Attacks mobs in a 3x3x3.
-- Harvests a 3x3x3 area.
+<text>Обычные функции: 
+Область действия
+- Атакует мобов в области 3x3x3.
+- Собирает область 3x3x3.
 
-Class: Broad Melee Weapon</text>
+Класс: Широкий добывающий инструмент</text>
 <icon>scytheicon</icon>
 <item>
- <text>Scythe Head</text>
+ <text>Лезвие косы</text>
  <icon>scythehead</icon>
 </item>
 <item>
- <text>Tough Rod</text>
+ <text>Прочный стержень</text>
  <icon>toughrod</icon>
 </item>
 <item>
- <text>Tough Binding</text>
+ <text>Прочное крепление</text>
  <icon>toughbinding</icon>
 </item>
 <item>
- <text>Tough Rod</text>
+ <text>Прочный стержень</text>
  <icon>toughrod</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Cleaver</title>
+<title>Тесак</title>
 <text>The Cleaver is a heavy defensive weapon. The sword is unwieldly, but the sheer weight of the tool crushes foes.</text>
-<text>Right-click: Block
-- Blocking cuts a wide variety of damage types in half.
+<text>ПКМ: Блок
+- Блокирование уменьшает повреждения в два раза.
 
-Natural Abilities: 
+Обычные функции: 
 - Beheading II, Beheads mobs. Their head is dropped as loot.
 - Heavy, Base attack is increased at the cost of swing time
 
-Class: Heavy Melee Weapon</text>
+Класс: Тяжёлое оружие ближнего боя</text>
 <icon>cleavericon</icon>
 <item>
- <text>Large Sword Blade</text>
+ <text>Большое лезвие меча</text>
  <icon>largeswordblade</icon>
 </item>
 <item>
- <text>Large Plate</text>
+ <text>Большая пластина</text>
  <icon>largeplate</icon>
 </item>
 <item>
- <text>Tough Rod</text>
+ <text>Прочный стержень</text>
  <icon>toughrod</icon>
 </item>
 <item>
- <text>Tough Rod</text>
+ <text>Прочный стержень</text>
  <icon>toughrod</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Battleaxe</title>
+<title>Боевой топор</title>
 <text>The battleaxe is an offensive melee weapon that can also bring down small trees.</text>
-<text>Right-click: TBD
-- This ability is incomplete
+<text>ПКМ: Неизвестно
+- Эта особенность незавершена
 
-Natural Abilities: 
+Обычные функции: 
 - Area of Effect, harvests wood blocks in a 1x9 tower.
 - Bash, knocks the enemy further away than normal.
 
-Class: Heavy Melee Weapon</text>
+Класс: Тяжёлое оружие ближнего боя</text>
 <icon>battleaxeicon</icon>
 <item>
- <text>Broad Axe Head</text>
+ <text>Большой обух топора</text>
  <icon>broadaxehead</icon>
 </item>
 <item>
- <text>Broad Axe Head</text>
+ <text>Большой обух топора</text>
  <icon>broadaxehead</icon>
 </item>
 <item>
- <text>Tough Rod</text>
+ <text>Прочный стержень</text>
  <icon>toughrod</icon>
 </item>
 <item>
- <text>Tough Binding</text>
+ <text>Прочное крепление</text>
  <icon>toughbinding</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Shortbow</title>
+<title>Короткий лук</title>
 <text>The Shortbow is a weapon used to fire arrows. It has a quick, short range.</text>
-<text>Right-click: Draw bow
+<text>ПКМ: Draw bow
 - The further a bow is drawn, the further an arrow flies and the more damage it does.
 
-Class: Ranged Projectile Launcher</text>
+Класс: Ranged Projectile Launcher</text>
 <icon>shortbowIcon</icon>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 <item>
- <text>Bowstring</text>
+ <text>Оперение</text>
  <icon>bowstring</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 </page>
 
 <page type="toolpage">
-<title>Arrow</title>
+<title>Стрела</title>
 <text>Arrows are fired from bows as projectiles. They can also be used as stabbing weapons in a pinch.</text>
-<text>Class: Ammunition</text>
+<text>Класс: Боеприпасы</text>
 <icon>arrowIcon</icon>
 <item>
- <text>Arrowhead</text>
+ <text>Наконечник стрелы</text>
  <icon>arrowhead</icon>
 </item>
 <item>
- <text>Tool Rod</text>
+ <text>Стержень</text>
  <icon>toolrod</icon>
 </item>
 <item>
- <text>Fletching</text>
+ <text>Оперение</text>
  <icon>fletching</icon>
 </item>
 </page>
@@ -675,7 +675,7 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="materialstats">
-<title>Steel</title>
+<title>Сталь</title>
 <icon>steelsword</icon>
 <text>Сплав железа. Метод получения неизвестен.
 - Требуется плавильня</text>
@@ -699,15 +699,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Diamond</title>
-<text>Adding a diamond to the edge of a tool seems to make it more resilient.
+<title>Алмаз</title>
+<text>Добавление алмаза к краю инструмента, кажется, делает его более прочным.
 
 Эффекты:
-- 500 extra durability
-- Mining level increased to level 3
+- 500 дополнительной прочности
+- Уровень добычи увеличен до 3
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -716,15 +716,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Emerald</title>
-<text>Affixing an emerald to a tool's weakest point appears to make it more resilient.
+<title>Изумруд</title>
+<text>Прикрепление изумруда к слабой точки инструмента, похоже, делает его более прочным.
 
 Эффекты:
-- 50% more durability
-- Mining level increased to level 2
+- На 50% больше прочности
+- Уровень добычи увеличен до  2
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -733,16 +733,16 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Speed</title>
-<text>Adding redstone to a tool seems to increase its mining speed.
+<title>Скорость</title>
+<text>Добавление красного камня к инструменту, кажется, увеличивает его скорость добычи.
 
 Эффекты:
-- Each redstone dust increases mining speed by 0.08.
-- At 50/50 the boost is 4.0, making a wood pickaxe equivalent in speed to iron.
-- Not useful on weapons
+- Каждая красная пыль увеличивает скорость добычи на 0.08.
+- На 50/50 увеличение равно 4.0, делая деревянную кирку эквивалентной в скорости к железной.
+- Не полезен на оружие
 
-Тип: Multi-use
-Складывается: Yes</text>
+Тип: Многоразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -751,15 +751,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Auto-Repair</title>
-<text>Attaching moss to a tool infuses it with life. The tool appears to be capable of regenerating wear and tear.
+<title>Авто-починка</title>
+<text>Прикрепление мха к инструменту наполняет его жизнью. У инструмента, похоже, появляется способность к регенерации износа.
 
 Эффекты:
-- The tool slowly repairs itself
-- Sunlight speeds up the process
+- Инструмент медленно чинит себя
+- Солнечный свет ускоряет процесс
 
-Тип: Single-use
-Складывается: Yes</text>
+Тип: Одноразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -768,17 +768,17 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Auto-Smelt</title>
-<text>Melting a lava crystal onto the end of a tool gives it the power of a furnace.
+<title>Авто-плавка</title>
+<text>Расплавление лавового кристалла на конец инструмента даёт ему силу печи.
 
 Эффекты:
-- Smelts blocks as they're harvested
-- Sets mobs on fire for 3 seconds
-- Stacks with Luck
-- Not compatible with Silky
+- Плавит блоки при добывании
+- Поджигает мобов на 3 секунды
+- Сочетается с модификатором удача
+- Несовместим с модификатором шелковистость
 
-Тип: Multi-use
-Складывается: No</text>
+Тип: Многоразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -787,7 +787,7 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="crafting">
-<text>Ball of Moss</text>
+<text>Шарик мха</text>
 <recipe>
  <name>mossball</name>
  <size>three</size>
@@ -795,7 +795,7 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="crafting">
-<text>Lava Crystal</text>
+<text>Лавовый кристалл</text>
 <recipe>
  <name>lavacrystal</name>
  <size>three</size>
@@ -803,17 +803,17 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Luck</title>
-<text>Encrusting lapis on tools is a gift to the gods of luck. They will bless your tool with great fortune and loot.
+<title>Удача</title>
+<text>Покрытие лазуритом инструментов - это подарок для богов удачи. Они благословят Ваш инструмент великой удачей и богатством.
 
 Эффекты:
-- Adds fortune or looting, depends on tool type
-- Increases level at a maximum threshold, but has a chance of increasing before
-- Sometimes adds extra luck to the tool
-- Not compatible with Silky
+- Добавляет удачу или мародёрство, зависит от типа инструмента
+- Уровень увеличивается при достижении порога, но есть шанс увеличения и до этого
+- Иногда добавляет дополнительную удачу
+- Несовместим с модификатором шелковистость
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -822,15 +822,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Sharpness</title>
-<text>Adding quartz to the edge of a tool seems to make it sharper.
+<title>Острота</title>
+<text>Добавление кварца к краю инструмента, кажется, делает его острее.
 
 Эффекты:
-- Increases attack damage
-- Has less of an effect on tools with piercing properties
+- Увеличивает урон
+- Меньший эффект на инструментах с пробивающими свойствами
 
-Тип: Multi-use
-Складывается: Yes</text>
+Тип: Многоразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -839,15 +839,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Fiery</title>
-<text>Adding blaze powder to a tool gives it a fiery tinge.
+<title>Огненное касание</title>
+<text>Добавление огненного порошка на инструмент даёт ему огненные свойства.
 
 Эффекты:
-- Sets enemies on fire
-- Every 5 powder adds another second to the flame.
+- Поджигает врагов
+- Каждый 5 порошок добавляет ещё одну секунду к горению.
 
-Тип: Multi-use
-Складывается: Yes</text>
+Тип: Многоразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -856,15 +856,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Necrotic</title>
-<text>Placing the bone of a Wither Skelton on a tool gives it nefarious life-stealing powers.
+<title>Некроз</title>
+<text>Размещение кости иссушающего скелета на инструмент даёт ему скверную вампирическую силу.
 
 Эффекты:
-- Heals the player every time a monster is attacked
-- Heals one heart per bone
+- Лечит игрока, когда монстр атакует его
+- Каждая кость добавляет сердце к лечению
 
-Тип: Single-use
-Складывается: Yes</text>
+Тип: Одноразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -873,16 +873,16 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Silky</title>
-<text>Adding a large glob of alunimum brass or gold and a bunch of string seems to give the tool silky-smooth properties.
+<title>Шелковистость</title>
+<text>Добавление большой шара алюминиевой латуни или золота и немного ниток, кажется, даёт инструменту свойства шелковистости, гладкости.
 
 Эффекты:
-- Allows blocks to be harvested directly
-- Scythes modified with Silky act as shears on blocks
-- Not compatible with Luck or Auto-Smelt
+- Позволяет получать полные блоки, а не их предметы
+- Косы, модифицированные шелковистостью работают как ножницы
+- Несовместим с модификаторами удача и авто-плавка
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -891,7 +891,7 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="crafting">
-<text>Silky Cloth</text>
+<text>Шелковистая ткань</text>
 <recipe>
  <name>silkycloth</name>
  <size>three</size>
@@ -899,7 +899,7 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="crafting">
-<text>Silky Jewel</text>
+<text>Шелковистая драгоценность</text>
 <recipe>
  <name>silkyjewel</name>
  <size>three</size>
@@ -907,15 +907,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Reinforced</title>
-<text>Adding an obsidian plate to the tool seems to help with its durability.
+<title>Усиление</title>
+<text>Добавление обсидиановой пластины к инструменту, кажется, увеличивает его прочность.
 
 Эффекты:
-- Adds the material trait Reinforced to the tool
-- Stacks with previous levels of Reinforced
+- Добавляет инструменту особенность "Усиление"
+- Складывается с предыдущими уровнями усиления
 
-Тип: Single-use
-Складывается: Yes</text>
+Тип: Одноразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -924,14 +924,14 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Knockback</title>
-<text>Attaching a piston to the tool and activating it at the right time seems to throw mobs further away.
+<title>Отдача</title>
+<text>Добавление поршня к инструменту и его своевременная активация, кажется, откидывает мобов дальше.
 
 Эффекты:
-- Adds extra knockback to the tool.
+- Добавляет дополнительной отброс инструменту.
 
-Тип: Multi-use
-Складывается: Yes</text>
+Тип: Многоразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -940,14 +940,14 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Beheading</title>
-<text>Working an ender pearl and some obsidian on a weapon has the curious effect of separating the target's head from its body.
+<title>Усекновение</title>
+<text>Прикрепление жемчуга Края и немного обсидиана на оружие имеет любопытный эффект отделения головы цели от тела.
 
 Эффекты:
-- Beheads mobs. Enemies drop their heads as a result.
+- Обезглавливает мобов. В результате чего головы мобов падают.
 
-Тип: Single-use
-Складывается: Yes</text>
+Тип: Одноразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -956,15 +956,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Bane of Arthropods</title>
-<text>Striking a spider with its own eyeball causes it to recoil in fear.
+<title>Бич членистоногих</title>
+<text>Поражение паука его собственным глазом заставляет его бежать в страхе.
 
 Эффекты:
-- Does extra damage to spiders.
-- 1-2 hearts per level.
+- Наносит дополнительной урон паукам.
+- 1-2 сердца за уровень.
 
-Тип: Multi-use
-Складывается: Yes</text>
+Тип: Многоразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -973,15 +973,15 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Smite</title>
-<text>The raw power of consecrated soil empowers your weapon, smiting enemies from on high.
+<title>Небесная кара</title>
+<text>Необузданная сила священной почвы усиливает Ваше оружие, ударяя врагов с высоты.
 
 Эффекты:
-- Does extra damage to undead.
-- 1-2 hearts per level.
+- Наносит дополнительной урон нежити.
+- 1-2 сердца за уровень.
 
-Тип: Multi-use
-Складывается: Yes</text>
+Тип: Многоразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
@@ -990,7 +990,7 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="crafting">
-<text>Graveyard Soil</text>
+<text>Кладбищенская почва</text>
 <recipe>
  <name>graveyardsoil</name>
  <size>two</size>
@@ -998,22 +998,22 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="furnace">
-<text>Consecrated Soil</text>
+<text>Священная почва</text>
 <recipe>consecratedsoil</recipe>
 </page>
 
 <page type="sectionpage">
-<title>Flux</title>
-<text>Adding a Hardened Flux Capacitor or Leadstone Energy Cell gives a tool energy. The tool still functions properly when the Cell/Capacitor has no charge.
+<title>Флакс</title>
+<text>Добавление усиленного флаксового конденсатора или свинцовой энергетической ячейки даёт инструменту энергию. Инструмент продолжает функционировать, если ячейка/конденсатор не имеет заряда.
 
 Эффекты:
-- Allows the tool to be charged with Redstone Flux
-- Uses energy instead of durability while charged
-- Available from Thermal Expansion
-- Tools must have at least 1/1000th of the batteries capacity in durability
+- Позволяет зарядить инструмент энергией Redstone Flux
+- Использует энергию вместо прочности, когда инструмент заряжен
+- Доступен, если установлен Thermal Expansion
+- Инструменты должны иметь как минимум 1/1000 ёмкости батареи в прочности
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -1022,16 +1022,16 @@ Class: Ranged Projectile Launcher</text>
 </page>
 
 <page type="sectionpage">
-<title>Flux</title>
-<text>Adding a Hardened Flux Capacitor or Leadstone Energy Cell gives a tool energy. The tool still functions properly when the Cell/Capacitor has no charge.
+<title>Флакс</title>
+<text>Добавление усиленного флаксового конденсатора или свинцовой энергетической ячейки даёт инструменту энергию. Инструмент продолжает функционировать, если ячейка/конденсатор не имеет заряда.
 
 Эффекты:
-- Allows the tool to be charged with Redstone Flux
-- Uses energy instead of durability while charged
-- Available from Thermal Expansion
+- Позволяет зарядить инструмент энергией Redstone Flux
+- Использует энергию вместо прочности, когда инструмент заряжен
+- Доступен, если установлен Thermal Expansion
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -1044,10 +1044,10 @@ Class: Ranged Projectile Launcher</text>
 <text>Working the tool with a block of gold and a diamond makes the tool more malleable, allowing for more modification.
 
 Эффекты:
-- Adds an additional modifier slot to the tool
+- Добавляет дополнительный слот для модификатора
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -1060,10 +1060,10 @@ Class: Ranged Projectile Launcher</text>
 <text>Attaching a solid gold apple and encrusting the tool with a block of diamond warps the tool in places you did not notice before.
 
 Эффекты:
-- Adds an additional modifier slot to the tool
+- Добавляет дополнительный слот для модификатора
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -1076,10 +1076,10 @@ Class: Ranged Projectile Launcher</text>
 <text>Working the tool with a nether star gives it the ability to attach parts they would not otherwise stay.
 
 Эффекты:
-- Adds an additional modifier slot to the tool
+- Добавляет дополнительный слот для модификатора
 
-Тип: Single-use
-Складывается: No</text>
+Тип: Одноразовый
+Складывается: Нет</text>
 </page>
 
 <page type="modifier">
@@ -1089,14 +1089,14 @@ Class: Ranged Projectile Launcher</text>
 
 <page type="sectionpage">
 <title>Дополнительные модификаторы</title>
-<text>For the creative types or the map makers in the world, this item is for you.
+<text>Люди, играющие в творческом режиме, или создатели карт, этот предмет для Вас.
 
 Эффекты:
-- Adds an additional modifier slot to the tool
-- If it has a target lock, it will only work on that tool.
+- Добавляет дополнительный слот для модификатора
+- Если модификатор прикреплён только к одному типу инструмента, он будет работать только на нём.
 
-Тип: Single-use
-Складывается: Yes</text>
+Тип: Одноразовый
+Складывается: Да</text>
 </page>
 
 <page type="modifier">
