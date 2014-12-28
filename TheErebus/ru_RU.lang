@@ -18,13 +18,13 @@ tile.erebus.doormossbark.name=Дверь из мшистой коры
 tile.erebus.doorrotten.name=Дверь из гнилой древесины
 tile.erebus.doormarshwood.name=Дверь из болотной древесины
 
-tile.erebus.log.name=%s древесина
-tile.erebus.planks.name=%s доски
-tile.erebus.stairPlanks.name=%s ступеньки
-tile.erebus.leaves.name=%s листва
-tile.erebus.sapling.name=%s саженец
-tile.erebus.slabPlanks.name=%s плита
-tile.erebus.slabStone.name=%s плита
+tile.erebus.log.name=%s Wood
+tile.erebus.planks.name=%s Planks
+tile.erebus.stairPlanks.name=%s Stairs
+tile.erebus.leaves.name=%s Leaves
+tile.erebus.sapling.name=%s Sapling
+tile.erebus.slabPlanks.name=%s Slab
+tile.erebus.slabStone.name=%s Slab
 
 tile.erebus.log_scorched.name=Выжженная древесина
 tile.erebus.planks_scorched.name=Выжженные доски
@@ -55,9 +55,9 @@ tile.erebus.fireBloom.name=Огнецвет
 tile.erebus.fern.name=Папоротник
 tile.erebus.fiddlehead.name=Скрипичник
 
-tile.erebus.flowerPlanted.name=%s цветок
-tile.erebus.stigma.name=%s стигма цветка
-tile.erebus.flower.name=%s лепесток
+tile.erebus.flowerPlanted.name=%s Flower
+tile.erebus.stigma.name=%s Flower Stigma
+tile.erebus.flower.name=%s Petal
 tile.erebus.flower_14.name=Взрывающаяся стигма
 tile.erebus.flower_15.name=Стебель
 
@@ -87,9 +87,9 @@ tile.erebus.wallErebus_1.name=Ограда из умбрового булыжн�
 tile.erebus.wallErebus_2.name=Ограда из замшелого умбрового булыжника
 tile.erebus.wallErebus_3.name=Обмотанная паутиной ограда из умбрового булыжника
 tile.erebus.wallErebus_4.name=Ограда из умбровых кирпичей
-tile.erebus.wallErebus_5.name=Ограда из укладанной умбры
-tile.erebus.wallErebus_6.name=Ограда из укладанной замшелой умбры
-tile.erebus.wallErebus_7.name=Обмотанная паутиной ограда из укладанной умбры
+tile.erebus.wallErebus_5.name=Ограда из уложенной умбры
+tile.erebus.wallErebus_6.name=Ограда из уложенной замшелой умбры
+tile.erebus.wallErebus_7.name=Обмотанная паутиной ограда из уложенной умбры
 tile.erebus.wallErebus_8.name=Ограда из янтарных кирпичей
 
 tile.erebus.altarBase.name=Основание алтаря
@@ -118,36 +118,36 @@ tile.erebus.oreFossil.name=Окаменелая руда
 tile.erebus.oreTemple.name=Храмовая руда
 tile.erebus.oreGneiss.name=Гнейсовая руда
 
-tile.erebus.redGem_0.name=Redgem
-tile.erebus.redGem_1.name=Redlamp
+tile.erebus.redGem_0.name=Красный камень
+tile.erebus.redGem_1.name=Красная лампа
 
-tile.erebus.petrifiedWoodPlanks.name=Petrified Wood Planks
-tile.erebus.petrifiedCraftingTable.name=Petrified Crafting Table
-tile.erebus.petrifiedWoodChest.name=Petrified Wood Chest
+tile.erebus.petrifiedWoodPlanks.name=Доски окаменелого дерева
+tile.erebus.petrifiedCraftingTable.name=Верстак из окаменелого дерева
+tile.erebus.petrifiedWoodChest.name=Сундук из окаменелого дерева
 
 tile.erebus.blockJade.name=Нефритовый блок
 
-tile.erebus.umberstone_0.name=Umberstone
-tile.erebus.umberstone_1.name=Umbercobble
-tile.erebus.umberstone_2.name=Mossy Umbercobble
-tile.erebus.umberstone_3.name=Webbed Umbercobble
-tile.erebus.umberstone_4.name=Umbricks
-tile.erebus.umberstone_5.name=Smooth Umbertile
-tile.erebus.umberstone_6.name=Smooth Umbertiles
-tile.erebus.umberPaver_0.name=Umberpaver
-tile.erebus.umberPaver_1.name=Mossy Umberpaver
-tile.erebus.umberPaver_2.name=Webbed Umberpaver
-tile.erebus.umberstoneButton.name=Umberstone Button
-tile.erebus.umberstonePillar.name=Umberstone Pillar
-tile.erebus.umberFurnace.name=Umberfurnace
-tile.erebus.volcanicRock.name=Volcanic Rock
-tile.erebus.quickSand.name=Quicksand
-tile.erebus.ghostSand.name=Ghost Sand
-tile.erebus.swampVent.name=Swamp Gas Vent
+tile.erebus.umberstone_0.name=Умбровый камень
+tile.erebus.umberstone_1.name=Умбровый булыжник
+tile.erebus.umberstone_2.name=Замшелый умбровый булыжник
+tile.erebus.umberstone_3.name=Обмотанный паутиной умбровый булыжник
+tile.erebus.umberstone_4.name=Умбровые кирпичи
+tile.erebus.umberstone_5.name=Гладкая умбровая плитка
+tile.erebus.umberstone_6.name=Гладкая умбровая плитка
+tile.erebus.umberPaver_0.name=Уложенная умбра
+tile.erebus.umberPaver_1.name=Замшелая уложенная умбра
+tile.erebus.umberPaver_2.name=Обмотанная паутиной уложенная умбра
+tile.erebus.umberstoneButton.name=Кнопка из умбровоко камня
+tile.erebus.umberstonePillar.name=Колонн из из умбровоко камня
+tile.erebus.umberFurnace.name=Умбровая печь
+tile.erebus.volcanicRock.name=Вулканический камень
+tile.erebus.quickSand.name=Зыбучий песок
+tile.erebus.ghostSand.name=Призрачный песок
+tile.erebus.swampVent.name=Отверстие болотного газа
 
-tile.erebus.mud.name=Mud
-tile.erebus.mudBricks.name=Mud Bricks
-tile.erebus.mirbrick.name=Mirbrick
+tile.erebus.mud.name=Грязь
+tile.erebus.mudBricks.name=Грязевые кирпичи
+tile.erebus.mirbrick.name=Грязевой кирпич
 
 tile.erebus.bambooBridge.name=Bamboo Bridge
 tile.erebus.bambooCrop.name=Bamboo Block
