@@ -269,11 +269,11 @@ Shift+ПКМ: Поставить предмет
 
 <page type="toolpage">
 <title>Молот</title>
-<text>The Hammer is a heavy mining tool meant for digging out large areas. It is also effective on undead.</text>
+<text>Молот - это тяжёлый добывающий инструмент, предназначенный для добывания больших областей. Он также эффективен против нежити.</text>
 <text>Обычные функции: 
-- Area of Effect, Mines a 3x3 area. The direction depends on which face is pounded.
-- Smite II, Does 2-4 extra hearts of damage against undead.
-- Huge Durability, this tool has very high durability to make up for the constant beating it will recieve.
+- Область действия, добывает область 3x3. Направление зависит от того, куда смотрит игрок.
+- Небесная кара II, наносит 2-4 сердца урона против нежити.
+- Высокая прочность, у этого инструмента очень высокая прочность, потому что он предназначен для добычи больших областей.
 
 Класс: Широкий добывающий инструмент</text>
 <icon>hammericon</icon>
@@ -297,12 +297,12 @@ Shift+ПКМ: Поставить предмет
 
 <page type="toolpage">
 <title>Большой топор</title>
-<text>The Lumber Axe is capable of bringing down whole trees or clearing large swaths of food in a single swing.</text>
+<text>Большой топор подходит для полной срубки деревьев или для очистки большой области от животных.</text>
 <text>Обычные функции:
 Валит деревья
-- Полностью валит деревья. It has a max height of 30. Trees are defined as Leaves on top of Logs.
+- Полностью валит деревья. Максимальная высота дерева равна 30. Деревьями считаются листья на древесине.
 Область действия
-- Добывает область 3x3x3. This is a fallback if a tree is not found.
+- Добывает область 3x3x3. Это резервная функция, если дерево не найдено.
 
 Класс: Широкий добывающий инструмент</text>
 <icon>lumbericon</icon>
@@ -326,7 +326,7 @@ Shift+ПКМ: Поставить предмет
 
 <page type="toolpage">
 <title>Копалка</title>
-<text>The Excavator is a large digging tool used for clearing out large swaths of land, gravel, or snow.</text>
+<text>Копалка - это большой копающий инструмент, используемый для очистки большой области от земли, гравия или снега.</text>
 <text>Обычные функции: 
 Область действия
 - Добывает область 3x3. Направление зависит от того, куда смотрит игрок.
@@ -353,7 +353,7 @@ Shift+ПКМ: Поставить предмет
 
 <page type="toolpage">
 <title>Коса</title>
-<text>The Scythe is well known for its large swinging area. It can be used to harvest crops, leaves, and is a decent weapon.</text>
+<text>Коса известна за её большую область размаха. Она используется для добычи культур, листвы и как скромное оружие.</text>
 <text>Обычные функции: 
 Область действия
 - Атакует мобов в области 3x3x3.
@@ -381,13 +381,13 @@ Shift+ПКМ: Поставить предмет
 
 <page type="toolpage">
 <title>Тесак</title>
-<text>The Cleaver is a heavy defensive weapon. The sword is unwieldly, but the sheer weight of the tool crushes foes.</text>
+<text>Тесак - это тяжёлое оборонительное оружие. Меч громоздкий, но сам вес инструмента размалывает врагов.</text>
 <text>ПКМ: Блок
 - Блокирование уменьшает повреждения в два раза.
 
 Обычные функции: 
-- Beheading II, Beheads mobs. Their head is dropped as loot.
-- Heavy, Base attack is increased at the cost of swing time
+- Усекновение II, обезглавливает мобов. Их головы падают в качестве добычи.
+- Тяжёлый, основной урон увеличен за счёт долгого размаха
 
 Класс: Тяжёлое оружие ближнего боя</text>
 <icon>cleavericon</icon>
@@ -411,13 +411,13 @@ Shift+ПКМ: Поставить предмет
 
 <page type="toolpage">
 <title>Боевой топор</title>
-<text>The battleaxe is an offensive melee weapon that can also bring down small trees.</text>
+<text>Боевой топор - это наступательное оружие ближнего боя, которое может рубить маленькие деревья.</text>
 <text>ПКМ: Неизвестно
 - Эта особенность незавершена
 
 Обычные функции: 
-- Area of Effect, harvests wood blocks in a 1x9 tower.
-- Bash, knocks the enemy further away than normal.
+- Область действия, добывает блоки древесины в области 1x9.
+- Сильный удар, отбрасывает врагов дальше чем обычно.
 
 Класс: Тяжёлое оружие ближнего боя</text>
 <icon>battleaxeicon</icon>
@@ -441,11 +441,11 @@ Shift+ПКМ: Поставить предмет
 
 <page type="toolpage">
 <title>Короткий лук</title>
-<text>The Shortbow is a weapon used to fire arrows. It has a quick, short range.</text>
-<text>ПКМ: Draw bow
-- The further a bow is drawn, the further an arrow flies and the more damage it does.
+<text>Короткий лук - это оружие, используемое для запуска стрел. Он стреляет быстро и на короткую дистанцию.</text>
+<text>ПКМ: Натянуть тетиву
+- Чем дольше натянута тетива, тем дальше полетит стрела и тем больше нанесёт урона.
 
-Класс: Ranged Projectile Launcher</text>
+Класс: Стрелковое оружие</text>
 <icon>shortbowIcon</icon>
 <item>
  <text>Стержень</text>
@@ -463,7 +463,7 @@ Shift+ПКМ: Поставить предмет
 
 <page type="toolpage">
 <title>Стрела</title>
-<text>Arrows are fired from bows as projectiles. They can also be used as stabbing weapons in a pinch.</text>
+<text>Стрелы - это снаряды, используемые для луков. Они также могут быть использованы в качестве колющего оружия в крайнем случае.</text>
 <text>Класс: Боеприпасы</text>
 <icon>arrowIcon</icon>
 <item>
@@ -804,7 +804,7 @@ Shift+ПКМ: Поставить предмет
 
 <page type="sectionpage">
 <title>Удача</title>
-<text>Покрытие лазуритом инструментов - это подарок для богов удачи. Они благословят Ваш инструмент великой удачей и богатством.
+<text>Инкрустация лазуритом инструментов - это подарок для богов удачи. Они благословят Ваш инструмент великой удачей и богатством.
 
 Эффекты:
 - Добавляет удачу или мародёрство, зависит от типа инструмента
@@ -1041,7 +1041,7 @@ Shift+ПКМ: Поставить предмет
 
 <page type="sectionpage">
 <title>Дополнительные модификаторы</title>
-<text>Working the tool with a block of gold and a diamond makes the tool more malleable, allowing for more modification.
+<text>Добавление к инструменту золотого блока и алмаза делает его более ковким, что позволяет добавить больше модификаций.
 
 Эффекты:
 - Добавляет дополнительный слот для модификатора
@@ -1057,7 +1057,7 @@ Shift+ПКМ: Поставить предмет
 
 <page type="sectionpage">
 <title>Дополнительные модификаторы</title>
-<text>Attaching a solid gold apple and encrusting the tool with a block of diamond warps the tool in places you did not notice before.
+<text>Прикрепление твёрдого золотого яблока и инкрустация инструмента алмазным блоком искажает инструмент в местах, которые раньше Вы не замечали.
 
 Эффекты:
 - Добавляет дополнительный слот для модификатора
@@ -1073,7 +1073,7 @@ Shift+ПКМ: Поставить предмет
 
 <page type="sectionpage">
 <title>Дополнительные модификаторы</title>
-<text>Working the tool with a nether star gives it the ability to attach parts they would not otherwise stay.
+<text>Добавление к инструменту звезды Нижнего мира даёт ему способность прикрепления деталей, которые никогда бы не прикрепились к нему.
 
 Эффекты:
 - Добавляет дополнительный слот для модификатора
