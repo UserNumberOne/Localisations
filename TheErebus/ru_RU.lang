@@ -1,6 +1,6 @@
 # Blocks
 tile.erebus.portal.name=Портал в «Эреб»
-tile.erebus.gaeanKeystone.name=Gaean Keystone
+tile.erebus.gaeanKeystone.name=Гаеанов ключевой камень
 
 tile.erebus.amber0.name=Янтарь
 tile.erebus.amber1.name=Янтарное стекло
@@ -10,7 +10,7 @@ tile.erebus.dooramber.name=Янтарная дверь
 tile.erebus.doorbaobab.name=Дверь из баобаба
 tile.erebus.dooreucalyptus.name=Дверь из эвкалипта
 tile.erebus.doormahogany.name=Дверь из махагониевого дерева
-tile.erebus.doorasper.name=Asper Door
+tile.erebus.doorasper.name=Дверь из аспера
 tile.erebus.doorcypress.name=Дверь из кипариса
 tile.erebus.doorpetrified.name=Дверь из окаменевшей древесины
 tile.erebus.doorscorched.name=Выжженная дверь
@@ -18,13 +18,13 @@ tile.erebus.doormossbark.name=Дверь из мшистой коры
 tile.erebus.doorrotten.name=Дверь из гнилой древесины
 tile.erebus.doormarshwood.name=Дверь из болотной древесины
 
-tile.erebus.log.name=%s Wood
-tile.erebus.planks.name=%s Planks
-tile.erebus.stairPlanks.name=%s Stairs
-tile.erebus.leaves.name=%s Leaves
-tile.erebus.sapling.name=%s Sapling
-tile.erebus.slabPlanks.name=%s Slab
-tile.erebus.slabStone.name=%s Slab
+tile.erebus.log.name=%s древесина
+tile.erebus.planks.name=%s доски
+tile.erebus.stairPlanks.name=%s ступеньки
+tile.erebus.leaves.name=%s листва
+tile.erebus.sapling.name=%s саженец
+tile.erebus.slabPlanks.name=%s плита
+tile.erebus.slabStone.name=%s плита
 
 tile.erebus.log_scorched.name=Выжженная древесина
 tile.erebus.planks_scorched.name=Выжженные доски
@@ -35,27 +35,27 @@ tile.erebus.planks_varnished.name=Лакированные доски
 tile.erebus.saplessLog.name=Сухая древесина
 
 tile.erebus.sundew.name=Росянка
-tile.erebus.weepingBlue.name=Weeping Blue
+tile.erebus.weepingBlue.name=Плачущий цветок
 tile.erebus.bullrush.name=Камышевидник
 tile.erebus.droughtedShrub.name=Сухой кустарник
-tile.erebus.tangledStalk.name=Tangled Stalk Mushrooms
-tile.erebus.highCapped.name=High Capped Mushroom
+tile.erebus.tangledStalk.name=Переплетающийся шляпочный гриб
+tile.erebus.highCapped.name=Высокий шляпочный гриб
 
-tile.erebus.bulbCappedShroom.name=Bulb Capped Mushroom
-tile.erebus.greenMushroom.name=Grandma's Shoes Mushroom
-tile.erebus.bundleshroom.name=Sarcastic Czech Mushroom
-tile.erebus.kaizerfinger.name=Kaizer's Fingers Mushroom
-tile.erebus.dutchCap.name=Dutch Cap Mushroom
+tile.erebus.bulbCappedShroom.name=Округлённый шляпочный гриб
+tile.erebus.greenMushroom.name=Бабушкин обувной гриб
+tile.erebus.bundleshroom.name=Чешский гриб сарказма
+tile.erebus.kaizerfinger.name=Гриб пальцев Кайзера
+tile.erebus.dutchCap.name=Голландский шляпочный гриб
 tile.erebus.desertShrub.name=Пустынный кустарник
-tile.erebus.mireCoral.name=Mire Coral
+tile.erebus.mireCoral.name=Болотный коралл
 tile.erebus.nettle.name=Крапива
 tile.erebus.nettleFlowered.name=Цветущая крапива
 tile.erebus.swampPlant.name=Болотное растение
 tile.erebus.fireBloom.name=Огнецвет
 tile.erebus.fern.name=Папоротник
-tile.erebus.fiddlehead.name=Fiddlehead
+tile.erebus.fiddlehead.name=Скрипичник
 
-tile.erebus.flowerPlanted.name=%s Flower
+tile.erebus.flowerPlanted.name=%s цветок
 tile.erebus.stigma.name=%s Flower Stigma
 tile.erebus.flower.name=%s Petal
 tile.erebus.flower_14.name=Exploding Stigma
