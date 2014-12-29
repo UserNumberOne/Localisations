@@ -6,13 +6,13 @@ tile.blockDusterBasic.name=Основной распылитель
 tile.blockDusterSemiAutomatic.name=Полуавтоматический распылитель
 tile.blockDusterMechanical.name=Механический распылитель
 tile.blockDusterKinetic.name=Кинетический распылитель
-tile.blockCoilLava.name=Lava Coil
-tile.blockCoilKinetic.name=Kinetic Coil
-tile.blockKEBT1.name=Kinetic Energy Buffer
-tile.blockKEBT2.name=Large Kinetic Energy Buffer
-tile.blockKEBT3Core.name=Advanced Kinetic Energy Buffer Core
-tile.blockKEBT3Plating.name=Advanced Kinetic Energy Buffer Plating
-tile.blockKEBT3.name=Advanced Kinetic Energy Buffer
+tile.blockCoilLava.name=Лавовая катушка
+tile.blockCoilKinetic.name=Кинетическая катушка
+tile.blockKEBT1.name=Кинетический энерго-буфер
+tile.blockKEBT2.name=Большой кинетический энерго-буфер
+tile.blockKEBT3Core.name=Основа продвинутого кинетического энерго-буфера
+tile.blockKEBT3Plating.name=Обшивка продвинутого кинетического энерго-буфера
+tile.blockKEBT3.name=Продвинутый кинетический енерг-буфер
 
 item.ironCanister.name=Железная канистра
 item.goldCanister.name=Золотая канистра
@@ -45,17 +45,17 @@ item.dustTin.name=Оловянная пыль
 item.dustSilver.name=Серебряная пыль
 item.dustDiamond.name=Алмазная пыль
 item.grindingWheel.name=Измельчающее колесо
-item.engineeringDiary.name=Engineering Diary
-item.wireIron.name=Iron Wire
-item.wireIronUnhardened.name=Iron Wire (Unhardened)
-item.wireGold.name=Gold Wire
-item.wireGoldUnhardened.name=Gold Wire (Unhardened)
-item.wireDiamond.name=Diamond Wire
-item.wireDiamondUnhardened.name=Diamond Wire (Unhardened)
+item.engineeringDiary.name=Дневник инженерии
+item.wireIron.name=Железная проволока
+item.wireIronUnhardened.name=Железная проволока (Незакаленный)
+item.wireGold.name=Золотая проволока
+item.wireGoldUnhardened.name=Золотая проволока (Незакаленный)
+item.wireDiamond.name=Алмазная проволока
+item.wireDiamondUnhardened.name=Алмазная проволока (Незакаленный)
 
 tooltip.installed=Установлено
 tooltip.deactivated=Деактивировано
-tooltip.upgradesPossible=Upgrades Possible
+tooltip.upgradesPossible=Возможна модернизация
 
 gui.progress=Прогресс
 gui.fluid=Жидкость
@@ -64,7 +64,7 @@ gui.fluidStored=Количество жидкости
 gui.energyInTool=Хранится энергии
 gui.maxEnergy=Макс. энергии
 
-gui.nei.dusting=Dusting
+gui.nei.dusting=Дробление
 
 trigger.canisterRequested=Запрошена канистра
 trigger.hasEmptyCanister=Есть пустая канистра
@@ -83,10 +83,10 @@ eureka.kineticToolFinished=While making yet another tool to replace your old one
 eureka.missingKnowledge=Вы не знаете как работает этот механизм (ещё). Вы попытались использовать его, но из-за Вашего непрофессионализма, он сломался.
 eureka.missingKnowledgeKineticTool=You have no idea how this tool works (yet). You try to use it, but due to your incompetence, it falls apart.
 
-engineeringDiary.BCA.title=Buildcraft Additions
-engineeringDiary.BCA.page0=Here you can find all researchable items and their progress
+engineeringDiary.BCA.title=Buildcraft: Дополнения
+engineeringDiary.BCA.page0=Здесь Вы можете найти все исследуемые предметы, и прогресс их изучения.
 
-engineeringDiary.dusterTier0.title=Basic Duster
+engineeringDiary.dusterTier0.title=Основной распылитель
 engineeringDiary.dusterTier0.page0=You can use this simple machine to double your ores.
 engineeringDiary.dusterTier0.page1=You’re not a nostalgic, but sometimes it just gets to everyone. You remember the good ol’ days, where one had all the Ore they ever wanted, only ever using it to build large redstone contraptions or railroads so big
 engineeringDiary.dusterTier0.page2=they covered entire continents. Good times. After the arrival of Engineers though, everything changed. All of their complex tools and machines required large amounts of Ore, so much it sometimes dried the land.
