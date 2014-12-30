@@ -8,10 +8,10 @@ tile.blockDusterMechanical.name=Механический распылитель
 tile.blockDusterKinetic.name=Кинетический распылитель
 tile.blockCoilLava.name=Лавовая катушка
 tile.blockCoilKinetic.name=Кинетическая катушка
-tile.blockKEBT1.name=Кинетический энерго-буфер
-tile.blockKEBT2.name=Большой кинетический энерго-буфер
-tile.blockKEBT3Core.name=Основа продвинутого кинетического энерго-буфера
-tile.blockKEBT3Plating.name=Обшивка продвинутого кинетического энерго-буфера
+tile.blockKEBT1.name=Кинетический энергохранитель
+tile.blockKEBT2.name=Большой кинетический энергохранитель
+tile.blockKEBT3Core.name=Основа продвинутого кинетического энергохранителя
+tile.blockKEBT3Plating.name=Обшивка продвинутого кинетического энергохранителя
 tile.blockKEBT3.name=Продвинутый кинетический енерго-буфер
 
 item.ironCanister.name=Железная канистра
@@ -87,7 +87,7 @@ engineeringDiary.BCA.title=Buildcraft: Дополнения
 engineeringDiary.BCA.page0=Здесь Вы можете найти все исследуемые предметы, и прогресс их изучения.
 
 engineeringDiary.dusterTier0.title=Основной распылитель
-engineeringDiary.dusterTier0.page0=You can use this simple machine to double your ores.
+engineeringDiary.dusterTier0.page0=Вы можете использовать эту простую машину, для раздвоения ваших руд.
 engineeringDiary.dusterTier0.page1=You’re not a nostalgic, but sometimes it just gets to everyone. You remember the good ol’ days, where one had all the Ore they ever wanted, only ever using it to build large redstone contraptions or railroads so big
 engineeringDiary.dusterTier0.page2=they covered entire continents. Good times. After the arrival of Engineers though, everything changed. All of their complex tools and machines required large amounts of Ore, so much it sometimes dried the land.
 engineeringDiary.dusterTier0.page3=You start to wonder if you could somehow increase your Ore output, and you come up with the Basic Duster, a simple machine created using Stone and Slimeballs, with grindy-bits on top.
@@ -96,21 +96,21 @@ engineeringDiary.dusterTier0.howToMakeProgress=Plan future builds
 
 
 engineeringDiary.dusterTier1.title=Полуавтоматический распылитель
-engineeringDiary.dusterTier1.page0=This improved Duster can interact with inventories
+engineeringDiary.dusterTier1.page0=Этот улучшенный распылитель может взаимодействовать с инвентарями
 engineeringDiary.dusterTier1.page1=Your first Duster was a breakthrough on the Ore processing scene. Never before was getting more Ore so easy. However, everyone agreed that manually placing and jumping on the Ore was a bit rustic, so you decide
 engineeringDiary.dusterTier1.page2=to focus on making the machine better, starting with inventory connections. Experimenting with Pipes seems to have an effect, but the Stone Gears are just too crude for the Gold, so you upgrade them to Iron Gears.
 engineeringDiary.dusterTier1.page3=Finally, you have the Semi-Automatic Duster. This Duster still requires you to jump on it, but at least the Ores can be input from Hoppers and Pipes, while the output appears to move out on its own. Now it's time to work on that jumping issue.
 engineeringDiary.dusterTier1.howToMakeProgress=Process items in the basic duster
 
 engineeringDiary.dusterTier2-1.title=Механический распылитель
-engineeringDiary.dusterTier2-1.page0=This ore-doubling machine can receive power
+engineeringDiary.dusterTier2-1.page0=Эта рудо-раздвоительная машина работает от питания
 engineeringDiary.dusterTier2-1.page1=After your initial automation discovery, you try to make the machine grind the ore for you, without success. You decide to take a step back and use the Basic Duster as base for your experiments again,
 engineeringDiary.dusterTier2-1.page2=and you end up creating the Grinding Wheel, an item that could be the key to automating this machine. And it proves very effective: once you upgrade the Stone Gears to Iron, it seems to accept power to double the ores.
 engineeringDiary.dusterTier2-1.page3=You finally made the Mechanical Duster! However this machine is another incomplete experiment, since it doesn’t have the inventory managing capabilities of the Semi-Automatic Duster. You need to step it up.
 engineeringDiary.dusterTier2-1.howToMakeProgress=Process items in the Semi-automatic Duster
 
 engineeringDiary.dusterTier2-2.title=Кинетический распылитель
-engineeringDiary.dusterTier2-2.page0=The Ultimate Duster (also known as Dustinator 9000)
+engineeringDiary.dusterTier2-2.page0=Максимальный распылитель (Известный как "Распылятор 9000")
 engineeringDiary.dusterTier2-2.page1=After many failed Duster versions, you decide you simply can’t mix the grinding power of the Mechanical Duster and the inventory managing capabilities of the Semi-Automatic Duster, so you decide to step it up
 engineeringDiary.dusterTier2-2.page2=and try another method of doubling the Ore: Lasers. Their precision surely will help in not breaking the internal piping like it happened every time it was hit by an Engine. Fortunately it works,
 engineeringDiary.dusterTier2-2.page3=but this time you have to involve some high-tier materials, including a Diamond Gear. The Kinetic Duster is born. The precision of the Lasers keeps the internal gold circuit intact,
@@ -118,7 +118,7 @@ engineeringDiary.dusterTier2-2.page4=which allows the machine to receive externa
 engineeringDiary.dusterTier2-2.howToMakeProgress=Process items in the Mechanical Duster
 
 engineeringDiary.kineticTool.title=Кинетический мультиинструмент
-engineeringDiary.kineticTool.page0=One tool for all
+engineeringDiary.kineticTool.page0=Один для всего
 engineeringDiary.kineticTool.page1=Tools are a fundamental part of our world and you hate the fact that they keep breaking. Machines never seem to break and you start to wonder why. After a while, you realize why: Redstone and Power.
 engineeringDiary.kineticTool.page2=While tools also receive a sort of Power (the one that comes from your arm), machines receive a special, Redstone-tuned power, and that seems to be what makes them last indefinitely.
 engineeringDiary.kineticTool.page3=You decide the best way to make Unbreakable tools is to craft them with the highest quality, Redstone-tuned materials. The core of your tool consists of a Gold Gear (for the best speed) combined
@@ -135,7 +135,7 @@ engineeringDiary.kineticTool.page13=very similar to yours in the past, and happe
 engineeringDiary.kineticTool.howToMakeProgress=Craft tools
 
 engineeringDiary.heatedFurnace.title=Нагревательная печь
-engineeringDiary.heatedFurnace.page0=A new furnace that can be powered in various ways.
+engineeringDiary.heatedFurnace.page0=Новая печь, которая может питаться различными способами.
 engineeringDiary.heatedFurnace.page1=Stone wasn’t cutting it anymore. You already had a myriad of Furnaces, but they were getting hard to manage. You just wanted something that could take more Coal at once, but what you got was something totally unexpected.
 engineeringDiary.heatedFurnace.page2=By surrounding a Furnace with Iron Ingots, you completely got rid of the fuel slot. Oops. @ @ However you were not to go down beaten and since you already know of the energy transmitting capabilities of Iron you’re convinced
 engineeringDiary.heatedFurnace.page3=you can make something to power this Furnace... You decide to place it in the world and see if you can think of something
@@ -143,7 +143,7 @@ engineeringDiary.heatedFurnace.howToMakeProgress=Place furnaces
 eureka.heatedFurnaceFinished=After placing all those furnaces you think of a way to make a better, more effective and faster furnace
 
 engineeringDiary.basicCoil.title=Основная катушка
-engineeringDiary.basicCoil.page0=This Coil can be used to power the Heated Furnace.
+engineeringDiary.basicCoil.page0=Катушка может использоваться для питания нагревательной печи.
 engineeringDiary.basicCoil.page1=This was a tough one. It started when you acidentally left two pieces of Iron Dust next to some Lava. They were close enough for the Heat to affect them, but not close enough for it to completely melt them. The ‘thing’ was strangely
 engineeringDiary.basicCoil.page2=thin and when it was placed next to some Iron (while still somehwat hot), started to spin about, creating friction and heating (by a very small amount) the Iron Ingot. You realise this can be used for your new Furnace and
 engineeringDiary.basicCoil.page3=try to figure out how to improve the process. @ @ After a while, you find a way to refine the process. By using the Crafting Table to combine three pieces of Iron Dust together, you make two strips of Iron Wire
@@ -155,7 +155,7 @@ engineeringDiary.basicCoil.howToMakeProgress=Place a heated furnace
 eureka.basicCoilFinished=You already knew how to make the heated furnace but now that you actually placed it you come up with a way to actually heat it
 
 engineeringDiary.lavaCoil.title=Лавовая катушка
-engineeringDiary.lavaCoil.page0=This Coil can power the Heated Furnace with Lava.
+engineeringDiary.lavaCoil.page0=Эта катушка может питать нагревательную печь лавой.
 engineeringDiary.lavaCoil.page1=It was a logical step up. After your initial Coil discoveries with Iron, you decide to do the same with Gold, but you’re surprised to find out that Gold Wires are actually green. Weird. Not only that, but the Coils made from
 engineeringDiary.lavaCoil.page2=them simply don’t take Coal for power. You decide to place Lava in these. Its a long shot, but they’re just as green as Fluid Sealant, so why not? @ @ It works. You really thought it was just going to melt it, but nope.
 engineeringDiary.lavaCoil.page3=These Coils take the already hot fluid Lava and use it to make even more heat. Now we’re talking.
@@ -163,15 +163,15 @@ engineeringDiary.lavaCoil.howToMakeProgress=Place Basic Coils
 eureka.lavaCoilFinished=You observe your basic coils and there heat generation and ask yourself if you can't use lava heating for a new type of coil
 
 engineeringDiary.kineticCoil.title=Кинетическая катушка
-engineeringDiary.kineticCoil.page0=This Coil can power the Heated Furnace with Lasers.
+engineeringDiary.kineticCoil.page0=Эта катушка может питать нагревательную печь лазерами.
 engineeringDiary.kineticCoil.page1=This time you were a bit conservative on using Diamonds to upgrade something, considering just how many you’d need, but then again you were curious about it. It was clear from the start where these would be
 engineeringDiary.kineticCoil.page2=It was clear from the start where these would be getting their source of power. @ @ Lasers. @ @ Diamonds are great conductors of energy after all and neither Coal nor Lava would ever generate enough heat to
 engineeringDiary.kineticCoil.page3=make Diamonds spin. After this one you’re never having a Furnace wall again.
 engineeringDiary.kineticCoil.howToMakeProgress=Place Lava Coils
 eureka.kineticCoilFinished=Those lava coils are great, but like with all things: there is always something better
 
-engineeringDiary.KEBT1.title=Основной кинетический энерго-буфер
-engineeringDiary.KEBT1.page0=Basic energy storage in block form
+engineeringDiary.KEBT1.title=Основной кинетический энергохранитель
+engineeringDiary.KEBT1.page0=Базовый энергохранитель в виде блока
 engineeringDiary.KEBT1.page1=The Kinetic Capsules were quite the advancement when it came to energy, but they weren’t perfect. Despite being able to store energy, you can only transmit it to small devices, making it impossible to use it in large scale operations.
 engineeringDiary.KEBT1.page2=Determined to make it work, you make a simple machine. By stacking three Tier 1 Kinetic Capsules, you think you can store enough energy for something meaningful. To make it work, you place some Golden Kinetic Pipes on the sides,
 engineeringDiary.KEBT1.page3=which ought to be enough to transmit energy to regular machines. Encase it all in some Iron, and you’ve got yourself a Kinetic Energy Buffer! @ @ The block has an interesting GUI, but the most notable thing about it is the fact
@@ -179,8 +179,8 @@ engineeringDiary.KEBT1.page4=that you can use a Wrench to move it!
 engineeringDiary.KEBT1.howToMakeProgress=Craft kinetic capsules
 eureka.KEBT1Finished=Storing eneryg is batteries is usefull but now it's time to also store it in block form
 
-engineeringDiary.KEBT2.title=Большой кинетический энерго-буфер
-engineeringDiary.KEBT2.page0=Larger energy storage
+engineeringDiary.KEBT2.title=Большой кинетический энергохранитель
+engineeringDiary.KEBT2.page0=Более большой энергохранитель
 engineeringDiary.KEBT2.page1=After your initial discovery of the Kinetic Energy Buffer, it’s time to build a better version. But however you try, you just can’t place two Tier 2 Kinetic Capsules on the same block. Instead of giving up, you have a better idea.
 engineeringDiary.KEBT2.page2=By placing just one Capsule per block and filling the gaps with Iron Ingots, you make a block that is capable of connecting with others of the same kind. Adding them one by one, you make a small cubic structure,
 engineeringDiary.KEBT2.page3=which works just like a larger Kinetic Energy Buffer, except you can’t move it.
@@ -188,7 +188,7 @@ engineeringDiary.KEBT2.howToMakeProgress=Place Kinetec Energy Buffers
 eureka.KEBT2Finished=These single blocks hold alot of power but it's not enough, time to step things up
 
 engineeringDiary.KEBT3.title=Продвинутый кинетический енерго-буфер
-engineeringDiary.KEBT3.page0=Even more energy storage
+engineeringDiary.KEBT3.page0=Ещё больший энергохранитель
 engineeringDiary.KEBT3.page1= So Tier 2 Kinetic Capsules can’t stack on the same block. But does the same hold true for Tier 3? Nope. Turns out you can fit 3 of them inside a single block! The downside is that you have to use Diamonds to cover the structure,
 engineeringDiary.KEBT3.page2=and only Diamond Kinesis Pipes are able to handle the energy rate inside the block. Not only that, to keep it all in there even more shielding is needed. By combining Gold and Iron (with some Diamond Kinesis Pipes to keep the energy flow going)
 engineeringDiary.KEBT3.page3=you can create the perfect plating for the block. Safe, yet conducting.
@@ -202,10 +202,10 @@ engineeringDiary.unlocked=РАЗБЛОКИРОВАНО
 config.title=Конфигурация мода "Buildcraft: Дополнения"
 
 updates=Обновления
-updates.tooltip=Configure if BCA should check for updates or not
+updates.tooltip=Настройте, должен ли BC:A проверять обновления, или нет
 shouldCheckForUpdates=Проверять обновления
 shouldCheckForUpdates.tooltip=True = проверят обновления, false = не проверять обновления
-shouldPrintOutChangelog=Показать изменения
+shouldPrintOutChangelog=Показывать изменения
 shouldPrintOutChangelog.tooltip=Если стоит "true", вы будете видеть изменения новой версии
 
 BaseModifier=Base Modifier
