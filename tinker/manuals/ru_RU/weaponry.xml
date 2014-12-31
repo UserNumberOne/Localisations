@@ -2,86 +2,86 @@
 
 <book>
 <page type="intro">
-<text>Tinkers' Weaponry
-Brings the hurt whole new places
+<text>Вооружение инженера
+Переносит боль на новый уровень
 
-By Sheriff Bownana</text>
+Автор: Sheriff Bownana</text>
 </page>
 
 <page type="contents">
-<text>Table of Contents</text>
+<text>Содержание</text>
 <link>
  <text>Introduction</text>
  <icon>weaponrybook</icon>
  <jump>3</jump>
 </link>
 <link>
- <text>Throwing Weapons</text>
+ <text>Метательное оружие</text>
  <icon>throwingknifeIcon</icon>
  <jump>5</jump>
 </link>
 <link>
- <text>Projectile Weapons</text>
+ <text>Оружие дальнего боя</text>
  <icon>shortbowIcon</icon>
  <jump>7</jump>
 </link>
 <link>
- <text>Projectiles</text>
+ <text>Снаряды</text>
  <icon>arrowIcon</icon>
  <jump>10</jump>
 </link>
 </page>
 
 <page type="text">
-<text>Why walk up to hit stuff, when you can do that while standing here!
+<text>Почему нужно подойти, чтобы ударить, когда можно сделать это, стоя здесь!
 
-A tinkerer knows how to create varied ranged weapons. There are two big categories: Thrown weapons and weapons that shoot projectiles.
+Инженер знает как делать разное оружие дальнего боя. Существует две большие категории: метательное оружие и оружие, которое выстреливает снаряды.
 
-Both types utilize an ammo system. Instead of having several items, these ranged weapons consist of one item that contains many of it. Why carry around 2 stacks of arrows, when you can have 200 in one stack!
-These Ammo-Items don't have a durability, but use up their ammo for each projectile thrown/shot.</text>
+Оба типа используют систему боеприпасов. Оружие дальнего боя состоит из одного предмета, который состоит из многих других. Зачем нужно нести 2 стака стрел, когда можно нести 200 стрел в одном стаке!
+У этих предметов нету прочности, но они тратятся за каждое метание/выстрел.</text>
 </page>
 
 <page type="text">
-<text>Throwing Weapons:
-* Throwing Knife
-* Shuriken
-* Javelin
+<text>Метательное оружие:
+* Метательный нож
+* Сюрикэн
+* Копьё
 
-Projectile Weapons:
-* Shortbow
-* Longbow
-* Crossbow
+Оружие дальнего боя:
+* Короткий лук
+* Длинный лук
+* Арбалет
 
-Projectiles:
-* Arrows
-* Bolts</text>
+Снаряды:
+* Стрелы
+* Болты</text>
 </page>
 
 <page type="text">
-<text>Throwing Weapons
+<text>Метательное оружие
 
-Throwing Knifes:
-These knifes are crafted from a knife blade and a handle.
-Hold rightclick to take aim, and release it to throw a knife.
-Throwing knifes stack up to a moderate amount, and deal moderate damage.
+Метательные ножи:
+Эти ножи создаются из лезвия ножа и ручки.
+Удерживайте ПКМ, чтобы прицелиться, отпустите ПКМ, чтобы кинуть нож.
+Количество метательных ножей - умеренное, также они наносят умеренный урон.
 
-Shuriken:
-Small delicate projectiles put together from 4 parts, that are thrown from the wrist. Because of this you don't need to take aim and can throw them directly.
-Since they're so small you can carry many of them, however they don't deal much damage.</text>
+Сюрикэн:
+Маленькие тонкие снаряды, собранные из 4 частей, которые бросают от запястья. Благодаря этому Вам не нужно целиться и Вы можете кидать их сразу.
+Они настолько малы, что Вы можете взять целую кучу, однако, они наносят мало урона.</text>
 </page>
 
 <page type="text">
 <text>
 
-Javelin:
-This is a hybrid between a melee and a ranged weapon, consisting of an arrow head on two tough tool rods. It deals moderate damage as a melee weapon, but to unleash its true potential you have to throw it at your enemy.
-The throwing has a small windup. Because of their size you can only carry a few, but they pack a punch.</text>
+Копьё:
+Это гибрид оружия ближнего и дальнего боя, состоящий из наконечника стрелы и двух прочных стержней. В ближнем бою оно наносит умеренный урон, чтобы высвободить его истинную силу, Вам нужно кинуть его во врага.
+Бросок занимает кое-какое время. Из-за их размера, Вы можете нести лишь несколько штук.</text>
 </page>
 
 <page type="text">
-<text>Projectile Weapons
+<text>Оружие дальнего боя
 
-Shortbow:
+Короткий лук:
 Put together from two bow limbs and a bowstring, this weapon is a fast and handy bow. Keep in mind that inflexible materials like stone can hardly be drawn back and can't accelerate projectiles well. Organic materials are favoured for quick bows, while metals require lots of strengt to draw back, but provide more power.
 The bow requires arrows as ammo.
 Offensive modifiers on bows do not count for arrows. The only modifiers affecting its ranged performance are Redstone and lapis.</text>
@@ -90,7 +90,7 @@ Offensive modifiers on bows do not count for arrows. The only modifiers affectin
 <page type="text">
 <text>
 
-Longbow:
+Длинный лук:
 The big brother. This bow is much bigger, requiring more time to pull it back, but boy oh boy are those arrows fast.
 Because of this the longbow performs slightly better against armored targets. Furthermore this makes the longbow less accurate with very light arrows.
 The longbow is constructed from two bow limbs, a bowstring and a large plate.</text>
@@ -99,16 +99,16 @@ The longbow is constructed from two bow limbs, a bowstring and a large plate.</t
 <page type="text">
 <text>
 
-Crossbow:
+Арбалет:
 Those pesky metals are such a pain to pull back. Luckily a tinkerer knows how to help himself! The crossbow allows you to pre-load it with a bolt, and have it ready instantly to fire. Since this allows for much more power, it can shoot heavier projectiles, resulting in more damage and armor penetration.
 To load a crossbow simply rightclick and wait until the animation is done. The loading process can be stopped by pressing rightclick while sneaking. The crossbow can be unloaded in the same way.</text>
 </page>
 
 <page type="text">
-<text>Projectiles
+<text>Снаряды
 For these projectiles goes: The heavier the projectile, the more damage carries through armor.
 
-Arrows:
+Стрелы:
 The bread and butter of every ranger. Arrows can be built from many different materials. It needs an arrow head, a shaft and a fletching.
 The choice of materials allows a balance between damage, arrow-count, accuracy and fragility. The head material is crucial for its weight.
 A fragile arrow has a chance to break on impact with terrain. Arrows always break when they hit a target, however the reinforced trait gives a chance for the arrow to survive the impact.</text>
@@ -117,23 +117,23 @@ A fragile arrow has a chance to break on impact with terrain. Arrows always brea
 <page type="text">
 <text>
 
-Valid Shaft Materials:
-* Stick
-* Sugarcane
-* Bone
-* Blaze Rod
+Доступные материалы для стержня:
+* Палка
+* Сахарный тростник
+* Кость
+* Огненный стержень
 
-Valid Fletching Materials:
-* Leaves
-* Slimeleaves
-* Feathers
-* Slime</text>
+Доступные материалы для оперения:
+* Листва
+* Слизистая листва
+* Перья
+* Слизь</text>
 </page>
 
 <page type="text">
 <text>
 
-Bolts:
+Болты:
 Crafting bolts is a delicate process. First you need a core in the form of a tool rod.
 Take this tool rod to a smeltery and put it into a Casting Table. Pour some metal onto it to coat the tip with a more damaging material.
 After this process, add a fletching and your bolts are ready to be used.
