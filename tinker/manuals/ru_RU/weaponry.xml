@@ -82,48 +82,48 @@
 <text>Оружие дальнего боя
 
 Короткий лук:
-Put together from two bow limbs and a bowstring, this weapon is a fast and handy bow. Keep in mind that inflexible materials like stone can hardly be drawn back and can't accelerate projectiles well. Organic materials are favoured for quick bows, while metals require lots of strengt to draw back, but provide more power.
-The bow requires arrows as ammo.
-Offensive modifiers on bows do not count for arrows. The only modifiers affecting its ranged performance are Redstone and lapis.</text>
+Сделанное из двух плеч и тетивы, это оружие быстрое и удобное. Имейте в виду, что негибкие материалы, такие как камень, вряд ли смогут быстро возвращать тетиву обратно и хорошо ускорять снаряды. Органические материалы предпочтительны для быстрых луков, в то время как металлы требуют большой силы, чтобы вернуть тетиву обратно, но в тоже время они дают больше силы самому выстрелу.
+Луку требуются стрелы.
+Наступательные модификаторы на луках не влияют на стрелы. Единственные модификаторы, которые влияют на дальность стрел, это красный камень и лазурит.</text>
 </page>
 
 <page type="text">
 <text>
 
 Длинный лук:
-The big brother. This bow is much bigger, requiring more time to pull it back, but boy oh boy are those arrows fast.
-Because of this the longbow performs slightly better against armored targets. Furthermore this makes the longbow less accurate with very light arrows.
-The longbow is constructed from two bow limbs, a bowstring and a large plate.</text>
+Большой брат. Этот лук намного больше короткого, его тетиве требуется больше времени, чтобы вернуться на позицию, но стрелы этого лука быстрее.
+Из-за этого, лук немного эффективнее против целей в броне. Кроме того этот лук менее точный, если используется лёгкими стрелами.
+Длинный лук делается из двух плеч, оперения и большой пластины.</text>
 </page>
 
 <page type="text">
 <text>
 
 Арбалет:
-Those pesky metals are such a pain to pull back. Luckily a tinkerer knows how to help himself! The crossbow allows you to pre-load it with a bolt, and have it ready instantly to fire. Since this allows for much more power, it can shoot heavier projectiles, resulting in more damage and armor penetration.
-To load a crossbow simply rightclick and wait until the animation is done. The loading process can be stopped by pressing rightclick while sneaking. The crossbow can be unloaded in the same way.</text>
+Эти надоедливые металлы так медленно возвращают тетиву. К счастью, инженер знает как помочь самому себе! Арбалет можно заранее зарядить болтом, это позволит Вам сделать выстрел незамедлительно. Он также может стрелять более тяжёлыми снарядами, в результате чего он наносит больше урона и лучше пробивает броню.
+Чтобы зарядить арбалет, просто нажмите ПКМ и дождитесь завершения анимации. Процесс зарядки можно остановить нажатием ПКМ сидя. Таким же способом арбалет можно разрядить.</text>
 </page>
 
 <page type="text">
 <text>Снаряды
-For these projectiles goes: The heavier the projectile, the more damage carries through armor.
+Для снарядов характерно: Чем тяжелее снаряд, тем больше он наносит урона через броню.
 
 Стрелы:
-The bread and butter of every ranger. Arrows can be built from many different materials. It needs an arrow head, a shaft and a fletching.
-The choice of materials allows a balance between damage, arrow-count, accuracy and fragility. The head material is crucial for its weight.
-A fragile arrow has a chance to break on impact with terrain. Arrows always break when they hit a target, however the reinforced trait gives a chance for the arrow to survive the impact.</text>
+Хлеб и масло каждого рейнджера. Стрелы можно сделать из самых разных материалов. Для стрелы нужен наконечник, стержень и оперение.
+Выбор материалов позволяет сбалансировать урон, количество стрел, точность и хрупкость. Материал наконечника имеет решающее значение для веса стрела.
+У хрупкой стрелы есть шанс поломки при столкновении с землёй. Стрелы всегда ломаются, когда попадают в цель, однако, особенность "усиление" даёт стреле шанс пережить столкновение с целью.</text>
 </page>
 
 <page type="text">
 <text>
 
-Доступные материалы для стержня:
+Подходящие материалы для стержня:
 * Палка
 * Сахарный тростник
 * Кость
 * Огненный стержень
 
-Доступные материалы для оперения:
+Подходящие материалы для оперения:
 * Листва
 * Слизистая листва
 * Перья
@@ -134,11 +134,11 @@ A fragile arrow has a chance to break on impact with terrain. Arrows always brea
 <text>
 
 Болты:
-Crafting bolts is a delicate process. First you need a core in the form of a tool rod.
-Take this tool rod to a smeltery and put it into a Casting Table. Pour some metal onto it to coat the tip with a more damaging material.
-After this process, add a fletching and your bolts are ready to be used.
+Создание болтов очень деликатный процесс. Прежде всего, Вам нужно ядро в виде стержня.
+Принесите этот стержень к плавильне и положите его на литейный стол. Вылейте немного металла на него, чтобы покрыть наконечник более разрушительным материалом.
+После этого, добавьте оперение и Ваши болты готовы к использованию.
 
-Since the bolts consist of a harder core and tip they carry more weight than regular arrows, making them perfect to fight armored targets.</text>
+Болты идеально подходят для борьбы против целей в броне, поскольку они состоят из более твёрдого ядра, а их наконечники весят больше чем наконечники стрел.</text>
 </page>
 
 </book>
