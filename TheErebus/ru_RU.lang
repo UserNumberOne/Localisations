@@ -177,6 +177,8 @@ tile.erebus.gneiss_5.name=Плитки из гнейса
 tile.erebus.templeBrick.name=Кирпич храма
 tile.erebus.templePillar.name=Колонна храма
 tile.erebus.templeTile.name=Плитка храма
+tile.erebus.gneissVent.name=Gneiss Gas Vent
+tile.erebus.templeBrickUnbreaking.name=Temple Brick Unbreaking
 
 tile.erebus.mushroomCap0.name=Округлённый шляпочный гриб
 tile.erebus.mushroomCap1.name=Бабушкин обувной гриб
@@ -191,6 +193,7 @@ tile.erebus.wallPlants_0.name=Мох
 tile.erebus.wallPlants_1.name=Плесень
 tile.erebus.hanger.name=Hanger
 tile.erebus.turnipsCrop.name=Репки
+tile.erebus.cabbageCrop.name=Cabbage
 
 tile.erebus.siloTank.name=Резервуар силоса
 tile.erebus.siloRoof.name=Крыша силоса
@@ -215,7 +218,7 @@ tile.erebus.lightningSpeedBlock.name=Блок скорости молнии
 tile.erebus.reinExo.name=Укреплённый экзоскелетный блок
 tile.erebus.blockSilk.name=Шёлк
 
-tile.erebus.kitchenCounter.name=Кухонная разделочная доска
+tile.erebus.smoothieMaker.name=ErebusCo. Smoothie-matic 2000
 
 # Items
 item.erebus.encrustedDiamond.name=Инкрустированный алмаз
@@ -231,6 +234,7 @@ item.erebus.portalActivator.name=Посох Гайи
 item.erebus.clubBone.name=Дубинка шахтёра
 item.erebus.maxSpeedBow.name=Быстрый лук
 item.erebus.turnips.name=Репа
+item.erebus.cabbageSeeds.name=Cabbage Seeds
 
 item.erebus.helmetJade.name=Нефритовый шлем
 item.erebus.chestplateJade.name=Нефритовая кираса
@@ -313,6 +317,7 @@ item.erebus.materials.56.name=Jadeberries
 item.erebus.materials.57.name=Snapper Root
 item.erebus.materials.58.name=Hydrofuge
 item.erebus.materials.59.name=Water Repellent
+item.erebus.materials.60.name=Empty Smoothie Glass
  
 item.erebus.food.0.name=Beetle Larva
 item.erebus.food.1.name=Cooked Beetle Larva
@@ -329,6 +334,7 @@ item.erebus.food.11.name=Middle Fruit
 item.erebus.food.12.name=Raw Titan Chop
 item.erebus.food.13.name=Cooked Titan Chop
 item.erebus.food.14.name=Swampberries
+item.erebus.food.15.name=Cabbage
 
 item.erebus.smoothie.0.name=Green Tea Grasshopper
 item.erebus.smoothie.1.name=Money Honey
@@ -339,9 +345,17 @@ item.erebus.smoothie.5.name=Givin' Me The Blues
 item.erebus.smoothie.6.name=Hot Hot Baby
 item.erebus.smoothie.7.name=Don't Meddle With The Nettle
 item.erebus.smoothie.8.name=Liquid Gold
+item.erebus.smoothie.9.name=Bryuf's Brew
+
+item.erebus.smoothieBook.name=Smoothie-matic 2000
 
 item.erebus.heartBerries.name=Heartberries
 item.erebus.lifeBlood.name=Life Blood
+
+item.erebus.idols.0.name=Bronze Idol
+item.erebus.idols.1.name=Silver Idol
+item.erebus.idols.2.name=Gold Idol
+item.erebus.idols.3.name=Jade Idol
 
 item.erebus.bambucket.name=Bambucket
 item.erebus.bambucketWater.name=Water Bambucket
