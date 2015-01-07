@@ -88,33 +88,33 @@ engineeringDiary.BCA.page0=Здесь Вы можете найти все исс
 
 engineeringDiary.dusterTier0.title=Основной распылитель
 engineeringDiary.dusterTier0.page0=Вы можете использовать этот простой механизм для удвоения Ваших руд.
-engineeringDiary.dusterTier0.page1=You’re not a nostalgic, but sometimes it just gets to everyone. You remember the good ol’ days, where one had all the Ore they ever wanted, only ever using it to build large redstone contraptions or railroads so big
-engineeringDiary.dusterTier0.page2=they covered entire continents. Good times. After the arrival of Engineers though, everything changed. All of their complex tools and machines required large amounts of Ore, so much it sometimes dried the land.
-engineeringDiary.dusterTier0.page3=You start to wonder if you could somehow increase your Ore output, and you come up with the Basic Duster, a simple machine created using Stone and Slimeballs, with grindy-bits on top.
-engineeringDiary.dusterTier0.page4=It works by placing ore on the top and jumping on it, something you’re not so keen about doing, but double ore is double ore. You wonder how you could improve this machine...
+engineeringDiary.dusterTier0.page1=Обычно Вы не испытываете чувство ностальгии, но иногда это чувство приходит к каждому. Вы помните старые хорошие дни, где у каждого было столько руды, сколько было нужно, только изредка используя её для строительства больших штуковин на красном камне или железных дорог,
+engineeringDiary.dusterTier0.page2=которые покрывали целые континенты. Хорошие времена. Однако, после прибытия инженеров, всё изменилось. Их сложные инструменты и механизмы требовали такое большое количество руды, что иногда опустошались целые материки.
+engineeringDiary.dusterTier0.page3=Вы начинаете задумываться над тем как бы Вам увеличить объём добычи руды и придумываете основной распылитель, простой механизм, созданный из камня и слизи.
+engineeringDiary.dusterTier0.page4=Он работает так: Вы кладёте сверху руду, а затем прыгаете на ней, правда делаете Вы это не совсем хорошо, но удвоение руды - это хорошо. Вы думаете над тем как бы улучшить этот механизм...
 engineeringDiary.dusterTier0.howToMakeProgress=Спланируйте будущие механизмы
 
 
 engineeringDiary.dusterTier1.title=Полуавтоматический распылитель
 engineeringDiary.dusterTier1.page0=Этот улучшенный распылитель может взаимодействовать с инвентарями
-engineeringDiary.dusterTier1.page1=Your first Duster was a breakthrough on the Ore processing scene. Never before was getting more Ore so easy. However, everyone agreed that manually placing and jumping on the Ore was a bit rustic, so you decide
-engineeringDiary.dusterTier1.page2=to focus on making the machine better, starting with inventory connections. Experimenting with Pipes seems to have an effect, but the Stone Gears are just too crude for the Gold, so you upgrade them to Iron Gears.
-engineeringDiary.dusterTier1.page3=Finally, you have the Semi-Automatic Duster. This Duster still requires you to jump on it, but at least the Ores can be input from Hoppers and Pipes, while the output appears to move out on its own. Now it's time to work on that jumping issue.
+engineeringDiary.dusterTier1.page1=Ваш первый распылитель стал прорывом на сцене обработки руды. Никогда прежде нельзя было получить столько руды. Однако, все согласились, что ручное размещение, а затем прыгание на руде выглядит глупо, поэтому Вы решили
+engineeringDiary.dusterTier1.page2=сфокусироваться на создании улучшенного механизма, начав с соединений к инвентарям. Экспериментирование с трубами дало свои плоды, но каменные шестерни слишком грубы для золота, поэтому Вы улучшили их до железных.
+engineeringDiary.dusterTier1.page3=Наконец-таки Вы сделали полуавтоматический распылитель. Вы всё ещё должны прыгать на этом распылителе, но теперь руды могут входить в него из воронок и труб, а выходят они сами по себе. Пришло время решить проблему прыжков.
 engineeringDiary.dusterTier1.howToMakeProgress=Обработайте предметы в основном распылителе
 
 engineeringDiary.dusterTier2-1.title=Механический распылитель
-engineeringDiary.dusterTier2-1.page0=Этот рудоудвоительный механизм работает от энергии
-engineeringDiary.dusterTier2-1.page1=After your initial automation discovery, you try to make the machine grind the ore for you, without success. You decide to take a step back and use the Basic Duster as base for your experiments again,
-engineeringDiary.dusterTier2-1.page2=and you end up creating the Grinding Wheel, an item that could be the key to automating this machine. And it proves very effective: once you upgrade the Stone Gears to Iron, it seems to accept power to double the ores.
-engineeringDiary.dusterTier2-1.page3=You finally made the Mechanical Duster! However this machine is another incomplete experiment, since it doesn’t have the inventory managing capabilities of the Semi-Automatic Duster. You need to step it up.
+engineeringDiary.dusterTier2-1.page0=Этот механизм для удвоения руды работает от энергии
+engineeringDiary.dusterTier2-1.page1=После Вашего первого открытия автоматизации, Вы попытались сделать механизм, который бы обрабатывал руду для, но Вам не удалось. Вы решили сделать шаг назад и использовать основной распылитель как основу для Ваших экспериментов,
+engineeringDiary.dusterTier2-1.page2=в итоге Вы сделали измельчающее колесо, предмет, который может стать решением проблемы автоматизации. Он оказался очень эффективным: после улучшения каменных шестерёнок до железных, распылитель стал принимать энергию для удвоения руд.
+engineeringDiary.dusterTier2-1.page3=Наконец-то, Вы сделали механический распылитель! Однако, этот механизм очередной незавершённый эксперимент, поскольку у него нету возможности присоединения к инвентарям, как у полуавтоматического распылителя. Вам нужно как-то активировать его.
 engineeringDiary.dusterTier2-1.howToMakeProgress=Обработайте предметы в полуавтоматическом распылителе
 
 engineeringDiary.dusterTier2-2.title=Кинетический распылитель
 engineeringDiary.dusterTier2-2.page0=Максимальный распылитель (Известен как "Распылятор 9000")
-engineeringDiary.dusterTier2-2.page1=After many failed Duster versions, you decide you simply can’t mix the grinding power of the Mechanical Duster and the inventory managing capabilities of the Semi-Automatic Duster, so you decide to step it up
-engineeringDiary.dusterTier2-2.page2=and try another method of doubling the Ore: Lasers. Their precision surely will help in not breaking the internal piping like it happened every time it was hit by an Engine. Fortunately it works,
-engineeringDiary.dusterTier2-2.page3=but this time you have to involve some high-tier materials, including a Diamond Gear. The Kinetic Duster is born. The precision of the Lasers keeps the internal gold circuit intact,
-engineeringDiary.dusterTier2-2.page4=which allows the machine to receive external power (through Lasers) and manage its own inventory. You’re done here.
+engineeringDiary.dusterTier2-2.page1=После многих неудачных версий распылителей, Вы решили, что Вы просто не можете соединить измельчающую силу механического распылителя и систему присоединения к инвентарям полуавтоматического распылителя, поэтому Вы решили активировать его
+engineeringDiary.dusterTier2-2.page2=и опробовать другой метод удвоения руд - лазеры. Благодаря их точности внутренняя система труб не будет ломаться, как это происходило ранее. К счастью, эта система работает,
+engineeringDiary.dusterTier2-2.page3=но в этот раз Вам пришлось использовать дорогие материалы, включая алмазную шестерню. Кинетический распылитель вышел в свет. Лазеры не задевают внутреннюю золотую микросхему,
+engineeringDiary.dusterTier2-2.page4=которая позволяет механизму получать внешнюю энергию (через лазеры), а также управляет инвентарём. Вы закончили с распылителями.
 engineeringDiary.dusterTier2-2.howToMakeProgress=Обработайте предметы в механическом распылителе
 
 engineeringDiary.kineticTool.title=Кинетический мультиинструмент
