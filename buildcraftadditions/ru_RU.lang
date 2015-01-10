@@ -131,7 +131,7 @@ engineeringDiary.kineticTool.page9=Вы решили немного поэксп
 engineeringDiary.kineticTool.page10=рассинхронизацию красного камня, поэтому Вы также решили добавить кварцевую микросхему с помощью стола интеграции. Инструмент, кажется, знает, когда какое улучшение нужно использовать, что делает его инструментом 2 в 1! Однако, это ещё не все возможные улучшения,
 engineeringDiary.kineticTool.page11=поэтому Вы собрали алмазную палку, положив 2 алмаза в сборочный стол. Также, Вы добавили к инструменту золотую микросхему в столе интеграции. Несмотря на то, что у инструмента уже есть 3 улучшения, Вы задаётесь вопросом, а можно ли добавить 4 улучшение.
 engineeringDiary.kineticTool.page12=Природных материалов для создания палки больше просто не осталось, но однажды Вы проходили мимо электростанции и решили заглянуть внутрь, к Вашему удивлению Вы встретили жителя-инженера! Похоже этот житель экспериментировал с идеями
-engineeringDiary.kineticTool.page13=очень похожими на Ваши, и похоже у него в руках были изумрудные палки! Вы вернулись домой и соединили палку с изумрудной микросхемой в Вашем инструменте. Наконец-то, теперь в Вашем инструменте есть 4 улучшения!
+engineeringDiary.kineticTool.page13=очень похожими на Ваши, и похоже у него в руках были изумрудные палки! Вы вернулись домой и соединили палку с алмазной микросхемой в Вашем инструменте. Наконец-то, теперь в Вашем инструменте есть 4 улучшения!
 engineeringDiary.kineticTool.howToMakeProgress=Сделайте инструменты
 
 engineeringDiary.heatedFurnace.title=Нагревательная печь
@@ -156,9 +156,9 @@ eureka.basicCoilFinished=Вы уже знали как сделать нагре
 
 engineeringDiary.lavaCoil.title=Лавовая катушка
 engineeringDiary.lavaCoil.page0=Эта катушка может питать нагревательную печь лавой.
-engineeringDiary.lavaCoil.page1=It was a logical step up. After your initial Coil discoveries with Iron, you decide to do the same with Gold, but you’re surprised to find out that Gold Wires are actually green. Weird. Not only that, but the Coils made from
-engineeringDiary.lavaCoil.page2=them simply don’t take Coal for power. You decide to place Lava in these. Its a long shot, but they’re just as green as Fluid Sealant, so why not? @ @ It works. You really thought it was just going to melt it, but nope.
-engineeringDiary.lavaCoil.page3=These Coils take the already hot fluid Lava and use it to make even more heat. Now we’re talking.
+engineeringDiary.lavaCoil.page1=Шаг вперёд был логичным. После Вашего первого открытия взаимодействия катушки с железом, Вы решили попробовать тоже самое с золотом, но Вы с удивлением обнаружили, что золотая проволока позеленела. Странно. Кроме того, катушки, сделанные
+engineeringDiary.lavaCoil.page2=из золота, не используют уголь в качестве топлива. Вы решили залить лаву в них. Это конечно же риск, но они зелёные прям как уплотнитель для труб, поэтому почему бы нет? @ @ Работает. Вы были уверены, что лава расплавит катушки, но нет.
+engineeringDiary.lavaCoil.page3=Эти катушки принимают уже горячую лаву и делают её ещё горячее. У нас получилось.
 engineeringDiary.lavaCoil.howToMakeProgress=Поставьте основные катушки
 eureka.lavaCoilFinished=Вы наблюдает за тем как Ваши основные катушки генерируют тепло и спрашиваете себя: "А смогу ли я использовать лаву для генерации тепла в новой катушке?"
 
