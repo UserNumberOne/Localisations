@@ -10,39 +10,39 @@ ner.config.dimNames.title=Use Dimension Names
 ner.config.dimNames.description=Set use of Dimension names instead of numbers
 
 #Usage: ner.page pageNumber ner.of lastPage
-ner.page=Page
+ner.page=Страница
 ner.of=of
 #Usage X ner.stacks
 ner.stacks=Stacks
 
 #Dungeon View
-ner.dungeon.title=Dungeon Chests
-ner.dungeon.mineshaftCorridor=Mineshaft
-ner.dungeon.pyramidDesertyChest=Desert Temple
-ner.dungeon.pyramidJungleChest=Mineshaft
-ner.dungeon.pyramidJungleDispenser=Jungle Temple
-ner.dungeon.strongholdCorridor=Stronghold Corridor
-ner.dungeon.strongholdLibrary=Stronghold Library
-ner.dungeon.strongholdCrossing=Stronghold Crossing
-ner.dungeon.villageBlacksmith=Blacksmith
-ner.dungeon.bonusChest=Bonus
-ner.dungeon.dungeonChest=Dungeon
+ner.dungeon.title=Сундук подземелья
+ner.dungeon.mineshaftCorridor=Заброшенная шахта
+ner.dungeon.pyramidDesertyChest=Храм в пустыне
+ner.dungeon.pyramidJungleChest=Заброшенная шахта
+ner.dungeon.pyramidJungleDispenser=Храм в джунглях
+ner.dungeon.strongholdCorridor=Коридор крепости
+ner.dungeon.strongholdLibrary=Библиотека крепости
+ner.dungeon.strongholdCrossing=Пересечение крепости
+ner.dungeon.villageBlacksmith=Деревенская кузница
+ner.dungeon.bonusChest=Бонусный сундук
+ner.dungeon.dungeonChest=Подземелье
 
 #Enchantments View
-ner.enchantments.title=Enchantments
+ner.enchantments.title=Зачарования
 
 #Plant View
-ner.plant.title=Plant Drops
+ner.plant.title=Выпадение предметов из растений
 
 #Ore View
-ner.ore.title=Ore Gen
+ner.ore.title=Генерация руд
 ner.ore.bestY=bestY
-ner.ore.silkTouch=Silk Touch Needed
+ner.ore.silkTouch=Нужно шёлковое касание
 ner.ore.biomes=Spawn Biomes
 ner.ore.dimensions=Valid Dimensions
 
 #Mob View
-ner.mob.title=Mob Drops
+ner.mob.title=Выпадение предметов из животных
 ner.mob.biome=Spawn Biomes: Hover mouse here
 ner.mob.exp=Experience Dropped
 
@@ -60,16 +60,16 @@ ner.beheading.text=Beheading increases chance
 ner.randomAspect.text=Random Aspect
 ner.equipmentDrop.text=Dropped Equipment
 
-ner.burning.text=When on fire
-ner.notBurning.text=When not on fire
+ner.burning.text=Когда горит
+ner.notBurning.text=Когда не горит
 ner.wet.text=When wet
 ner.notWet.text=When not wet
 ner.hasPotion.text=When affected by %s
 ner.hasNoPotion.text=When not affected by %s
 ner.beyond.text=Further than %sm from spawn
 ner.nearer.text=Closer than %sm from spawn
-ner.raining.text=When raining
-ner.dry.text=When not raining
+ner.raining.text=Когда идёт дождь
+ner.dry.text=Когда не идёт дождь
 ner.thundering.text=When storming
 ner.notThundering.text=When not storming
 ner.moonPhase.text=During %s Moon
