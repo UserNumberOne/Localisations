@@ -1,19 +1,19 @@
-ner.config.itemsPerColumn.title=Items Per Column
+ner.config.itemsPerColumn.title=Кол-во предметов в одном столбце
 ner.config.itemsPerColumn.description=Changes the amount of items per column in the NEI dungeon and mob views
-ner.config.itemsPerRow.title=Items Per Row
+ner.config.itemsPerRow.title=Кол-во предметов в одном ряду
 ner.config.itemsPerRow.description=Changes the amount of items per row in the NEI dungeon view
 ner.config.cycleTime.title=Cycle Time
 ner.config.cycleTime.description=Show duration before cycle in NEI views
 ner.config.extraRange.title=Extra range
 ner.config.extraRange.description=Changes the extra yLevels displayed on the graph in the NEI ore View
-ner.config.dimNames.title=Use Dimension Names
+ner.config.dimNames.title=Использовать имена измерений
 ner.config.dimNames.description=Set use of Dimension names instead of numbers
 
 #Usage: ner.page pageNumber ner.of lastPage
 ner.page=Страница
-ner.of=of
+ner.of=
 #Usage X ner.stacks
-ner.stacks=Stacks
+ner.stacks=Стаков
 
 #Dungeon View
 ner.dungeon.title=Сундук подземелья
@@ -36,15 +36,15 @@ ner.plant.title=Выпадение предметов из растений
 
 #Ore View
 ner.ore.title=Генерация руд
-ner.ore.bestY=bestY
+ner.ore.bestY=Лучшее значение по Y
 ner.ore.silkTouch=Нужно шёлковое касание
-ner.ore.biomes=Spawn Biomes
-ner.ore.dimensions=Valid Dimensions
+ner.ore.biomes=Спаунится в биомах
+ner.ore.dimensions=Допустимые измерения
 
 #Mob View
-ner.mob.title=Выпадение предметов из животных
-ner.mob.biome=Spawn Biomes: Hover mouse here
-ner.mob.exp=Experience Dropped
+ner.mob.title=Выпадаемые предметы из моба
+ner.mob.biome=Спаунится в биомах: наведите сюда курсор
+ner.mob.exp=Выпадаемый опыт
 
 #Advanced Plant View
 ner.advPlant.title=Advanced Plant Drops
@@ -52,7 +52,7 @@ ner.advPlant.title=Advanced Plant Drops
 #Conditionals - when translating retain '%s' as this lets the modifier be properly inserted into the string
 ner.magmaCream.text=Small and Large Magma Cubes
 ner.slimeBall.text=Tiny Slimes only
-ner.rareDrop.text=Rare Drop
+ner.rareDrop.text=Выпадение редких вещей
 
 ner.slimeScale.text=Scales with Slime Size
 ner.kingSlime.text=King Slimes only
@@ -80,18 +80,18 @@ ner.pastWorldTime.text=World time past %s
 ner.beforeWorldTime.text=World time before %s
 ner.pastWorldDifficulty.text=Past World Difficulty %s
 ner.beforeWorldDifficulty.text=Before World Difficulty %s
-ner.gameDifficulty.text=Difficulty %s
-ner.notGameDifficulty.text=Difficulty not %s
-ner.inDimension.text=In Dimension %s
-ner.notInDimension.text=Not in Dimension %s
-ner.inBiome.text=In Biome %s
-ner.notInBiome.text=Not in Biome %s
-ner.onBlock.text=On %s
-ner.notOnBlock.text=Not on %s
-ner.below.text=Below Y Level %s
-ner.above.text=Above Y Level %s
-ner.playerOnline.text=When Player %s online
-ner.playerOffline.text=When Player %s offline
+ner.gameDifficulty.text=Когда уровень сложности %s
+ner.notGameDifficulty.text=Когда уровень сложности не %s
+ner.inDimension.text=В измерении %s
+ner.notInDimension.text=Не в измерении %s
+ner.inBiome.text=В биоме %s
+ner.notInBiome.text=Не в биоме %s
+ner.onBlock.text=На %s
+ner.notOnBlock.text=Не на %s
+ner.below.text=Ниже %s уровня по Y
+ner.above.text=Выше %s уровня по Y
+ner.playerOnline.text=Когда игрок %s в сети
+ner.playerOffline.text=Когда игрок %s не в сети
 ner.playerKill.text=Killed by a Player
 ner.notPlayerKill.text=Not killed by a Player
 ner.aboveLooting.text=Looting above %s
@@ -100,11 +100,11 @@ ner.killedBy.text=When killed by %s
 ner.notKilledBy.text=When not killed by %s
 
 #Moon Phases
-ner.full.moon=Full
-ner.waning_gibbous.moon=Waning Gibbous
-ner.third_quarter.moon=Third Quarter
-ner.waning_crescent.moon=Waning Crescent
-ner.new.moon=New
-ner.waxing_crescent.moon=Waxing Crescent
-ner.first_quarter.moon=First Quarter
-ner.waxing_gibbous.moon=Waxing Gibbous
+ner.full.moon=Полнолуние
+ner.waning_gibbous.moon=Убывающая луна
+ner.third_quarter.moon=Последняя четверть
+ner.waning_crescent.moon=Старая луна
+ner.new.moon=Новолуние
+ner.waxing_crescent.moon=Молодая луна
+ner.first_quarter.moon=Первая четверть
+ner.waxing_gibbous.moon=Прибывающая луна
