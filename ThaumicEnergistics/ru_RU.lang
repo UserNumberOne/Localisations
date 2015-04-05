@@ -129,13 +129,13 @@ thaumicenergistics.research_page.TEIRONGEARBOX.2=When cranking multiple devices,
 
 # Research Thaumium Gear Box
 tc.research_name.thaumicenergistics.TETHAUMGBOX=Таумическая коробка передач
-tc.research_text.thaumicenergistics.TETHAUMGBOX=Little Labor Force
+tc.research_text.thaumicenergistics.TETHAUMGBOX=Малая рабочая сила
 thaumicenergistics.research_page.TETHAUMGBOX.1=Now that your golems can right-click on your behalf, its time you updated the gearbox to accommodate them. Adding a dash of metal and magic, you have retrofitted the §lIron Gear Box§r and created the §lThaumium Gear Box§r.<BR>The redesigned model will allow any golem with the §lUse Core§r to crank the gearbox.
 
 # Research Certus Quartz Duplication
 tc.research_name.thaumicenergistics.TECERTUSDUPE=Удвоение кварца
 tc.research_text.thaumicenergistics.TECERTUSDUPE=Impurities Intact
-thaumicenergistics.research_page.TECERTUSDUPE.1=You are now able to alchemically duplicate §lCertus Quartz Crystal§r and §lNether Quartz§r.
+thaumicenergistics.research_page.TECERTUSDUPE.1=Теперь Вы можете дублировать §lИстинный кварц§r, и §lКварц нижнего мира§r.
 
 # Research Knowledge Inscriber + Core
 tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=Высечение знаний
@@ -153,4 +153,4 @@ thaumicenergistics.research_page.TEARCANEASSEMBLER.3=§lVis Discounts§r<BR>Due 
 # Research Wrench Focus
 tc.research_name.thaumicenergistics.TEFOCUSWRENCH=Набалдашник: AE-ключ
 tc.research_text.thaumicenergistics.TEFOCUSWRENCH=Требуется немного сборки
-thaumicenergistics.research_page.TEFOCUSWRENCH.1=This wand focus interacts with blocks and machinery as if it were an AE2 wrench.<BR>Sneak + left click: Rotate.<BR>Sneak + right click: Dismantle.<BR>Please note that full support for cable parts is currently work in progress.
+thaumicenergistics.research_page.TEFOCUSWRENCH.1=Этот набалдашник взамодействует с блоками и механизмами, как если бы это был АЕ2 ключ.<BR>Shift + ЛКМ: Повернуть. Shift + ПКМ: Демонтировать.<BR>Пожалуйста, обратите внимание, что на данный момент полная поддержка кабелей ещё в работе.
