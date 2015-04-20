@@ -1,13 +1,15 @@
-ner.config.itemsPerColumn.title=Кол-во предметов в одном столбце
-ner.config.itemsPerColumn.description=Changes the amount of items per column in the NEI dungeon and mob views
-ner.config.itemsPerRow.title=Кол-во предметов в одном ряду
-ner.config.itemsPerRow.description=Changes the amount of items per row in the NEI dungeon view
-ner.config.cycleTime.title=Cycle Time
-ner.config.cycleTime.description=Show duration before cycle in NEI views
-ner.config.extraRange.title=Extra range
-ner.config.extraRange.description=Changes the extra yLevels displayed on the graph in the NEI ore View
+ner.config.itemsPerColumn.title=Кол-во предметов в столбце
+ner.config.itemsPerColumn.description=Изменяет кол-во предметов в столбце NEI-просмотров подземелий и мобов
+ner.config.itemsPerRow.title=Кол-во предметов в ряду
+ner.config.itemsPerRow.description=Изменяет кол-во предметов в ряду NEI-просмотра подземелий
+ner.config.cycleTime.title=Время цикла
+ner.config.cycleTime.description=Показывать продолжительность цикла в NEI-просмотрах
+ner.config.extraRange.title=Доп. дальность
+ner.config.extraRange.description=Отображает дополнительные y-уровни на графике в NEI-просмотре руд
 ner.config.dimNames.title=Использовать имена измерений
-ner.config.dimNames.description=Set use of Dimension names instead of numbers
+ner.config.dimNames.description=Меняет числовые измерения на именные
+ner.config.echantsBlacklist.title=Чёрный список для зачарований
+ner.config.echantsBlacklist.description=Убирает зачарования из NEI-просмотра зачарований
 
 #Usage: ner.page pageNumber ner.of lastPage
 ner.page=Страница
@@ -16,7 +18,7 @@ ner.of=
 ner.stacks=Стаков
 
 #Dungeon View
-ner.dungeon.title=Сундук подземелья
+ner.dungeon.title=Сундуки подземелий
 ner.dungeon.mineshaftCorridor=Заброшенная шахта
 ner.dungeon.pyramidDesertyChest=Храм в пустыне
 ner.dungeon.pyramidJungleChest=Заброшенная шахта
@@ -32,54 +34,54 @@ ner.dungeon.dungeonChest=Подземелье
 ner.enchantments.title=Зачарования
 
 #Plant View
-ner.plant.title=Выпадение предметов из растений
+ner.plant.title=Плоды растений
 
 #Ore View
 ner.ore.title=Генерация руд
 ner.ore.bestY=Лучшее значение по Y
-ner.ore.silkTouch=Нужно шёлковое касание
-ner.ore.biomes=Спаунится в биомах
+ner.ore.silkTouch=Необходимо шёлковое касание
+ner.ore.biomes=Появляется в биомах
 ner.ore.dimensions=Допустимые измерения
 
 #Mob View
-ner.mob.title=Выпадаемые предметы из моба
-ner.mob.biome=Спаунится в биомах: наведите сюда курсор
-ner.mob.exp=Выпадаемый опыт
+ner.mob.title=Предметы мобов
+ner.mob.biome=Появляется в биомах: наведите сюда курсор
+ner.mob.exp=Опыт мобов
 
 #Advanced Plant View
-ner.advPlant.title=Advanced Plant Drops
+ner.advPlant.title=Продвинутые плоды растений
 
 #Conditionals - when translating retain '%s' as this lets the modifier be properly inserted into the string
-ner.magmaCream.text=Small and Large Magma Cubes
-ner.slimeBall.text=Tiny Slimes only
-ner.rareDrop.text=Выпадение редких вещей
+ner.magmaCream.text=Маленькие и большие лавовые кубы
+ner.slimeBall.text=Только маленькие слизни
+ner.rareDrop.text=Редкие вещи
 
 ner.slimeScale.text=Scales with Slime Size
-ner.kingSlime.text=King Slimes only
-ner.beheading.text=Beheading increases chance
-ner.randomAspect.text=Random Aspect
-ner.equipmentDrop.text=Dropped Equipment
+ner.kingSlime.text=Только королевские слизни
+ner.beheading.text=Усекновение увеличивает шанс
+ner.randomAspect.text=Случайный аспект
+ner.equipmentDrop.text=Брошенное снаряжение
 
 ner.burning.text=Когда горит
 ner.notBurning.text=Когда не горит
-ner.wet.text=When wet
-ner.notWet.text=When not wet
-ner.hasPotion.text=When affected by %s
-ner.hasNoPotion.text=When not affected by %s
-ner.beyond.text=Further than %sm from spawn
-ner.nearer.text=Closer than %sm from spawn
+ner.wet.text=Когда мокрая
+ner.notWet.text=Когда не мокрая
+ner.hasPotion.text=Когда под воздействием %s
+ner.hasNoPotion.text=Когда не под воздействием %s
+ner.beyond.text=Дальше чем на %sм от точки появления
+ner.nearer.text=Ближе чем на %sм от точки появления
 ner.raining.text=Когда идёт дождь
 ner.dry.text=Когда не идёт дождь
-ner.thundering.text=When storming
-ner.notThundering.text=When not storming
-ner.moonPhase.text=During %s Moon
-ner.notMoonPhase.text=Out of %s Moon
-ner.pastTime.text=Day time past %s
-ner.beforeTime.text=Day time before %s
-ner.pastWorldTime.text=World time past %s
-ner.beforeWorldTime.text=World time before %s
-ner.pastWorldDifficulty.text=Past World Difficulty %s
-ner.beforeWorldDifficulty.text=Before World Difficulty %s
+ner.thundering.text=Во время шторма
+ner.notThundering.text=Не во время шторма
+ner.moonPhase.text=Во время %s
+ner.notMoonPhase.text=Не во время %s
+ner.pastTime.text=Дневное время после %s
+ner.beforeTime.text=Дневное время до %s
+ner.pastWorldTime.text=Мировое время после %s
+ner.beforeWorldTime.text=Мировое время до %s
+ner.pastWorldDifficulty.text=После сложности мира %s
+ner.beforeWorldDifficulty.text=До сложности мира %s
 ner.gameDifficulty.text=Когда уровень сложности %s
 ner.notGameDifficulty.text=Когда уровень сложности не %s
 ner.inDimension.text=В измерении %s
@@ -92,19 +94,19 @@ ner.below.text=Ниже %s уровня по Y
 ner.above.text=Выше %s уровня по Y
 ner.playerOnline.text=Когда игрок %s в сети
 ner.playerOffline.text=Когда игрок %s не в сети
-ner.playerKill.text=Killed by a Player
-ner.notPlayerKill.text=Not killed by a Player
-ner.aboveLooting.text=Looting above %s
-ner.belowLooting.text=Looting below %s
-ner.killedBy.text=When killed by %s
-ner.notKilledBy.text=When not killed by %s
+ner.playerKill.text=Убит игроком
+ner.notPlayerKill.text=Не убит игроком
+ner.aboveLooting.text=Мародёрство выше %s
+ner.belowLooting.text=Мародёрство ниже %s
+ner.killedBy.text=Когда убит %s
+ner.notKilledBy.text=Когда не убит %s
 
 #Moon Phases
-ner.full.moon=Полнолуние
-ner.waning_gibbous.moon=Убывающая луна
-ner.third_quarter.moon=Последняя четверть
-ner.waning_crescent.moon=Старая луна
-ner.new.moon=Новолуние
-ner.waxing_crescent.moon=Молодая луна
-ner.first_quarter.moon=Первая четверть
-ner.waxing_gibbous.moon=Прибывающая луна
+ner.full.moon=полнолуния
+ner.waning_gibbous.moon=убывающей луны
+ner.third_quarter.moon=последней четверти
+ner.waning_crescent.moon=старой луны
+ner.new.moon=новолуния
+ner.waxing_crescent.moon=молодой луны
+ner.first_quarter.moon=первой четверти
+ner.waxing_gibbous.moon=прибывающей луны

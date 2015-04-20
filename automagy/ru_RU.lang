@@ -48,8 +48,8 @@ item.bucketMushroom.name=Ведро грибного супа
 item.bucketVishroom.name=Bucket of Vishroom Soup
 
 # Blocks
-tile.blockTorchInversion.name=Инвертируемый красный факел
-tile.blockTorchInversion_off.name=Инвертируемый красный факел
+tile.blockTorchInversion.name=Инвертированный красный факел
+tile.blockTorchInversion_off.name=Инвертированный красный факел
 tile.blockRedcrystal.name=Красный кристалл
 tile.blockRedcrystalAmp.name=Усиленный красный кристалл
 tile.blockRedcrystalDim.name=Тусклый красный кристалл
@@ -57,14 +57,14 @@ tile.blockRedcrystalDense.name=Плотный красный кристалл
 tile.blockRedcrystalRes.name=Резонирующий красный кристалл
 tile.blockRedcrystalMerc.name=Ртутный красный кристалл
 tile.blockRemoteComparator.name=Remote Comparator
-tile.blockVisReader.name=Vis Reader
+tile.blockVisReader.name=Считыватель Вис
 tile.blockHourglass.name=Песочные часы
 tile.blockHourglassMagic.name=Магические песочные часы
-tile.blockGreedyChest.name=Greedy Chest
-tile.blockEagerChest.name=Eager Chest
-tile.blockHungryMaw.name=Hungry Maw
+tile.blockGreedyChest.name=Алчный сундук
+tile.blockEagerChest.name=Жаждущий сундук
+tile.blockHungryMaw.name=Голодная пасть
 tile.blockFinicalMaw.name=Finical Maw
-tile.blockPhenomenon.name=Phenomenon
+tile.blockPhenomenon.name=Феномен
 tile.blockTally.name=Tally Box
 tile.blockTallyLensWorld.name=Tally Box (Lens: Unbound)
 tile.blockTallyLensDrops.name=Tally Box (Lens: Yield)
@@ -88,30 +88,30 @@ tile.blockGolemWorkbench.name=Golem's Workbench
 tile.blockThirstyTank.name=Thirsty Tank
 tile.blockCreativeJar.3.name=Infinity Jar
 tile.blockNethermind.name=Nethermind
-tile.blockRunedObsidian.name=Runed Obsidian
-tile.blockNetherRune.0.name=Runed Obsidian (Rock)
-tile.blockNetherRune.1.name=Runed Obsidian (Sea)
-tile.blockNetherRune.2.name=Runed Obsidian (Crystal)
-tile.blockNetherRune.3.name=Runed Obsidian (Light)
-tile.blockNetherRune.4.name=Runed Obsidian (Soul)
-tile.blockNetherRune.5.name=Runed Obsidian (Pebble)
-tile.blockNetherRune.6.name=Runed Obsidian (Celerity)
-tile.blockNetherRune.8.name=Runed Obsidian (Rock)
-tile.blockNetherRune.9.name=Runed Obsidian (Sea)
-tile.blockNetherRune.10.name=Runed Obsidian (Crystal)
-tile.blockNetherRune.11.name=Runed Obsidian (Light)
-tile.blockNetherRune.12.name=Runed Obsidian (Soul)
-tile.blockNetherRune.13.name=Runed Obsidian (Pebble)
-tile.blockAmnesiac.name=Amnesiac's Stone
+tile.blockRunedObsidian.name=Рунический обсидиан
+tile.blockNetherRune.0.name=Рунический обсидиан (Rock)
+tile.blockNetherRune.1.name=Рунический обсидиан (Sea)
+tile.blockNetherRune.2.name=Рунический обсидиан (Crystal)
+tile.blockNetherRune.3.name=Рунический обсидиан (Light)
+tile.blockNetherRune.4.name=Рунический обсидиан (Soul)
+tile.blockNetherRune.5.name=Рунический обсидиан (Pebble)
+tile.blockNetherRune.6.name=Рунический обсидиан (Celerity)
+tile.blockNetherRune.8.name=Рунический обсидиан (Rock)
+tile.blockNetherRune.9.name=Рунический обсидиан (Sea)
+tile.blockNetherRune.10.name=Рунический обсидиан (Crystal)
+tile.blockNetherRune.11.name=Рунический обсидиан (Light)
+tile.blockNetherRune.12.name=Рунический обсидиан (Soul)
+tile.blockNetherRune.13.name=Рунический обсидиан (Pebble)
+tile.blockAmnesiac.name=Камень амнезии
 tile.blockMobLure.name=Siren's Lure
-tile.blockTranslucent.0.name=Glowing Amber
-tile.blockTranslucent.1.name=Glowing Amber Bricks
-tile.blockMetalGlow.0.name=Memory Block
-tile.blockMetalGlow.1.name=Memory Block
+tile.blockTranslucent.0.name=Светящийся янтарь
+tile.blockTranslucent.1.name=Кирпичи из светящегося янтаря
+tile.blockMetalGlow.0.name=Блок памяти
+tile.blockMetalGlow.1.name=Блок памяти
 tile.blockFluidMilk.name=Молоко
 tile.blockFluidMushroom.name=Грибной суп
 tile.blockFluidVishroom.name=Висоморский суп
-tile.blockBoiler.name=Alchemical Boiler
+tile.blockBoiler.name=Алхимический бойлер
 
 # Fluids
 fluid.fluidMilk=Молоко
@@ -119,14 +119,14 @@ fluid.fluidMushroom=Грибной суп
 fluid.fluidVishroom=Висоморский суп
 
 # Entities
-entity.Automagy.XPOrbSuppressed.name=Amnesiac's Experience Orb
-entity.Automagy.EntityItemDelayedFall.name=Hovering Item
+entity.Automagy.XPOrbSuppressed.name=Забывчивая сфера опыта
+entity.Automagy.EntityItemDelayedFall.name=Парящий предмет
 
 # Research
 tc.research_category.AUTOMAGY=Automagy
 
 Automagy.research_name.SLIVERS=Slivers of Magic
-Automagy.research_text.SLIVERS=Fragments of Fragments
+Automagy.research_text.SLIVERS=Фрагменты фрагментов
 Automagy.research_page.SLIVERS.1=You've developed a process to break down the various shards of primal magic into even smaller pieces. This is helpful when using a whole shard (if shards can be described as being "whole") would be unnecessary and even wasteful for the task at hand.<BR>Unfortunately, putting the pieces back together isn't quite as easy. It will take significantly more vis to produce a shard than break one down.
 
 Automagy.research_name.SLIVERS_TRAVEL=Slivers for Travel
@@ -573,17 +573,17 @@ Automagy.key.focusCrafting=Набалдашник: Создание
 
 # Miscellaneous
 itemGroup.Automagy=Automagy
-wailaTip.redcrystalPower=Power : %s
-wailaTip.redcrystalPowerWithAmp=Power : %s (+%s)
-wailaTip.redcrystalPowerWithCap=Power : %s/%s
-wailaTip.redcrystalPowerMin=[min %s]
+wailaTip.redcrystalPower=Энергия : %s
+wailaTip.redcrystalPowerWithAmp=Энергия : %s (+%s)
+wailaTip.redcrystalPowerWithCap=Энергия : %s/%s
+wailaTip.redcrystalPowerMin=[мин. %s]
 wailaTip.hourglassTimerSec=Timer : %s seconds
 wailaTip.hourglassTimerSecOne=Timer : 1 second
 wailaTip.hourglassTimerMinSec=Timer : %s min %s sec
 wailaTip.hourglassTimerCountdown=         %s:%s remaining
-wailaTip.golemInhibitorMatchOmit=Mode : Omit Linked Golems
-wailaTip.golemInhibitorMatchExclusive=Mode : Linked Golems Only
-wailaTip.golem.linkedBlock=Linked to %s at %s
+wailaTip.golemInhibitorMatchOmit=Режим : Omit Linked Golems
+wailaTip.golemInhibitorMatchExclusive=Режим : Linked Golems Only
+wailaTip.golem.linkedBlock=Соединён %s на %s
 wailaTip.golem.taskFetch=Fetching Requested Items
 # wailaTip.golem.taskFetch.specific=Fetching %s %s
 wailaTip.tankFluidData=%s / %s mB of %s
