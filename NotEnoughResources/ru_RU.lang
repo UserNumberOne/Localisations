@@ -13,9 +13,15 @@ ner.config.echantsBlacklist.description=Убирает зачарования и
 
 #Usage: ner.page pageNumber ner.of lastPage
 ner.page=Страница
-ner.of=
+ner.of=из
+#X will either be "[max]" or "[min] - [max]"
 #Usage X ner.stacks
-ner.stacks=Стаков
+ner.stacks=Стаков: %s
+
+ner.lightLevel=Уровень освещения
+ner.any=Любой
+ner.dim.no=Нет доступных измерений для появления
+ner.not=Нет
 
 #Dungeon View
 ner.dungeon.title=Сундуки подземелий
@@ -44,20 +50,20 @@ ner.ore.biomes=Появляется в биомах
 ner.ore.dimensions=Допустимые измерения
 
 #Mob View
-ner.mob.title=Предметы мобов
-ner.mob.biome=Появляется в биомах: наведите сюда курсор
-ner.mob.exp=Опыт мобов
+ner.mob.title=Добыча мобов
+ner.mob.biome=Появляется в биомах: наведите курсор сюда
+ner.mob.exp=Даёт опыта
 
 #Advanced Plant View
 ner.advPlant.title=Продвинутые плоды растений
 
 #Conditionals - when translating retain '%s' as this lets the modifier be properly inserted into the string
-ner.magmaCream.text=Маленькие и большие лавовые кубы
-ner.slimeBall.text=Только маленькие слизни
-ner.rareDrop.text=Редкие вещи
+ner.magmaCream.text=Из маленьких и больших лавовых кубов
+ner.slimeBall.text=Только из маленьких слизней
+ner.rareDrop.text=Редкий предмет
 
-ner.slimeScale.text=Scales with Slime Size
-ner.kingSlime.text=Только королевские слизни
+ner.slimeScale.text=Зависит от размера слизня
+ner.kingSlime.text=Только из королевских слизней
 ner.beheading.text=Усекновение увеличивает шанс
 ner.randomAspect.text=Случайный аспект
 ner.equipmentDrop.text=Брошенное снаряжение
@@ -94,12 +100,12 @@ ner.below.text=Ниже %s уровня по Y
 ner.above.text=Выше %s уровня по Y
 ner.playerOnline.text=Когда игрок %s в сети
 ner.playerOffline.text=Когда игрок %s не в сети
-ner.playerKill.text=Убит игроком
-ner.notPlayerKill.text=Не убит игроком
+ner.playerKill.text=Если убит игроком
+ner.notPlayerKill.text=Если убит не игроком
 ner.aboveLooting.text=Мародёрство выше %s
 ner.belowLooting.text=Мародёрство ниже %s
 ner.killedBy.text=Когда убит %s
-ner.notKilledBy.text=Когда не убит %s
+ner.notKilledBy.text=Когда убит не %s
 
 #Moon Phases
 ner.full.moon=полнолуния
