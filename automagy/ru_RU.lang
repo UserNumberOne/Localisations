@@ -135,13 +135,13 @@ Automagy.research_name.SLIVERS=Обломки магии
 Automagy.research_text.SLIVERS=Фрагменты фрагментов
 Automagy.research_page.SLIVERS.1=You've developed a process to break down the various shards of primal magic into even smaller pieces. This is helpful when using a whole shard (if shards can be described as being "whole") would be unnecessary and even wasteful for the task at hand.<BR>Unfortunately, putting the pieces back together isn't quite as easy. It will take significantly more vis to produce a shard than break one down.
 
-Automagy.research_name.SLIVERS_TRAVEL=Slivers for Travel
-Automagy.research_text.SLIVERS_TRAVEL=When one's far enough
-Automagy.research_page.SLIVERS_TRAVEL.1=Slivers of magic can be used in an alternative recipe for the Paving Stone of Travel.
+Automagy.research_name.SLIVERS_TRAVEL=Обломки для путешествия
+Automagy.research_text.SLIVERS_TRAVEL=Когда довольно далеко
+Automagy.research_page.SLIVERS_TRAVEL.1=Обломки магии могут использоваться для альтернативного рецепта камня путешественника.
 
 Automagy.research_name.SLIVERS_WARDING=Slivers for Warding
 Automagy.research_text.SLIVERS_WARDING=Block a spot
-Automagy.research_page.SLIVERS_WARDING.1=Slivers of magic can be used in an alternative recipe for the Paving Stone of Warding.
+Automagy.research_page.SLIVERS_WARDING.1=Обломки магии могут использоваться для альтернативного рецепта камня сдерживания.
 
 
 Automagy.research_name.REDSTONETHEORY=Теория красного камня
